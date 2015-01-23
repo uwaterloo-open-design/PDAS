@@ -1,0 +1,334 @@
+Documentation for the Eppler program
+8/24/90  J.G.Roncz
+
+On this disk you will find these files:
+
+EPPLER.FOR  This is the FORTRAN source code for the program.
+EPPLER.EXE  This is the executable file you can run.
+EPPLOT.BAS  This is a BASIC program for plotting the results.
+EGAPLOT.EXE This is a compiled version of EPPLOT.BAS using the EGA display.
+VGAPLOT.EXE This is a compiled version of EPPLOT.BAS using the VGA display.
+PREP.BAS    This is a BASIC program which may help you prepare data sets
+	    for the EPPLER program.
+SETUP.COM   This is a utility which controls Epson-compatible printers.
+R1157.DAT   This is a test file using the design mode.
+N65418.DAT  This is a test file using airfoil coordinates.
+R1157.LST   This is a sample printout after running R1157.DAT.
+R1157.PLT   This is a sample plot file after running R1157.DAT.
+
+Your computer must have math copressor (80??7) to run the program.
+
+Richard Eppler is a pioneer in the development of computer programs which
+mathematically attempt to predict the behavior of airfoil shapes without
+using a wind tunnel.  Eppler's program was important in its time (1980)
+because few such "electronic wind tunnel" programs could account for the
+possibility of extensive laminar flow.  Eppler's program "believed" in
+laminar flow.  The program also attempts to predict the maximum lift of
+an airfoil using a very clever and simple method.  It is also quite compact,
+and takes very little computer time to run, compared to other programs.
+
+Dr. Eppler's program is a panel method.  The airfoil is modeled by breaking
+its surface into little flat panels, and then calculating the pressure
+at the center of each of these little panels.  Because it models the surface
+of the airfoil, it cannot "see" things happening above the surface.  Things
+like laminar separation bubbles, shock waves, or flow separation happen
+outside the surface of the airfoil, and make a large change in the
+performance of the airfoil  This program does not account for these things.
+
+The program was documented in NASA Technical Memorandum 80210 in 1980.
+Later, a provision was added which attempts to correct the results for the
+displacement thickness of the boundary layer.  These changes were documented
+in NASA Technical Memorandum 81862 in 1981.  Later, more changes were made
+to the program, the most major of which is a method to compute high-speed
+compressible pressure distributions (although the boundary layer analysis
+remains incompressible.)  These changes were documented in an 11 page
+letter titled "Modifications in the PROFILE-Program, June 1982."  I am
+not aware if it is available as a NASA publication, so I will explain the
+use of the MACH option so that you can use it.
+
+The program I'm giving to you includes all the changes mentioned above.  The
+exception to this is that in later versions of the program, the format for
+the airfoil coordinates was changed.  I have retained the format from NASA
+TM 80210, since I did not want to have to change all the data files I already
+had.  Second, I found and fixed a few severe programming errors in the
+program.  Third, I added two new capabilities to the program.  I will explain
+these to you later.
+
+Technical papers published by NASA and other government agencies are
+available to the public through the National Technical Information Service of
+the U.S. Department of Commerce.  Their address is NTIS, 5285 Port Royal Rd.,
+Springfield, VA 22151.  You may phone in the orders at 703-321-8000.  To
+order the publications you simply need the NASA Technical Memo number, or
+the access number.  For TM 80210 this number is N80-29254.  I'm sorry, but
+I don't know the access # for TM 81862.  You must have TM 80210 to use this
+program.
+
+PROGRAM DESCRIPTION
+
+To use the program, you must start with an airfoil shape.  This may be done
+using the design mode (TRA1 and TRA2 cards) or by feeding in the airfoil's
+coordinates.  The design mode allows you to design your own airfoil, but
+you will find it very obtuse, indirect, and hard to understand at first.
+The program then uses the instructions contained on the TRAnscendental
+equation cards, and maps a circle into an airfoil.  Having done so, the
+program is "loaded" with the airfoil shape.
+
+The other method is to feed the program existing airfoil coordinates, using
+the FXPR card.  (The word "card" refers to single lines in the input file.
+They are called cards because once upon a time they were single punched IBM
+cards.)
+
+Once the program has some airfoil coordinates to play with, you can tell
+the program to calculate the pressure distributions for one or several
+angles of attack.  This is done using the ALFA card.  In using Eppler's
+program, it is more convenient to make the angles of attack relative to
+the zero lift line (the angle of attack at which the airfoil produces zero
+lift).  In that way, 0 alpha will produce zero lift, etc.  The actual angle
+of attack which produces zero lift is printed out as ALPHA0 on the printout.
+For example, if the printout says ALPHA0 = 4.90 DEGREES, it means that the
+angle of attack which would produce zero lift is -4.90 degrees, if you
+measured the angle of attack using the chord line.  Why the program doesn't
+print out -4.90 degrees in this case is one of those mysteries of life which
+are inexplicable.  A plot of the airfoil and pressure distributions for all
+the angles of attack you chose are available by adding a DIAG card after the
+ALFA card.
+
+Having instructed the program to calculate the pressure distributions for
+at least one angle of attack, you can then proceed to the boundary layer
+calculations.  This process begins with the RE (REynolds number) card.  You
+can specify the Reynolds numbers to use in the boundary layer calculations,
+and also tell the program how to handle the transition from laminar to
+turbulent flow.  The transition criteria are called MU in the program.  For
+this program, Dr. Eppler has based his drag values on the value MU=3, which
+he calls "natural" transition.  This will give you his best guess for the
+drag and pitching moment values.  Dr. Bruce Holmes of NASA Langley has
+proven, however, that in free flight transition on small airplanes takes
+place when the laminar boundary layer separates from the surface, becomes
+turbulent off the surface, and then reattaches to the surface as a turbulent
+boundary layer.  This condition can be specified in Eppler's program by
+using MU=0.  However, while this tells you more accurately how much laminar
+flow the airfoil will have in free flight, the drag numbers will be too low,
+because Dr. Eppler chose MU=3 to calibrate his drag predictions.  You also
+may specify various levels of surface roughness, by setting MU=4 to MU=9,
+where increasing the value of MU moves the transition point increasingly
+towards the leading edge.  A final option, with MU set to 1 or 2, allows
+you to make the flow turbulent at some specified percentage of chord.
+
+The program will calculate the boundary layer development for each Reynolds
+number and transition factor you specified, at all the angles of attack
+which you specified on the preceeding ALFA card.  A plot of the boundary
+layer development is available by setting NUPA to 1 and NUPI to 1 (see the
+TM for details).  You may find that interpreting these plots is similar to
+predicting the future by examining the entrails of slaughtered sheep.
+
+Finally, after the boundary layer calculations have been done, you can plot
+out a nice diagram by including a CDCL card.  This plot has a lot of useful
+information on it, but it is hard to understand until you've spent a lot of
+time with TM 80210.  None of Eppler's plots have labels on them, so you'll
+have to put on your own once you figure out what's what.
+
+The program has other cards which allow you to deflect flaps and do other
+nifty things.  The instructions on using these are in the NASA TM's.
+
+FORTRAN expects all the numbers to be in the correct columns, so you have
+to be careful to do everything right, or the program will not work.  Since
+as a hobbyist you may be intimidated by the terse instructions in the TM's,
+I've given you a BASIC program, called PREP.BAS, which will permit you to
+enter coordinates from something like "Theory of Wing Sections", and it
+will prepare the data set by asking you questions and then creating the
+input file for you.  This will make it much easier for you to have fun
+analyzing airfoils rather than counting columns and figuring out the
+obtuse instructions for running the program.
+
+My version of the program will ask you where you want the printout (output)
+to go.  You can save this on a disk file or send it to the printer.  Since
+printers are slow, it is better to save it to a disk, and then use any
+editor of your choice to view the file.  If you copy the printout to your
+printer, or enter PRN as the output file, your printer must be set for
+condensed printing, if you have narrow paper in your printer.  The program
+SETUP.COM can help you here.  You load this program just once, by typing
+SETUP and hitting the Enter key.  Once loaded, the program remains in the
+memory until you shut off the computer.  You activate the program by holding
+down the Control key and at the same time pressing the RIGHT Shift key.  A
+menu will pop up on your screen, giving you choices for setting up your
+printer.  I find this really handy.  Pressing the Escape key returns your
+computer to whatever it was doing before you invoked the SETUP menu.
+
+ADDED FEATURES
+
+I have added 2 new capabilities to this program.  The first of these is
+a way to make a symmetrical airfoil from a cambered airfoil.  It is quite
+tedious to use the TRA cards to design a symmetrical airfoil, I found.  So
+I have added a SYM card to do this.  To use it, first you put in some airfoil
+shape using either the design mode (TRA1 & 2) or coordinates (FXPR).  Then
+you put in a SYM card (there are no numbers on this card).  The airfoil
+will be changed to a symmetrical airfoil for you.  Note that the program
+will not automatically analyze this new shape.  To do this you must follow
+the SYM card with a PAN card, which initiates the panel method.
+
+The second card I added is the SCAL card.  This permits you to change the
+thickness/chord ratio of the airfoil you've loaded.  For example, if the
+airfoil you've designed or picked is 13% thick, and you need 13.456% to
+get the right spar depth, the SCAL card will scale the airfoil to the
+thickness you select.  Again, you must use a PAN card to begin the analysis
+of the new airfoil.  To use this card, you put the new airfoil thickness
+in columns 11 to 15.  This number is the thickness in percent times 1000.
+For example, if you want the airfoil to be 12.345% thick, the card reads:
+12345678901234567890   - this shows the column locations you must use.
+SCAL      12345
+
+To make it easier to save the coordinates of an airfoil which has been
+attacked by the SYM or SCAL cards, I have usen the pre-existing PUXY card.
+If you put a PUXY card somewhere after a SCAL or SYM card, then the airfoil
+coordinates of the modified airfoil will be saved to your disk using the
+file name PUXY.DAT.  You can then edit these new coordinates for use later
+on.
+
+The file R1157.DAT demonstrates the use of these cards.  This is a very
+early (1982) version of a very low drag airfoil, which eventually led to
+the airfoils I designed for the Catbird and the Pond Racer, which have less
+than 30 drag counts (.0030) in cruise.
+
+THE MACH CARD
+
+Since the documentation for this may not be available publicly, I will
+show you how to use this card.  The card begins with the word MACH in
+columns 1 thru 4.  In columns 13 thru 15 you put the Mach number multiplied
+by 100.  For example, if you want your airfoil analyzed at Mach .45, the
+card would read
+12345678901234567890   - this shows the column locations you must use.
+MACH        450
+You put this card in after the TRA cards or FXPR card, and before the ALFA
+and RE cards.  The MACH card forces the program to do 2 panel method
+solutions, so don't be alarmed if your computer doesn't talk to you for a
+while.
+
+
+PLOTTING THE RESULTS
+
+If you have chosen to produce plots of the results, which you should do,
+my version of the program will ask you to give it a file name to store the
+plots.  After the program has finished, you can view the plots on your
+screen.  To do this, I wrote a simple BASIC program called EPPLOT.BAS.  I
+gave you the source code for this so that you can modify it any way you
+want to.  If you have a VGA display, you can use this higher resolution.
+See the program for details.  Because my version of the BASIC interpreter
+will not support VGA graphics, I compiled the program using Microsoft
+QuickBASIC version 4.5, which does support VGA graphics.  This program is
+called VGAPLOT.EXE, which is an executable file.  I also compiled the
+program for the EGA monitor, and called the result EGAPLOT.EXE.  The
+compiled versions run much faster.  If you want to copy the plot from the
+screen onto your Epson-compatible printer, you must first load the program
+GRAPHICS which comes with DOS.  After the plot appears on the screen, you
+can press the Shift key and the Print Screen key at the same time.  This
+will send the picture to your printer.  The GRAPHICS program which came
+with DOS 3.31, which I use, does not correctly do VGA graphics on the
+printer.  If you cannot make a correct plot on the printer using VGAPLOT,
+you'll have to use EGAPLOT instead.
+
+FINAL NOTES
+
+I'm giving you these programs for free, because I believe that the EAA
+ought to be an organization in which people freely share their knowledge
+with others.  I do not think of you as a way to make money.  This program
+is, to the best of my knowledge, the same or better than the program
+Airfoil II which someone sells for nearly $400.  My opinion of that is
+unprintable!  Please feel free to copy these files and give them to your
+friends.  YOU MAY NOT, UNDER ANY CIRCUMSTANCES, CHARGE ANYONE FOR THESE
+PROGRAMS!  If you do, first I will have you killed, and then I will come
+and personally piss on your grave!
+
+A WORD OF CAUTION
+
+While the Eppler program was a breakthrough in its time, it is known to have
+several problems.  The main reason I stopped using it several years ago was
+that it is quite easy to "fool" the program into predicting lower drag and
+higher lift.  This can be done by playing with the trailing edge
+region.  The program does not (in my experience) handle trailing edges
+accurately.  Beware of airfoils designed with this program which have a
+convex upper surface near the trailing edge.  This will make the program
+predict much higher lift.  However, it won't fool Mother Nature!
+
+You must pay close attention to the value of S SEP in the boundary layer
+summary in the printout.  This gives the percentage of the surface length
+which has separated flow.  If this value is much over 5% (.0500) then the
+predicted lift and drag cannot be trusted.  I've given you the coordinates
+for the NACA 65-418 airfoil, whose wind tunnel results are available in
+"Theory of Wing Sections."  As I demonstrated in my forum at Oshkosh '90,
+Eppler's program overpredicts the maximum lift by more than 50% when
+compared to the wind tunnel test results.  Please verify this for yourself
+by running the case contained in N65418.DAT and comparing it with the
+wind tunnel results in "Theory of Wing Sections."
+
+While the program does calculate the boundary layer thickness, it does not
+calculate the effects of this extra thickness on the performance of the
+airfoil.  Therefore, for thicker airfoils or lower Reynolds numbers, it
+gives incorrect results which can be very severely wrong.  If you used
+a false high value of CL,max (maximum lift coefficient) to size your wing,
+then your stall speed would be much higher than you wanted.
+
+My suggestion is that before you start modifying airfoils or designing your
+own, you run 20 to 30 cases using existing airfoils, and compare the
+predicted performance to measurements in a wind tunnel.  Only then will you
+be able to interpret the results of this program.
+
+EXAMPLE
+
+The file R1157.DAT will do all these things:
+
+An airfoil is designed using the design mode.  It's shape is determined
+using the TRA1 and TRA2 cards.  Next, the airfoil is scaled to 13% thick,
+using the SCAL card.  This 13% thick airfoil is analyzed using the panel
+method (PAN card).  The coordinates for this 13% thick airfoil are saved
+to the disk using the filename PUXY.DAT (PUXY card).  Pressure distributions
+are computed for 13 specified angles of attack (ALFA card).  A plot file
+is created to plot up these pressure distributions and airfoil shape (DIAG
+card).  Boundary layers are calculated at a Reynolds number of 5 million
+using 3 transition methods:  transition at the laminar separation point,
+Eppler's "natural" transition, and with transition fixed at the leading
+edge (RE card).  Next, a plot is created showing the boundary layer results
+(CDCL card).  Then, the airfoil shape is changed to a symmetrical airfoil
+(SYM card).  This symmetrical version is analyzed using the panel method
+(PAN card).  Next we specify that all subsequent analysis will be done
+at Mach = .45 (MACH card).  We ask for pressure distributions at 4 angles
+of attack, followed by a plot of the results (ALFA & DIAG cards).  Then
+we ask for boundary layers for 3 transition locations at a Reynolds number
+of 5 million, and a plot of the results (RE and CDCL cards). Finally, we
+tell the program that we are finished (ENDE card). Hopefully this example
+will give you an idea of how these cards are used in practice.  Note that
+in this example, we never save the coordinates of the symmetrical airfoil,
+because we can't use 2 PUXY cards (the 2nd would overwrite the 1st).
+
+TRA1  1157  350  000  850-1580 1050-3540 1250  460 1350  435 2150  425 2450  415
+TRA1  1157 2750  400 2850  680 2950 1280 0000 1880 3250  210 3350  190 3550  170
+TRA1  1157 3750  150 3850  145 4450  140 5050  180 5350  800 5550  400 6000  000
+TRA2  1157  150 1050  200  580  930  150  950  200 1250  950  500  200
+SCAL      13000
+PAN
+PUXY
+ALFA    13  000  100  200  300  400  500  600  800 1000 1200 1400 1600 1800
+DIAG
+RE  110    0000 5000 3000 5000 1000 5000
+CDCL
+SYM
+PAN
+MACH        450
+ALFA     4  000  100  200  300
+DIAG
+RE  110    0000 5000 3000 5000 1000 5000
+CDCL
+ENDE
+
+You should run this sample case on your computer, and compare the results
+to the sample output files provided.  This will verify that all is well
+with your computer.
+
+Unfortunately, I cannot answer your questions about this program or support
+you beyond giving you these tools.  There are too many of you and only one
+of me!
+
+I hope you have a lot of fun learning about airfoils!
+
+John Roncz
+Granger, Indiana
+August, 1990

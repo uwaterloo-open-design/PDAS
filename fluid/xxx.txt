@@ -1,0 +1,2750 @@
+
+C:\Users\PDAS\PDAS\cdrom>cd C:\Users\PDAS\PDAS\2wgs 
+
+C:\Users\PDAS\PDAS\2wgs>del   C:\Users\PDAS\PDAS\html\packages\2wgs.zip 
+
+C:\Users\PDAS\PDAS\2wgs>7za u C:\Users\PDAS\PDAS\html\packages\2wgs.zip  *.inp *.wgs *.mk5 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive C:\Users\PDAS\PDAS\html\packages\2wgs.zip
+
+Compressing  swb.inp
+Compressing  swb.wgs
+Compressing  tnd4211.inp
+Compressing  tnd4211.wgs
+Compressing  tnd6480.mk5
+Compressing  tnd6480.wgs
+Compressing  tnd7505.inp
+Compressing  tnd7505.wgs
+Compressing  tp2608.mk5
+Compressing  tp2608.wgs
+Compressing  wdcase1.inp
+Compressing  wdcase1.wgs
+
+Everything is Ok
+
+C:\Users\PDAS\PDAS\2wgs>cd V16 
+
+C:\Users\PDAS\PDAS\2wgs\V16>7za u C:\Users\PDAS\PDAS\html\packages\2wgs.zip *.f90 readme?.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive C:\Users\PDAS\PDAS\html\packages\2wgs.zip
+
+Compressing  a5022wgs.f90
+Compressing  hab2wgs.f90
+Compressing  readme1.txt
+Compressing  readme2.txt
+Compressing  readme3.txt
+Compressing  readme4.txt
+Compressing  wb2wgs.f90
+Compressing  wd2wgs.f90
+
+Everything is Ok
+
+C:\Users\PDAS\PDAS\2wgs\V16>if "" == "exe" 7za u C:\Users\PDAS\PDAS\html\packages\2wgs.zip *.exe *.mac *.lnx 
+
+C:\Users\PDAS\PDAS\2wgs\V16>cd C:\Users\PDAS\PDAS\3view 
+
+C:\Users\PDAS\PDAS\3view>del   c:\Users\PDAS\PDAS\html\packages\3view.zip 
+
+C:\Users\PDAS\PDAS\3view>7za u c:\Users\PDAS\PDAS\html\packages\3view.zip  *.wgs 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\3view.zip
+
+Compressing  tnd4211.wgs
+Compressing  tnd7505.wgs
+Compressing  wbf.wgs
+Compressing  wdcase1.wgs
+
+Everything is Ok
+
+C:\Users\PDAS\PDAS\3view>cd V16 
+
+C:\Users\PDAS\PDAS\3view\V16>7za u c:\Users\PDAS\PDAS\html\packages\3view.zip 3view.f90 readme.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\3view.zip
+
+Compressing  3view.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+C:\Users\PDAS\PDAS\3view\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\3view.zip 3view.exe 3view.mac 3view.lnx 
+
+C:\Users\PDAS\PDAS\3view\V16>cd c:\Users\PDAS\PDAS\abaxi 
+
+c:\Users\PDAS\PDAS\abaxi>del   c:\Users\PDAS\PDAS\html\packages\abaxi.zip 
+
+c:\Users\PDAS\PDAS\abaxi>7za u c:\Users\PDAS\PDAS\html\packages\abaxi.zip lar11049.txt original.src tmcase*.inp tmcase*.out 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\abaxi.zip
+
+Compressing  lar11049.txt
+Compressing  original.src
+Compressing  tmcase1.inp
+Compressing  tmcase1.out
+Compressing  tmcase2.inp
+Compressing  tmcase2.out
+Compressing  tmcase3.inp
+Compressing  tmcase3.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\abaxi>cd V16 
+
+c:\Users\PDAS\PDAS\abaxi\V16>7za u c:\Users\PDAS\PDAS\html\packages\abaxi.zip abaxi.f90 readme.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\abaxi.zip
+
+Compressing  abaxi.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\abaxi\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\abaxi.zip abaxi.exe abaxi.mac abaxi.lnx 
+
+c:\Users\PDAS\PDAS\abaxi\V16>cd c:\Users\PDAS\PDAS\ablate 
+
+c:\Users\PDAS\PDAS\ablate>del   c:\Users\PDAS\PDAS\html\packages\ablate.zip 
+
+c:\Users\PDAS\PDAS\ablate>7za u c:\Users\PDAS\PDAS\html\packages\ablate.zip lew00240.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\ablate.zip
+
+Compressing  lew00240.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\ablate>7za u c:\Users\PDAS\PDAS\html\packages\ablate.zip case*.inp case*.out ablate.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\ablate.zip
+
+Compressing  ablate.f90
+Compressing  case1.inp
+Compressing  case1.out
+Compressing  case2.inp
+Compressing  case2.out
+Compressing  case5.inp
+Compressing  case5.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\ablate>cd c:\Users\PDAS\PDAS\aipp 
+
+c:\Users\PDAS\PDAS\aipp>del   c:\Users\PDAS\PDAS\html\packages\aipp.zip 
+
+c:\Users\PDAS\PDAS\aipp>7za u c:\Users\PDAS\PDAS\html\packages\aipp.zip lar12203.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\aipp.zip
+
+Compressing  lar12203.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\aipp>7za u c:\Users\PDAS\PDAS\html\packages\aipp.zip aipp.f90 case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\aipp.zip
+
+Compressing  aipp.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\aipp>cd c:\Users\PDAS\PDAS\anduct 
+
+c:\Users\PDAS\PDAS\anduct>del   c:\Users\PDAS\PDAS\html\packages\anduct.zip 
+
+c:\Users\PDAS\PDAS\anduct>7za u c:\Users\PDAS\PDAS\html\packages\anduct.zip lew14000.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\anduct.zip
+
+Compressing  lew14000.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\anduct>7za u c:\Users\PDAS\PDAS\html\packages\anduct.zip case*.inp case*.out anduct.f90  
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\anduct.zip
+
+Compressing  anduct.f90
+Compressing  case1.inp
+Compressing  case1.out
+Compressing  case2.inp
+Compressing  case2.out
+Compressing  case3.inp
+Compressing  case3.out
+Compressing  case4.inp
+Compressing  case4.out
+Compressing  case6.inp
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\anduct>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\abaxi.zip anduct.exe anduct.mac anduct.lnx 
+
+c:\Users\PDAS\PDAS\anduct>cd c:\Users\PDAS\PDAS\aofa 
+
+c:\Users\PDAS\PDAS\aofa>del   c:\Users\PDAS\PDAS\html\packages\aofa.zip 
+
+c:\Users\PDAS\PDAS\aofa>7za u c:\Users\PDAS\PDAS\html\packages\aofa.zip arc11087.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\aofa.zip
+
+Compressing  arc11087.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\aofa>7za u c:\Users\PDAS\PDAS\html\packages\aofa.zip aofa.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\aofa.zip
+
+Compressing  aofa.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\aofa>cd c:\Users\PDAS\PDAS\aries 
+
+c:\Users\PDAS\PDAS\aries>del   c:\Users\PDAS\PDAS\html\packages\aries.zip 
+
+c:\Users\PDAS\PDAS\aries>7za u c:\Users\PDAS\PDAS\html\packages\aries.zip msc20816.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\aries.zip
+
+Compressing  msc20816.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\aries>7za u c:\Users\PDAS\PDAS\html\packages\aries.zip readme.txt case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\aries.zip
+
+Compressing  case1.inp
+Compressing  case1.out
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\aries>cd c:\Users\PDAS\PDAS\atc 
+
+c:\Users\PDAS\PDAS\atc>del   c:\Users\PDAS\PDAS\html\packages\atc.zip 
+
+c:\Users\PDAS\PDAS\atc>7za u c:\Users\PDAS\PDAS\html\packages\atc.zip arc11132.txt original.src  
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\atc.zip
+
+Compressing  arc11132.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\atc>cd V15 
+
+c:\Users\PDAS\PDAS\atc\V15>7za u c:\Users\PDAS\PDAS\html\packages\atc.zip readme.txt atc.f90 *.inp *.out 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\atc.zip
+
+Compressing  atc.f90
+Compressing  atc.out
+Compressing  case1.inp
+Compressing  case1.out
+Compressing  plot.inp
+Compressing  radar.inp
+Compressing  readme.txt
+Compressing  wind.inp
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\atc\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\atc.zip atc.exe atc.mac atc.lnx 
+
+c:\Users\PDAS\PDAS\atc\V15>cd c:\Users\PDAS\PDAS\atmos 
+
+c:\Users\PDAS\PDAS\atmos>del   C:\Users\PDAS\PDAS\html\packages\atmos.zip 
+
+c:\Users\PDAS\PDAS\atmos>7za u c:\Users\PDAS\PDAS\html\packages\atmos.zip at62.for coesa.txt language.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\atmos.zip
+
+Compressing  at62.for
+Compressing  coesa.txt
+Compressing  language.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\atmos>7za u c:\Users\PDAS\PDAS\html\packages\atmos.zip *.f90 uasa*.* ussa*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\atmos.zip
+
+Compressing  atmos76.f90
+Compressing  bb.f90
+Compressing  bbtraj.f90
+Compressing  bigtable.f90
+Compressing  ex210.f90
+Compressing  ex210Dec3.f90
+Compressing  hotcold.f90
+Compressing  hotcold1.f90
+Compressing  hotcold2.f90
+Compressing  jump.f90
+Compressing  milstd210.f90
+Compressing  nonStandard.f90
+Compressing  tables76.f90
+Compressing  uasa2000.dpr
+Compressing  uasa2000.exe
+Compressing  uasa2000.pas
+Compressing  upper2.f90
+Compressing  upperfigs.f90
+Compressing  ussa1976.dpr
+Compressing  ussa1976.pas
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\atmos>7za u c:\Users\PDAS\PDAS\html\packages\atmos.zip us?.prt si?.prt  
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\atmos.zip
+
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\atmos>7za u c:\Users\PDAS\PDAS\html\packages\atmos.zip press.dpr atmtabs.htm bigtable.out 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\atmos.zip
+
+Compressing  atmtabs.htm
+Compressing  bigtable.out
+Compressing  press.dpr
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\atmos>cd V16 
+
+c:\Users\PDAS\PDAS\atmos\V16>7za u c:\Users\PDAS\PDAS\html\packages\atmos.zip readme.txt tables.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\atmos.zip
+
+Compressing  readme.txt
+Compressing  tables.bas
+Compressing  tables.c
+Compressing  tables.cpp
+Compressing  tables.dpr
+Compressing  tables.f90
+Compressing  tables.for
+Compressing  tables.java
+Compressing  tables.jpr
+Compressing  tables.py
+Compressing  tables.txt
+Compressing  tables.vbp
+Compressing  tables.vbw
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\atmos\V16>cd c:\Users\PDAS\PDAS\boom 
+
+c:\Users\PDAS\PDAS\boom>del   c:\Users\PDAS\PDAS\html\packages\boom.zip 
+
+c:\Users\PDAS\PDAS\boom>7za u c:\Users\PDAS\PDAS\html\packages\boom.zip original.src case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\boom.zip
+
+Compressing  case1.inp
+Compressing  case1.out
+Compressing  case1b.out
+Compressing  case2.inp
+Compressing  case2.out
+Compressing  case2a.out
+Compressing  cases.inp
+Compressing  cases.out
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\boom>cd V16 
+
+c:\Users\PDAS\PDAS\boom\V16>7za u c:\Users\PDAS\PDAS\html\packages\boom.zip readme.txt boom.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\boom.zip
+
+Compressing  boom.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\boom\V16>cd c:\Users\PDAS\PDAS\cas2d 
+
+c:\Users\PDAS\PDAS\cas2d>del   c:\Users\PDAS\PDAS\html\packages\cas2d.zip 
+
+c:\Users\PDAS\PDAS\cas2d>7za u c:\Users\PDAS\PDAS\html\packages\cas2d.zip lew13854.txt original.src readme.txt cas2d.f 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\cas2d.zip
+
+Compressing  cas2d.f
+Compressing  lew13854.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\cas2d>cd c:\Users\PDAS\PDAS\celest 
+
+c:\Users\PDAS\PDAS\celest>del   c:\Users\PDAS\PDAS\html\packages\celest.zip 
+
+c:\Users\PDAS\PDAS\celest>7za u c:\Users\PDAS\PDAS\html\packages\celest.zip original.src celest.f90  
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\celest.zip
+
+Compressing  celest.f90
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\celest>7za u c:\Users\PDAS\PDAS\html\packages\celest.zip readme.txt tables.f90 table?.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\celest.zip
+
+Compressing  readme.txt
+Compressing  table1.txt
+Compressing  table2.txt
+Compressing  table3.txt
+Compressing  table4.txt
+Compressing  table5.txt
+Compressing  tables.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\celest>cd c:\Users\PDAS\PDAS\coldarc 
+
+c:\Users\PDAS\PDAS\coldarc>del   c:\Users\PDAS\PDAS\html\packages\coldarc.zip 
+
+c:\Users\PDAS\PDAS\coldarc>7za u c:\Users\PDAS\PDAS\html\packages\coldarc.zip msc20522.txt original.src blank.cmn 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\coldarc.zip
+
+Compressing  blank.cmn
+Compressing  msc20522.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\coldarc>7za u c:\Users\PDAS\PDAS\html\packages\coldarc.zip readme.txt input.txt coldarc.f90 case1.inp 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\coldarc.zip
+
+Compressing  case1.inp
+Compressing  coldarc.f90
+Compressing  input.txt
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\coldarc>cd c:\Users\PDAS\PDAS\conplot 
+
+c:\Users\PDAS\PDAS\conplot>del   c:\Users\PDAS\PDAS\html\packages\conplot.zip 
+
+c:\Users\PDAS\PDAS\conplot>7za u c:\Users\PDAS\PDAS\html\packages\conplot.zip  arc11441.txt readme.txt original.src  
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\conplot.zip
+
+Compressing  arc11441.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\conplot>7za u c:\Users\PDAS\PDAS\html\packages\conplot.zip  conplot.f90 test*.f90 test2*.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\conplot.zip
+
+Compressing  conplot.f90
+Compressing  test1.f90
+Compressing  test2.f90
+Compressing  test2con.txt
+Compressing  test2dat.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\conplot>cd c:\Users\PDAS\PDAS\contour 
+
+c:\Users\PDAS\PDAS\contour>del   c:\Users\PDAS\PDAS\html\packages\contour.zip 
+
+c:\Users\PDAS\PDAS\contour>7za u c:\Users\PDAS\PDAS\html\packages\contour.zip  lar10872.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\contour.zip
+
+Compressing  lar10872.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\contour>cd c:\Users\PDAS\PDAS\corel 
+
+c:\Users\PDAS\PDAS\corel>del   c:\Users\PDAS\PDAS\html\packages\corel.zip 
+
+c:\Users\PDAS\PDAS\corel>7za u c:\Users\PDAS\PDAS\html\packages\corel.zip lar13239.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\corel.zip
+
+Compressing  lar13239.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\corel>7za u c:\Users\PDAS\PDAS\html\packages\corel.zip readme.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\corel.zip
+
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\corel>cd c:\Users\PDAS\PDAS\datcom 
+
+c:\Users\PDAS\PDAS\datcom>del   c:\Users\PDAS\PDAS\html\packages\datcom.zip 
+
+c:\Users\PDAS\PDAS\datcom>7za u c:\Users\PDAS\PDAS\html\packages\datcom.zip  namelist.pdf ex*.zip appc.pdf 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\datcom.zip
+
+Compressing  exlinux.zip
+Compressing  exmac.zip
+Compressing  exwin.zip
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\datcom>cd V15 
+
+c:\Users\PDAS\PDAS\datcom\V15>7za u c:\Users\PDAS\PDAS\html\packages\datcom.zip  readme.txt  source.zip  
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\datcom.zip
+
+Compressing  readme.txt
+Compressing  source.zip
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\datcom\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\datcom.zip  datcom.*  
+
+c:\Users\PDAS\PDAS\datcom\V15>cd c:\Users\PDAS\PDAS\diffprob 
+
+c:\Users\PDAS\PDAS\diffprob>del   c:\Users\PDAS\PDAS\html\packages\diffprob.zip 
+
+c:\Users\PDAS\PDAS\diffprob>7za u c:\Users\PDAS\PDAS\html\packages\diffprob.zip readme.txt *.f90 *.out *.pdf 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\diffprob.zip
+
+Compressing  areash.f90
+Compressing  areash.out
+Compressing  areash.pdf
+Compressing  areash2.pdf
+Compressing  geopot.pdf
+Compressing  hydro.pdf
+Compressing  maxramp.f90
+Compressing  maxramp.out
+Compressing  maxramp1.pdf
+Compressing  maxramp2.pdf
+Compressing  oshock.f90
+Compressing  oshock.out
+Compressing  oshock1.pdf
+Compressing  oshock2.pdf
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\diffprob>cd c:\Users\PDAS\PDAS\diverge 
+
+c:\Users\PDAS\PDAS\diverge>del   c:\Users\PDAS\PDAS\html\packages\diverge.zip 
+
+c:\Users\PDAS\PDAS\diverge>7za u c:\Users\PDAS\PDAS\html\packages\diverge.zip  lar12004.txt  original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\diverge.zip
+
+Compressing  lar12004.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\diverge>cd V15 
+
+c:\Users\PDAS\PDAS\diverge\V15>7za u c:\Users\PDAS\PDAS\html\packages\diverge.zip  readme.txt diverge.f90 case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\diverge.zip
+
+Compressing  case1.inp
+Compressing  case1.out
+Compressing  case2.inp
+Compressing  case2.out
+Compressing  diverge.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\diverge\V15>cd c:\Users\PDAS\PDAS\elastic 
+
+c:\Users\PDAS\PDAS\elastic>del   c:\Users\PDAS\PDAS\html\packages\elastic.zip 
+
+c:\Users\PDAS\PDAS\elastic>7za u c:\Users\PDAS\PDAS\html\packages\elastic.zip lar11602.txt readme.txt a*.for 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\elastic.zip
+
+Compressing  lar11602.txt
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\elastic>cd c:\Users\PDAS\PDAS\eppler 
+
+c:\Users\PDAS\PDAS\eppler>del   c:\Users\PDAS\PDAS\html\packages\eppler.zip 
+
+c:\Users\PDAS\PDAS\eppler>7za u c:\Users\PDAS\PDAS\html\packages\eppler.zip  e1098.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\eppler.zip
+
+Compressing  e1098.dat
+Compressing  e1098.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\eppler>cd V15 
+
+c:\Users\PDAS\PDAS\eppler\V15>7za u c:\Users\PDAS\PDAS\html\packages\eppler.zip  readme.txt profile.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\eppler.zip
+
+Compressing  profile.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\eppler\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\eppler.zip  profile.exe profile.mac profile.lnx 
+
+c:\Users\PDAS\PDAS\eppler\V15>cd c:\Users\PDAS\PDAS\exhaust 
+
+c:\Users\PDAS\PDAS\exhaust>del   c:\Users\PDAS\PDAS\html\packages\exhaust.zip 
+
+c:\Users\PDAS\PDAS\exhaust>7za u c:\Users\PDAS\PDAS\html\packages\exhaust.zip lar11596.txt readme.txt original.src nozzle.for 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\exhaust.zip
+
+Compressing  lar11596.txt
+Compressing  nozzle.for
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\exhaust>cd c:\Users\PDAS\PDAS\fairdata 
+
+c:\Users\PDAS\PDAS\fairData>del   c:\Users\PDAS\PDAS\html\packages\fairdata.zip 
+
+c:\Users\PDAS\PDAS\fairData>7za u c:\Users\PDAS\PDAS\html\packages\fairdata.zip  case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\fairdata.zip
+
+Compressing  case1.nml
+Compressing  case1.out
+Compressing  case1.txt
+Compressing  case1a.nml
+Compressing  case1a.txt
+Compressing  case1b.nml
+Compressing  case2.nml
+Compressing  case2.txt
+Compressing  case2a.nml
+Compressing  case2a.txt
+Compressing  case3.nml
+Compressing  case3.txt
+Compressing  case3a.nml
+Compressing  case4.nml
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\fairData>cd V16 
+
+c:\Users\PDAS\PDAS\fairData\V16>7za u c:\Users\PDAS\PDAS\html\packages\fairdata.zip  readme.txt fair.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\fairdata.zip
+
+Compressing  fair.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\fairData\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\fairdata.zip  fair.exe fair.mac fair.lnx 
+
+c:\Users\PDAS\PDAS\fairData\V16>cd c:\Users\PDAS\PDAS\fluid 
+
+c:\Users\PDAS\PDAS\fluid>del   c:\Users\PDAS\PDAS\html\packages\fluid.zip 
+
+c:\Users\PDAS\PDAS\fluid>7za u c:\Users\PDAS\PDAS\html\packages\fluid.zip  lew14418.txt original.zip 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\fluid.zip
+
+Compressing  lew14418.txt
+Compressing  original.zip
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\fluid>cd V15 
+
+c:\Users\PDAS\PDAS\fluid\V15>7za u c:\Users\PDAS\PDAS\html\packages\fluid.zip  *.txt *.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\fluid.zip
+
+Compressing  ar.f90
+Compressing  ch4.f90
+Compressing  co2.f90
+Compressing  cubic.f90
+Compressing  dryair.f90
+Compressing  f2.f90
+Compressing  fluid.f90
+Compressing  futil.f90
+Compressing  gases.f90
+Compressing  instr.txt
+Compressing  n2.f90
+Compressing  ntrp.f90
+Compressing  o2.f90
+Compressing  ph2.f90
+Compressing  readme.txt
+Compressing  sample.f90
+Compressing  samprlc.f90
+Compressing  steam.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\fluid\V15>cd c:\Users\PDAS\PDAS\flutter 
+
+c:\Users\PDAS\PDAS\flutter>del   c:\Users\PDAS\PDAS\html\packages\flutter.zip 
+
+c:\Users\PDAS\PDAS\flutter>7za u c:\Users\PDAS\PDAS\html\packages\flutter.zip readme.txt *.f90 *.inc case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\flutter.zip
+
+Compressing  blk.inc
+Compressing  case1.dat
+Compressing  case1.inp
+Compressing  case2.dat
+Compressing  flutter.f90
+Compressing  readme.txt
+Compressing  wws.inc
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\flutter>cd c:\Users\PDAS\PDAS\fmm 
+
+c:\Users\PDAS\PDAS\fmm>del   c:\Users\PDAS\PDAS\html\packages\fmm.zip 
+
+c:\Users\PDAS\PDAS\fmm>7za u c:\Users\PDAS\PDAS\html\packages\fmm.zip original.src readme.txt *.f90 *.out 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\fmm.zip
+
+Compressing  fmm.f90
+Compressing  original.src
+Compressing  readme.txt
+Compressing  samples.f90
+Compressing  samples.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\fmm>cd c:\Users\PDAS\PDAS\fsd 
+
+c:\Users\PDAS\PDAS\fsd>del   c:\Users\PDAS\PDAS\html\packages\fsd.zip 
+
+c:\Users\PDAS\PDAS\fsd>7za u c:\Users\PDAS\PDAS\html\packages\fsd.zip gsc13006.txt original.src library.pas readme.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\fsd.zip
+
+Compressing  gsc13006.txt
+Compressing  library.pas
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\fsd>cd c:\Users\PDAS\PDAS\gasp 
+
+c:\Users\PDAS\PDAS\gasp>del   c:\Users\PDAS\PDAS\html\packages\gasp.zip 
+
+c:\Users\PDAS\PDAS\gasp>7za u c:\Users\PDAS\PDAS\html\packages\gasp.zip  lew11629.txt original.src  
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\gasp.zip
+
+Compressing  lew11629.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\gasp>cd V15 
+
+c:\Users\PDAS\PDAS\gasp\V15>7za u c:\Users\PDAS\PDAS\html\packages\gasp.zip  readme.txt g.for prob?.f90 prob*.out sample*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\gasp.zip
+
+Compressing  g.for
+Compressing  prob1.f90
+Compressing  prob2.f90
+Compressing  prob3.f90
+Compressing  prob4.f90
+Compressing  prob5.f90
+Compressing  problem1.out
+Compressing  problem2.out
+Compressing  problem3.out
+Compressing  problem4.out
+Compressing  readme.txt
+Compressing  sample1.for
+Compressing  sample1.out
+Compressing  sample2.for
+Compressing  sample2.out
+Compressing  sample3.for
+Compressing  sample3.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\gasp\V15>cd c:\Users\PDAS\PDAS\getmac 
+
+c:\Users\PDAS\PDAS\getmac>del   c:\Users\PDAS\PDAS\html\packages\getmac.zip 
+
+c:\Users\PDAS\PDAS\getmac>7za u c:\Users\PDAS\PDAS\html\packages\getmac.zip  input.txt cases.* b2.* f117.* ofw.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\getmac.zip
+
+Compressing  input.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\getmac>cd c:\Users\PDAS\PDAS\getmac\V15 
+
+c:\Users\PDAS\PDAS\getmac\V15>7za u c:\Users\PDAS\PDAS\html\packages\getmac.zip  readme.txt getmac.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\getmac.zip
+
+Compressing  getmac.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\getmac\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\getmac.zip  getmac.exe getmac.mac getmac.lnx 
+
+c:\Users\PDAS\PDAS\getmac\V15>cd c:\Users\PDAS\PDAS\goptics 
+
+c:\Users\PDAS\PDAS\goptics>del   c:\Users\PDAS\PDAS\html\packages\goptics.zip 
+
+c:\Users\PDAS\PDAS\goptics>7za u c:\Users\PDAS\PDAS\html\packages\goptics.zip readme.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\goptics.zip
+
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\goptics>cd c:\Users\PDAS\PDAS\goptics\gsc12823 
+
+c:\Users\PDAS\PDAS\goptics\gsc12823>7za u c:\Users\PDAS\PDAS\html\packages\goptics.zip gsc12823.txt geno84.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\goptics.zip
+
+Compressing  geno84.f90
+Compressing  gsc12823.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\goptics\gsc12823>cd c:\Users\PDAS\PDAS\grape 
+
+c:\Users\PDAS\PDAS\grape>del c:\Users\PDAS\PDAS\html\packages\grape.zip 
+
+c:\Users\PDAS\PDAS\grape>7za u c:\Users\PDAS\PDAS\html\packages\grape.zip arc11379.txt original.src readme.txt grape.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\grape.zip
+
+Compressing  arc11379.txt
+Compressing  grape.f90
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\grape>7za u c:\Users\PDAS\PDAS\html\packages\grape.zip case*.inp case*.out 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\grape.zip
+
+Compressing  case1.inp
+Compressing  case1.out
+Compressing  case2.inp
+Compressing  case2.out
+Compressing  case3.inp
+Compressing  case3.out
+Compressing  case4.inp
+Compressing  case4.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\grape>cd c:\Users\PDAS\PDAS\hlp 
+
+c:\Users\PDAS\PDAS\hlp>del   c:\Users\PDAS\PDAS\html\packages\hlp.zip 
+
+c:\Users\PDAS\PDAS\hlp>7za u c:\Users\PDAS\PDAS\html\packages\hlp.zip  input.txt arc12721.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\hlp.zip
+
+Compressing  arc12721.txt
+Compressing  input.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\hlp>cd V16 
+
+c:\Users\PDAS\PDAS\hlp\V16>7za u c:\Users\PDAS\PDAS\html\packages\hlp.zip  readme.txt hlp.f90 drh.cmn 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\hlp.zip
+
+Compressing  drh.cmn
+Compressing  hlp.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\hlp\V16>7za u c:\Users\PDAS\PDAS\html\packages\hlp.zip  *.wgs  
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\hlp.zip
+
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\hlp\V16>7za u c:\Users\PDAS\PDAS\html\packages\hlp.zip  danplot.exe dpr.xls 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\hlp.zip
+
+Compressing  danplot.exe
+Compressing  dpr.xls
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\hlp\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\hlp.zip  hlp.exe hlp.mac hlp.lnx 
+
+c:\Users\PDAS\PDAS\hlp\V16>cd c:\Users\PDAS\PDAS\hyper 
+
+c:\Users\PDAS\PDAS\hyper>del   c:\Users\PDAS\PDAS\html\packages\hyper.zip 
+
+c:\Users\PDAS\PDAS\hyper>7za u c:\Users\PDAS\PDAS\html\packages\hyper.zip  input.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\hyper.zip
+
+Compressing  input.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\hyper>7za u c:\Users\PDAS\PDAS\html\packages\hyper.zip  tmx1242.* tnd6480.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\hyper.zip
+
+Compressing  tmx1242.dbg
+Compressing  tmx1242.inp
+Compressing  tmx1242.mak
+Compressing  tmx1242.out
+Compressing  tmx1242.wgs
+Compressing  tnd6480.dbg
+Compressing  tnd6480.inp
+Compressing  tnd6480.mak
+Compressing  tnd6480.out
+Compressing  tnd6480.wgs
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\hyper>cd V16 
+
+c:\Users\PDAS\PDAS\hyper\V16>7za u c:\Users\PDAS\PDAS\html\packages\hyper.zip  readme.txt hyper.f90 methods.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\hyper.zip
+
+Compressing  hyper.f90
+Compressing  methods.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\hyper\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\induced.zip  hyper.exe hyper.mac hyper.lnx 
+
+c:\Users\PDAS\PDAS\hyper\V16>cd c:\Users\PDAS\PDAS\induced 
+
+c:\Users\PDAS\PDAS\induced>del   c:\Users\PDAS\PDAS\html\packages\induced.zip 
+
+c:\Users\PDAS\PDAS\induced>7za u c:\Users\PDAS\PDAS\html\packages\induced.zip  case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\induced.zip
+
+Compressing  case1.ccl
+Compressing  case1.out
+Compressing  case2.ccl
+Compressing  case2.out
+Compressing  case3.ccl
+Compressing  case3.out
+Compressing  case4.ccl
+Compressing  case4.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\induced>cd V15 
+
+c:\Users\PDAS\PDAS\induced\V15>7za u c:\Users\PDAS\PDAS\html\packages\induced.zip  readme.txt induced.f90 id.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\induced.zip
+
+Compressing  id.f90
+Compressing  induced.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\induced\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\induced.zip  induced.exe induced.mac induced.lnx 
+
+c:\Users\PDAS\PDAS\induced\V15>cd c:\Users\PDAS\PDAS\inlet 
+
+c:\Users\PDAS\PDAS\inlet>del   c:\Users\PDAS\PDAS\html\packages\inlet.zip 
+
+c:\Users\PDAS\PDAS\inlet>7za u c:\Users\PDAS\PDAS\html\packages\inlet.zip  fig9.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\inlet.zip
+
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\inlet>cd V15 
+
+c:\Users\PDAS\PDAS\inlet\V15>7za u c:\Users\PDAS\PDAS\html\packages\inlet.zip  readme.txt inlet.f90 blank.cmn 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\inlet.zip
+
+Compressing  blank.cmn
+Compressing  inlet.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\inlet\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\inlet.zip  inlet.exe inlet.mac inlet.lnx 
+
+c:\Users\PDAS\PDAS\inlet\V15>cd c:\Users\PDAS\PDAS\ipeg 
+
+c:\Users\PDAS\PDAS\ipeg>del c:\Users\PDAS\PDAS\html\packages\ipeg.zip 
+
+c:\Users\PDAS\PDAS\ipeg>7za u c:\Users\PDAS\PDAS\html\packages\ipeg.zip  npo15569.txt readme.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\ipeg.zip
+
+Compressing  npo15569.txt
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\ipeg>cd c:\Users\PDAS\PDAS\ipeg\later 
+
+c:\Users\PDAS\PDAS\ipeg\later>7za u c:\Users\PDAS\PDAS\html\packages\ipeg.zip  original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\ipeg.zip
+
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\ipeg\later>cd c:\Users\PDAS\PDAS\kernel 
+
+c:\Users\PDAS\PDAS\kernel>del   c:\Users\PDAS\PDAS\html\packages\kernel.zip 
+
+c:\Users\PDAS\PDAS\kernel>7za u c:\Users\PDAS\PDAS\html\packages\kernel.zip  lar12524.txt original.src case1.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\kernel.zip
+
+Compressing  case1.inp
+Compressing  case1.out
+Compressing  lar12524.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\kernel>cd V15 
+
+c:\Users\PDAS\PDAS\kernel\V15>7za u c:\Users\PDAS\PDAS\html\packages\kernel.zip  readme.txt kernel.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\kernel.zip
+
+Compressing  kernel.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\kernel\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\kernel.zip  kernel.exe kernel.mac kernel.lnx 
+
+c:\Users\PDAS\PDAS\kernel\V15>cd c:\Users\PDAS\PDAS\lineint 
+
+c:\Users\PDAS\PDAS\lineint>del   c:\Users\PDAS\PDAS\html\packages\lineint.zip 
+
+c:\Users\PDAS\PDAS\lineint>7za u c:\Users\PDAS\PDAS\html\packages\lineint.zip  readme.txt int2d.* xsect.dfm xsect.pas xlines.c 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\lineint.zip
+
+Compressing  int2d.dpr
+Compressing  int2d.exe
+Compressing  readme.txt
+Compressing  xlines.c
+Compressing  xsect.dfm
+Compressing  xsect.pas
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\lineint>cd c:\Users\PDAS\PDAS\linintrp 
+
+c:\Users\PDAS\PDAS\linintrp>del   c:\Users\PDAS\PDAS\html\packages\linintrp.zip 
+
+c:\Users\PDAS\PDAS\linintrp>7za u c:\Users\PDAS\PDAS\html\packages\linintrp.zip  readme.txt interp.* int.dfm int.pas 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\linintrp.zip
+
+Compressing  int.dfm
+Compressing  int.pas
+Compressing  interp.dpr
+Compressing  interp.exe
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\linintrp>cd c:\Users\PDAS\PDAS\longlib 
+
+c:\Users\PDAS\PDAS\longlib>del   c:\Users\PDAS\PDAS\html\packages\longlib.zip 
+
+c:\Users\PDAS\PDAS\longlib>7za u c:\Users\PDAS\PDAS\html\packages\longlib.zip  npo17443.txt readme.txt original.zip 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\longlib.zip
+
+Compressing  npo17443.txt
+Compressing  original.zip
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\longlib>cd c:\Users\PDAS\PDAS\makewgs 
+
+c:\Users\PDAS\PDAS\makewgs>del   c:\Users\PDAS\PDAS\html\packages\makewgs.zip 
+
+c:\Users\PDAS\PDAS\makewgs>7za u c:\Users\PDAS\PDAS\html\packages\makewgs.zip  input.txt *.mak *.wgs 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\makewgs.zip
+
+Compressing  input.txt
+Compressing  tnd6480.mak
+Compressing  tnd6480.wgs
+Compressing  tnd7505.mak
+Compressing  tnd7505.wgs
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\makewgs>cd V15 
+
+c:\Users\PDAS\PDAS\makewgs\V15>7za u c:\Users\PDAS\PDAS\html\packages\makewgs.zip  readme.txt makewgs.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\makewgs.zip
+
+Compressing  makewgs.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\makewgs\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\makewgs.zip  makewgs.exe makewgs.mac makewgs.lnx 
+
+c:\Users\PDAS\PDAS\makewgs\V15>cd c:\Users\PDAS\PDAS\massprop 
+
+c:\Users\PDAS\PDAS\massprop>del   c:\Users\PDAS\PDAS\html\packages\massprop.zip 
+
+c:\Users\PDAS\PDAS\massprop>7za u c:\Users\PDAS\PDAS\html\packages\massprop.zip  lar12454.txt original.src ex*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\massprop.zip
+
+Compressing  example1.inp
+Compressing  example1.out
+Compressing  example2.inp
+Compressing  example2.out
+Compressing  example3.inp
+Compressing  example3.out
+Compressing  lar12454.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\massprop>cd V15 
+
+c:\Users\PDAS\PDAS\massprop\V15>7za u c:\Users\PDAS\PDAS\html\packages\massprop.zip  readme.txt massprop.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\massprop.zip
+
+Compressing  massprop.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\massprop\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\massprop.zip  massprop.exe massprop.mac massprop.lnx 
+
+c:\Users\PDAS\PDAS\massprop\V15>cd c:\Users\PDAS\PDAS\mislift 
+
+c:\Users\PDAS\PDAS\mislift>del   c:\Users\PDAS\PDAS\html\packages\mislift.zip 
+
+c:\Users\PDAS\PDAS\mislift>7za u c:\Users\PDAS\PDAS\html\packages\mislift.zip  lar10932.txt original.src readme.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\mislift.zip
+
+Compressing  lar10932.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\mislift>cd c:\Users\PDAS\PDAS\monitor 
+
+c:\Users\PDAS\PDAS\monitor>del   c:\Users\PDAS\PDAS\html\packages\monitor.zip 
+
+c:\Users\PDAS\PDAS\monitor>7za u c:\Users\PDAS\PDAS\html\packages\monitor.zip  gsc12705.txt original.src readme.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\monitor.zip
+
+Compressing  gsc12705.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\monitor>cd c:\Users\PDAS\PDAS\naca456 
+
+c:\Users\PDAS\PDAS\naca456>del   c:\Users\PDAS\PDAS\html\packages\naca456.zip 
+
+c:\Users\PDAS\PDAS\naca456>7za u c:\Users\PDAS\PDAS\html\packages\naca456.zip  input.txt avd.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\naca456.zip
+
+Compressing  avd.f90
+Compressing  input.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\naca456>cd V16 
+
+c:\Users\PDAS\PDAS\naca456\V16>7za u c:\Users\PDAS\PDAS\html\packages\naca456.zip  readme.txt *.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\naca456.zip
+
+Compressing  avd.f90
+Compressing  epspsi.f90
+Compressing  naca456.f90
+Compressing  nacax.f90
+Compressing  readme.txt
+Compressing  splprocs.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\naca456\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\naca456.zip  naca456.* 
+
+c:\Users\PDAS\PDAS\naca456\V16>cd c:\Users\PDAS\PDAS\naca456\cases 
+
+c:\Users\PDAS\PDAS\naca456\cases>7za u c:\Users\PDAS\PDAS\html\packages\naca456.zip  samp*.zip 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\naca456.zip
+
+Compressing  samples.zip
+Compressing  samplnx.zip
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\naca456\cases>cd c:\Users\PDAS\PDAS\naca456\airfols 
+
+c:\Users\PDAS\PDAS\naca456\airfols>7za u c:\Users\PDAS\PDAS\html\packages\naca456.zip  airfols.zip 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\naca456.zip
+
+Compressing  airfols.zip
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\naca456\airfols>cd c:\Users\PDAS\PDAS\naca456\ver6 
+
+c:\Users\PDAS\PDAS\naca456\ver6>7za u c:\Users\PDAS\PDAS\html\packages\naca456.zip ver6.zip 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\naca456.zip
+
+Compressing  ver6.zip
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\naca456\ver6>cd c:\Users\PDAS\PDAS\nastplt 
+
+c:\Users\PDAS\PDAS\nastPlt>del c:\Users\PDAS\PDAS\html\packages\nastplt.zip 
+
+c:\Users\PDAS\PDAS\nastPlt>7za u c:\Users\PDAS\PDAS\html\packages\nastplt.zip  gsc12833.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\nastplt.zip
+
+Compressing  gsc12833.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\nastPlt>cd c:\Users\PDAS\PDAS\nseg 
+
+c:\Users\PDAS\PDAS\nseg>del   c:\Users\PDAS\PDAS\html\packages\nseg.zip 
+
+c:\Users\PDAS\PDAS\nseg>7za u c:\Users\PDAS\PDAS\html\packages\nseg.zip  lar12299.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\nseg.zip
+
+Compressing  lar12299.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\nseg>cd c:\Users\PDAS\PDAS\optim 
+
+c:\Users\PDAS\PDAS\optim>del   c:\Users\PDAS\PDAS\html\packages\optim.zip 
+
+c:\Users\PDAS\PDAS\optim>7za u c:\Users\PDAS\PDAS\html\packages\optim.zip  lar12940.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\optim.zip
+
+Compressing  lar12940.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\optim>cd c:\Users\PDAS\PDAS\opttraj 
+
+c:\Users\PDAS\PDAS\opttraj>del   c:\Users\PDAS\PDAS\html\packages\opttraj.zip 
+
+c:\Users\PDAS\PDAS\opttraj>7za u c:\Users\PDAS\PDAS\html\packages\opttraj.zip  arc11282.txt input.txt case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\opttraj.zip
+
+Compressing  arc11282.txt
+Compressing  case1.aer
+Compressing  case1.dat
+Compressing  case1.eng
+Compressing  case1.in5
+Compressing  case1.in7
+Compressing  input.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\opttraj>cd V15 
+
+c:\Users\PDAS\PDAS\opttraj\V15>7za u c:\Users\PDAS\PDAS\html\packages\opttraj.zip  readme.txt opttraj.f90 boeing.inc 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\opttraj.zip
+
+Compressing  boeing.inc
+Compressing  opttraj.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\opttraj\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\opttraj.zip  opttraj.* 
+
+c:\Users\PDAS\PDAS\opttraj\V15>cd c:\Users\PDAS\PDAS\oracls 
+
+c:\Users\PDAS\PDAS\oracls>del   c:\Users\PDAS\PDAS\html\packages\oracls.zip 
+
+c:\Users\PDAS\PDAS\oracls>7za u c:\Users\PDAS\PDAS\html\packages\oracls.zip  gsc13067.txt original.zip 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\oracls.zip
+
+Compressing  gsc13067.txt
+Compressing  original.zip
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\oracls>cd V15 
+
+c:\Users\PDAS\PDAS\oracls\V15>7za u c:\Users\PDAS\PDAS\html\packages\oracls.zip  readme.txt oracls.f example*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\oracls.zip
+
+Compressing  example1.f90
+Compressing  example1.for
+Compressing  example1.inp
+Compressing  example1.out
+Compressing  example2.for
+Compressing  example2.inp
+Compressing  example2.out
+Compressing  example3.for
+Compressing  example3.inp
+Compressing  example3.out
+Compressing  example4.for
+Compressing  example4.inp
+Compressing  example4.out
+Compressing  oracls.f
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\oracls\V15>cd c:\Users\PDAS\PDAS\pablo 
+
+c:\Users\PDAS\PDAS\Pablo>del   c:\Users\PDAS\PDAS\html\packages\pablo.zip 
+
+c:\Users\PDAS\PDAS\Pablo>7za u c:\Users\PDAS\PDAS\html\packages\pablo.zip  readme.txt pablo.* *.M cases.zip 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\pablo.zip
+
+Compressing  cases.zip
+Compressing  CFTURB.M
+Compressing  CLOSE_TE.M
+Compressing  DIST.M
+Compressing  DOUBLET.M
+Compressing  ELLIPSE.M
+Compressing  FH.M
+Compressing  FINDY.M
+Compressing  FL.M
+Compressing  H1OFH.M
+Compressing  HOFH1.M
+Compressing  INFO.M
+Compressing  LIBRARY.M
+Compressing  NACA4.M
+Compressing  PABLO.HTM
+Compressing  PABLO.M
+Compressing  PABLO.TAR
+Compressing  PABLO.TXT
+Compressing  readme.txt
+Compressing  RSOLVER.M
+Compressing  RUNGE.M
+Compressing  SOLVEBL.M
+Compressing  SOURCE.M
+Compressing  SPLF.M
+Compressing  STAG.M
+Compressing  SY.M
+Compressing  VORTEX.M
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\Pablo>cd c:\Users\PDAS\PDAS\panair 
+
+c:\Users\PDAS\PDAS\panair>del   c:\Users\PDAS\PDAS\html\packages\panair.zip 
+
+c:\Users\PDAS\PDAS\panair>7za u c:\Users\PDAS\PDAS\html\packages\panair.zip  arc11398.txt clean502.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\panair.zip
+
+Compressing  arc11398.txt
+Compressing  clean502.bat
+Compressing  clean502.sh
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\panair>cd V15 
+
+c:\Users\PDAS\PDAS\panair\V15>7za u c:\Users\PDAS\PDAS\html\packages\panair.zip  readme.txt source15.zip 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\panair.zip
+
+Compressing  readme.txt
+Compressing  source15.zip
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\panair\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\panair.zip  panair.exe panair.mac panair.lnx 
+
+c:\Users\PDAS\PDAS\panair\V15>cd c:\Users\PDAS\PDAS\panair\cases 
+
+c:\Users\PDAS\PDAS\panair\cases>7za u c:\Users\PDAS\PDAS\html\packages\panair.zip  *.inp *.out 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\panair.zip
+
+Compressing  btac.inp
+Compressing  btac.out
+Compressing  ellip.inp
+Compressing  ellip.out
+Compressing  nac6.inp
+Compressing  nac6.out
+Compressing  ppbc.inp
+Compressing  ppbc.out
+Compressing  swb.inp
+Compressing  swb.out
+Compressing  vbc.inp
+Compressing  vbc.out
+Compressing  vepd.inp
+Compressing  vepd.out
+Compressing  vss.inp
+Compressing  vss.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\panair\cases>cd c:\Users\PDAS\PDAS\panin 
+
+c:\Users\PDAS\PDAS\panin>del   c:\Users\PDAS\PDAS\html\packages\panin.zip 
+
+c:\Users\PDAS\PDAS\panin>7za u c:\Users\PDAS\PDAS\html\packages\panin.zip  input.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\panin.zip
+
+Compressing  input.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\panin>cd V16 
+
+c:\Users\PDAS\PDAS\panin\V16>7za u c:\Users\PDAS\PDAS\html\packages\panin.zip  readme.txt panin.f90 case1a.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\panin.zip
+
+Compressing  case1a.aux
+Compressing  case1a.wgs
+Compressing  panin.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\panin\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\panin.zip  panin.exe panin.mac panin.lnx 
+
+c:\Users\PDAS\PDAS\panin\V16>cd c:\Users\PDAS\PDAS\pilot 
+
+c:\Users\PDAS\PDAS\pilot>del   c:\Users\PDAS\PDAS\html\packages\pilot.zip 
+
+c:\Users\PDAS\PDAS\pilot>7za u c:\Users\PDAS\PDAS\html\packages\pilot.zip  gsc12801.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\pilot.zip
+
+Compressing  gsc12801.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\pilot>cd c:\Users\PDAS\PDAS\quartic 
+
+c:\Users\PDAS\PDAS\quartic>del   c:\Users\PDAS\PDAS\html\packages\quartic.zip 
+
+c:\Users\PDAS\PDAS\quartic>cd V16 
+
+c:\Users\PDAS\PDAS\quartic\V16>7za u c:\Users\PDAS\PDAS\html\packages\quartic.zip  readme.txt quartic.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\quartic.zip
+
+Compressing  quartic.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\quartic\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\quartic.zip  quartic.* 
+
+c:\Users\PDAS\PDAS\quartic\V16>cd c:\Users\PDAS\PDAS\quiz 
+
+c:\Users\PDAS\PDAS\quiz>7za u c:\Users\PDAS\PDAS\html\packages\quiz.zip  readme.txt quizzer.* quizunit.dfm quizunit.pas 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\quiz.zip
+
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\quiz>cd c:\Users\PDAS\PDAS\rblade 
+
+c:\Users\PDAS\PDAS\rblade>del   c:\Users\PDAS\PDAS\html\packages\rblade.zip 
+
+c:\Users\PDAS\PDAS\rblade>7za u c:\Users\PDAS\PDAS\html\packages\rblade.zip  lew11744.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\rblade.zip
+
+Compressing  lew11744.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\rblade>cd c:\Users\PDAS\PDAS\relay 
+
+c:\Users\PDAS\PDAS\relay>del   c:\Users\PDAS\PDAS\html\packages\relay.zip 
+
+c:\Users\PDAS\PDAS\relay>7za u c:\Users\PDAS\PDAS\html\packages\relay.zip  lar10658.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\relay.zip
+
+Compressing  lar10658.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\relay>7za u c:\Users\PDAS\PDAS\html\packages\relay.zip  relay.f90 case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\relay.zip
+
+Compressing  case1.inp
+Compressing  relay.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\relay>cd c:\Users\PDAS\PDAS\rogers 
+
+c:\Users\PDAS\PDAS\rogers>del   c:\Users\PDAS\PDAS\html\packages\rogers.zip 
+
+c:\Users\PDAS\PDAS\rogers>7za u c:\Users\PDAS\PDAS\html\packages\rogers.zip  input.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\rogers.zip
+
+Compressing  input.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\rogers>7za u c:\Users\PDAS\PDAS\html\packages\rogers.zip  fg.pdf report.pdf 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\rogers.zip
+
+Compressing  fg.pdf
+Compressing  report.pdf
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\rogers>cd V16 
+
+c:\Users\PDAS\PDAS\rogers\V16>7za u c:\Users\PDAS\PDAS\html\packages\rogers.zip  readme.txt rogers.f90 sample1.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\rogers.zip
+
+Compressing  readme.txt
+Compressing  rogers.f90
+Compressing  sample1.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\rogers\V16>cd c:\Users\PDAS\PDAS\rotor 
+
+c:\Users\PDAS\PDAS\rotor>del   c:\Users\PDAS\PDAS\html\packages\rotor.zip 
+
+c:\Users\PDAS\PDAS\rotor>7za u c:\Users\PDAS\PDAS\html\packages\rotor.zip  arc11150.txt readme.txt  *.src *.for 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\rotor.zip
+
+Compressing  arc11150.txt
+Compressing  dynamics.for
+Compressing  dynamics.src
+Compressing  readme.txt
+Compressing  rotor2.for
+Compressing  rotor2.src
+Compressing  support.for
+Compressing  support.src
+Compressing  tilting.for
+Compressing  tilting.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\rotor>cd c:\Users\PDAS\PDAS\rspline 
+
+c:\Users\PDAS\PDAS\rspline>del   c:\Users\PDAS\PDAS\html\packages\rspline.zip 
+
+c:\Users\PDAS\PDAS\rspline>7za u c:\Users\PDAS\PDAS\html\packages\rspline.zip  lar13694.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\rspline.zip
+
+Compressing  lar13694.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\rspline>cd V15 
+
+c:\Users\PDAS\PDAS\rspline\V15>7za u c:\Users\PDAS\PDAS\html\packages\rspline.zip  readme.txt *.f90 *.out 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\rspline.zip
+
+Compressing  example1.f90
+Compressing  example1.out
+Compressing  example2.f90
+Compressing  example2.out
+Compressing  ratspl.f90
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\rspline\V15>cd c:\Users\PDAS\PDAS\shifarc 
+
+c:\Users\PDAS\PDAS\shifarc>del   c:\Users\PDAS\PDAS\html\packages\shifarc.zip 
+
+c:\Users\PDAS\PDAS\shifarc>7za u c:\Users\PDAS\PDAS\html\packages\shifarc.zip  lar11891.txt readme.txt *.src *.for 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\shifarc.zip
+
+Compressing  blunt.for
+Compressing  blunt.src
+Compressing  lar11891.txt
+Compressing  quick.for
+Compressing  quick.src
+Compressing  readme.txt
+Compressing  stein.for
+Compressing  stein.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\shifarc>cd c:\Users\PDAS\PDAS\sneak 
+
+c:\Users\PDAS\PDAS\sneak>del   c:\Users\PDAS\PDAS\html\packages\sneak.zip 
+
+c:\Users\PDAS\PDAS\sneak>7za u c:\Users\PDAS\PDAS\html\packages\sneak.zip  hqn10517.txt readme.txt file.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\sneak.zip
+
+Compressing  hqn10517.txt
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\sneak>cd c:\Users\PDAS\PDAS\solararr 
+
+c:\Users\PDAS\PDAS\solararr>del   c:\Users\PDAS\PDAS\html\packages\solararr.zip 
+
+c:\Users\PDAS\PDAS\solararr>7za u c:\Users\PDAS\PDAS\html\packages\solararr.zip  msc18558.txt input.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\solararr.zip
+
+Compressing  input.txt
+Compressing  msc18558.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\solararr>7za u c:\Users\PDAS\PDAS\html\packages\solararr.zip  case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\solararr.zip
+
+Compressing  case1.nml
+Compressing  case1.out
+Compressing  case2.nml
+Compressing  case2.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\solararr>cd V16 
+
+c:\Users\PDAS\PDAS\solararr\V16>7za u c:\Users\PDAS\PDAS\html\packages\solararr.zip  readme.txt solpow.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\solararr.zip
+
+Compressing  readme.txt
+Compressing  solpow.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\solararr\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\solararr.zip  solpow.* 
+
+c:\Users\PDAS\PDAS\solararr\V16>cd c:\Users\PDAS\PDAS\sssp 
+
+c:\Users\PDAS\PDAS\sssp>del   c:\Users\PDAS\PDAS\html\packages\sssp.zip 
+
+c:\Users\PDAS\PDAS\sssp>7za u c:\Users\PDAS\PDAS\html\packages\sssp.zip  msc13914.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\sssp.zip
+
+Compressing  msc13914.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\sssp>cd c:\Users\PDAS\PDAS\tandem 
+
+c:\Users\PDAS\PDAS\tandem>del   c:\Users\PDAS\PDAS\html\packages\tandem.zip 
+
+c:\Users\PDAS\PDAS\tandem>7za u c:\Users\PDAS\PDAS\html\packages\tandem.zip  lew10743.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\tandem.zip
+
+Compressing  lew10743.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\tandem>cd c:\Users\PDAS\PDAS\tea201 
+
+c:\Users\PDAS\PDAS\tea201>del   c:\Users\PDAS\PDAS\html\packages\tea201.zip 
+
+c:\Users\PDAS\PDAS\tea201>7za u c:\Users\PDAS\PDAS\html\packages\tea201.zip  readme.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\tea201.zip
+
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\tea201>cd V16 
+
+c:\Users\PDAS\PDAS\tea201\V16>7za u c:\Users\PDAS\PDAS\html\packages\tea201.zip  tea201.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\tea201.zip
+
+Compressing  tea201.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\tea201\V16>cd c:\Users\PDAS\PDAS\therm1d 
+
+c:\Users\PDAS\PDAS\therm1d>del   c:\Users\PDAS\PDAS\html\packages\therm1d.zip 
+
+c:\Users\PDAS\PDAS\therm1d>7za u c:\Users\PDAS\PDAS\html\packages\therm1d.zip  lar12057.txt readme.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\therm1d.zip
+
+Compressing  lar12057.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\therm1d>7za u c:\Users\PDAS\PDAS\html\packages\therm1d.zip  sink.for case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\therm1d.zip
+
+Compressing  case1.inp
+Compressing  sink.for
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\therm1d>cd c:\Users\PDAS\PDAS\tidy 
+
+c:\Users\PDAS\PDAS\tidy>del   c:\Users\PDAS\PDAS\html\packages\tidy.zip 
+
+c:\Users\PDAS\PDAS\tidy>7za u c:\Users\PDAS\PDAS\html\packages\tidy.zip  *.txt getarg.for tidy.* units.inc 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\tidy.zip
+
+Compressing  getarg.for
+Compressing  read1st.txt
+Compressing  readme.txt
+Compressing  tidy.exe
+Compressing  tidy.for
+Compressing  tidy.inc
+Compressing  tidy.ini
+Compressing  tidy.txt
+Compressing  units.inc
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\tidy>cd c:\Users\PDAS\PDAS\tol 
+
+c:\Users\PDAS\PDAS\tol>del   c:\Users\PDAS\PDAS\html\packages\tol.zip 
+
+c:\Users\PDAS\PDAS\tol>7za u c:\Users\PDAS\PDAS\html\packages\tol.zip  lar13086.txt readme.txt original.src tol.f90 case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\tol.zip
+
+Compressing  case1.dat
+Compressing  case1.nml
+Compressing  case1.out
+Compressing  case1.xout
+Compressing  case1x.out
+Compressing  case2.dat
+Compressing  case2.out
+Compressing  lar13086.txt
+Compressing  original.src
+Compressing  readme.txt
+Compressing  tol.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\tol>cd c:\Users\PDAS\PDAS\tomars 
+
+c:\Users\PDAS\PDAS\tomars>del   c:\Users\PDAS\PDAS\html\packages\tomars.zip 
+
+c:\Users\PDAS\PDAS\tomars>7za u c:\Users\PDAS\PDAS\html\packages\tomars.zip  readme.txt code.zip cases.zip 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\tomars.zip
+
+Compressing  cases.zip
+Compressing  code.zip
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\tomars>cd c:\Users\PDAS\PDAS\tps 
+
+c:\Users\PDAS\PDAS\tps>del   c:\Users\PDAS\PDAS\html\packages\tps.zip 
+
+c:\Users\PDAS\PDAS\tps>7za u c:\Users\PDAS\PDAS\html\packages\tps.zip  msc18616.txt readme.txt original.src case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\tps.zip
+
+Compressing  case1.inp
+Compressing  msc18616.txt
+Compressing  original.src
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\tps>cd c:\Users\PDAS\PDAS\turbsf 
+
+c:\Users\PDAS\PDAS\turbsf>del   c:\Users\PDAS\PDAS\html\packages\turbsf.zip 
+
+c:\Users\PDAS\PDAS\turbsf>7za u c:\Users\PDAS\PDAS\html\packages\turbsf.zip  turbsf.cpp 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\turbsf.zip
+
+Compressing  turbsf.cpp
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\turbsf>cd V16 
+
+c:\Users\PDAS\PDAS\turbsf\V16>7za u c:\Users\PDAS\PDAS\html\packages\turbsf.zip  readme.txt sftab.f90 turbsf.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\turbsf.zip
+
+Compressing  readme.txt
+Compressing  sftab.f90
+Compressing  turbsf.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\turbsf\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\turbsf.zip  sftab.exe sftab.mac sftab.lnx 
+
+c:\Users\PDAS\PDAS\turbsf\V16>cd c:\Users\PDAS\PDAS\vascomp 
+
+c:\Users\PDAS\PDAS\vascomp>del   c:\Users\PDAS\PDAS\html\packages\vascomp.zip 
+
+c:\Users\PDAS\PDAS\vascomp>7za u c:\Users\PDAS\PDAS\html\packages\vascomp.zip  arc11433.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\vascomp.zip
+
+Compressing  arc11433.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vascomp>cd V16 
+
+c:\Users\PDAS\PDAS\vascomp\V16>7za u c:\Users\PDAS\PDAS\html\packages\vascomp.zip  readme.txt vascomp.f90 case1.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\vascomp.zip
+
+Compressing  case1.inp
+Compressing  readme.txt
+Compressing  vascomp.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vascomp\V16>cd c:\Users\PDAS\PDAS\vasp 
+
+c:\Users\PDAS\PDAS\vasp>del   c:\Users\PDAS\PDAS\html\packages\vasp.zip 
+
+c:\Users\PDAS\PDAS\vasp>7za u c:\Users\PDAS\PDAS\html\packages\vasp.zip  arc10616.txt orig*.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\vasp.zip
+
+Compressing  arc10616.txt
+Compressing  orig1.src
+Compressing  orig2.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vasp>cd V16 
+
+c:\Users\PDAS\PDAS\vasp\V16>7za u c:\Users\PDAS\PDAS\html\packages\vasp.zip  readme.txt *.for *.inp *.out 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\vasp.zip
+
+Compressing  example1.for
+Compressing  example1.inp
+Compressing  example2.for
+Compressing  example2.inp
+Compressing  example2a.inp
+Compressing  example3.for
+Compressing  example3.inp
+Compressing  example4.for
+Compressing  example4.inp
+Compressing  example5.for
+Compressing  example5.inp
+Compressing  example6.for
+Compressing  example6.inp
+Compressing  example7.for
+Compressing  example7.inp
+Compressing  examples.for
+Compressing  readme.txt
+Compressing  vaspProc.for
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vasp\V16>cd c:\Users\PDAS\PDAS\viewer 
+
+c:\Users\PDAS\PDAS\viewer>del   c:\Users\PDAS\PDAS\html\packages\viewer.zip 
+
+c:\Users\PDAS\PDAS\viewer>7za u c:\Users\PDAS\PDAS\html\packages\viewer.zip  lew10482.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\viewer.zip
+
+Compressing  lew10482.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\viewer>cd V16 
+
+c:\Users\PDAS\PDAS\viewer\V16>7za u c:\Users\PDAS\PDAS\html\packages\viewer.zip  readme.txt viewer.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\viewer.zip
+
+Compressing  readme.txt
+Compressing  viewer.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\viewer\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\viewer.zip  viewer.* 
+
+c:\Users\PDAS\PDAS\viewer\V16>cd c:\Users\PDAS\PDAS\vlmd 
+
+c:\Users\PDAS\PDAS\vlmd>del   c:\Users\PDAS\PDAS\html\packages\vlmd.zip 
+
+c:\Users\PDAS\PDAS\vlmd>7za u c:\Users\PDAS\PDAS\html\packages\vlmd.zip  lar15160.txt read.me 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\vlmd.zip
+
+Compressing  lar15160.txt
+Compressing  read.me
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vlmd>cd V16 
+
+c:\Users\PDAS\PDAS\vlmd\V16>7za u c:\Users\PDAS\PDAS\html\packages\vlmd.zip  readme.txt case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\vlmd.zip
+
+Compressing  case1.inp
+Compressing  case2.inp
+Compressing  case3.inp
+Compressing  case4.inp
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vlmd\V16>7za u c:\Users\PDAS\PDAS\html\packages\vlmd.zip  analysis.f90 geom.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\vlmd.zip
+
+Compressing  analysis.f90
+Compressing  geom.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vlmd\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\vlmd.zip  vlmd.* 
+
+c:\Users\PDAS\PDAS\vlmd\V16>cd c:\Users\PDAS\PDAS\vmaco 
+
+c:\Users\PDAS\PDAS\vmaco>del   c:\Users\PDAS\PDAS\html\packages\vmaco.zip 
+
+c:\Users\PDAS\PDAS\vmaco>7za u c:\Users\PDAS\PDAS\html\packages\vmaco.zip  msc21275.txt original.src 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\vmaco.zip
+
+Compressing  msc21275.txt
+Compressing  original.src
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vmaco>cd V15 
+
+c:\Users\PDAS\PDAS\vmaco\V15>7za u c:\Users\PDAS\PDAS\html\packages\vmaco.zip  readme.txt *.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\vmaco.zip
+
+Compressing  readme.txt
+Compressing  test1.f90
+Compressing  test2.f90
+Compressing  vmaco.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vmaco\V15>cd c:\Users\PDAS\PDAS\vrml 
+
+c:\Users\PDAS\PDAS\vrml>del   c:\Users\PDAS\PDAS\html\packages\vrml.zip 
+
+c:\Users\PDAS\PDAS\vrml>7za u c:\Users\PDAS\PDAS\html\packages\vrml.zip  *.wgs *.wrl 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\vrml.zip
+
+Compressing  tnd4211.wgs
+Compressing  tnd4211.wrl
+Compressing  tnd7505.wgs
+Compressing  tnd7505.wrl
+Compressing  wdcase1.wgs
+Compressing  wdcase1.wrl
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vrml>cd V15 
+
+c:\Users\PDAS\PDAS\vrml\V15>7za u c:\Users\PDAS\PDAS\html\packages\vrml.zip  readme.txt wgs2wrl.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\vrml.zip
+
+Compressing  readme.txt
+Compressing  wgs2wrl.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vrml\V15>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\vrml.zip  wgs2wrl.* 
+
+c:\Users\PDAS\PDAS\vrml\V15>cd c:\Users\PDAS\PDAS\vucalc 
+
+c:\Users\PDAS\PDAS\vucalc>del   c:\Users\PDAS\PDAS\html\packages\vucalc.zip 
+
+c:\Users\PDAS\PDAS\vucalc>7za u c:\Users\PDAS\PDAS\html\packages\vucalc.zip  readme.txt calc.c 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\vucalc.zip
+
+Compressing  calc.c
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vucalc>7za u c:\Users\PDAS\PDAS\html\packages\vucalc.zip  *.dpr *.dfm *.pas vucalc.exe 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\vucalc.zip
+
+Compressing  areachk.dpr
+Compressing  calcsubs.pas
+Compressing  getmach.pas
+Compressing  GetMachFromInput.pas
+Compressing  loadmemo.pas
+Compressing  main.dfm
+Compressing  main.pas
+Compressing  naca1135.pas
+Compressing  rayfanno.pas
+Compressing  vucalc.dpr
+Compressing  vucalc.exe
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\vucalc>cd c:\Users\PDAS\PDAS\w12sc3 
+
+c:\Users\PDAS\PDAS\w12sc3>del   c:\Users\PDAS\PDAS\html\packages\w12sc3.zip 
+
+c:\Users\PDAS\PDAS\w12sc3>7za u c:\Users\PDAS\PDAS\html\packages\w12sc3.zip  lar13239.txt input.txt case1.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\w12sc3.zip
+
+Compressing  case1.inp
+Compressing  case1.out
+Compressing  input.txt
+Compressing  lar13239.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\w12sc3>cd V16 
+
+c:\Users\PDAS\PDAS\w12sc3\V16>7za u c:\Users\PDAS\PDAS\html\packages\w12sc3.zip  readme.txt *.cmn *.f90 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\w12sc3.zip
+
+Compressing  files.cmn
+Compressing  head.cmn
+Compressing  option.cmn
+Compressing  readme.txt
+Compressing  shell.cmn
+Compressing  w.f90
+Compressing  w12sc3.f90
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\w12sc3\V16>cd c:\Users\PDAS\PDAS\wavedrag 
+
+c:\Users\PDAS\PDAS\wavedrag>del   c:\Users\PDAS\PDAS\html\packages\wavedrag.zip 
+
+c:\Users\PDAS\PDAS\wavedrag>7za u c:\Users\PDAS\PDAS\html\packages\wavedrag.zip  lar13223.txt case*.* 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\wavedrag.zip
+
+Compressing  cases.txt
+Compressing  caseslnx.zip
+Compressing  lar13223.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\wavedrag>7za u c:\Users\PDAS\PDAS\html\packages\wavedrag.zip  input.txt output.txt 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\wavedrag.zip
+
+Compressing  input.txt
+Compressing  output.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\wavedrag>cd c:\Users\PDAS\PDAS\wavedrag\D2500\V16 
+
+c:\Users\PDAS\PDAS\wavedrag\D2500\V16>7za u c:\Users\PDAS\PDAS\html\packages\wavedrag.zip  readme.txt d2500.for 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\wavedrag.zip
+
+Compressing  d2500.for
+Compressing  readme.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\wavedrag\D2500\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\wavedrag.zip  d2500.* 
+
+c:\Users\PDAS\PDAS\wavedrag\D2500\V16>cd c:\Users\PDAS\PDAS\wingbody 
+
+c:\Users\PDAS\PDAS\wingbody>del   c:\Users\PDAS\PDAS\html\packages\wingbody.zip 
+
+c:\Users\PDAS\PDAS\wingbody>7za u c:\Users\PDAS\PDAS\html\packages\wingbody.zip  *.inp *.out 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+Scanning
+
+Creating archive c:\Users\PDAS\PDAS\html\packages\wingbody.zip
+
+Compressing  tnd4211.inp
+Compressing  tnd4211.out
+Compressing  tnd7505.inp
+Compressing  tnd7505.out
+Compressing  wdcase1.inp
+Compressing  wdcase1.out
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\wingbody>cd V16 
+
+c:\Users\PDAS\PDAS\wingbody\V16>7za u c:\Users\PDAS\PDAS\html\packages\wingbody.zip  readme.txt wingbody.txt wingbody.for 
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Scanning
+
+Updating archive c:\Users\PDAS\PDAS\html\packages\wingbody.zip
+
+Compressing  readme.txt
+Compressing  wingbody.for
+Compressing  wingbody.txt
+
+Everything is Ok
+
+c:\Users\PDAS\PDAS\wingbody\V16>if "" == "exe" 7za u c:\Users\PDAS\PDAS\html\packages\wingbody.zip  wingbody.* 
+
+c:\Users\PDAS\PDAS\wingbody\V16>cd c:\Users\PDAS\PDAS\html\packages 
+
+c:\Users\PDAS\PDAS\html\packages>7za l *.zip  1>c:\Users\PDAS\PDAS\cdrom\packages.dir 
+
+c:\Users\PDAS\PDAS\html\packages>cd c:\Users\PDAS\PDAS\cdrom 
+
+c:\Users\PDAS\PDAS\cdrom>7za l C:\Users\PDAS\PDAS\html\packages\*.zip  1>packageManifest.txt 
+
+c:\Users\PDAS\PDAS\cdrom>echo "all packages updated" 
+"all packages updated"

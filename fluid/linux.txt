@@ -1,0 +1,32 @@
+USING LINUX                       
+
+Many of the programs now have executables for Linux. These
+were compiled with Lahey LF95 on my Red Hat system.
+
+You may prefer to rename the executable file to omit the .lnx
+extension and be consistent with typical Unix practice. I used
+the .lnx extension to be sure to distinguish these files from
+those for Windows or Macintosh.
+
+You may encounter one problem if you work with files that were created
+on DOS or Macintosh systems, namely the different end-of line markers.
+The extra CR upsets the input parsing in many of the programs. There
+is a simple solution ...
+
+   col  -bx  < filename > foo
+   mv foo filename
+
+This will convert the file to Unix format. But, don't try to do it
+in one step as in
+
+   col -bx < filename > filename
+
+because this will do the output redirection first, effectively erasing
+the input file.
+
+Most of the files on this CD-ROM have the DOS end-of-line (CR-LF)
+convention. I hope that my Linux users will understand that I have
+put the burden of conversion on the Linux community rather than the
+Windows community because they are probably able to understand the 
+problem and deal with it.
+

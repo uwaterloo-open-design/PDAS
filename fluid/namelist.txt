@@ -1,0 +1,22 @@
+
+SOME GENERAL COMMENTS ON NAMELIST                       \cdrom\namelist.txt
+  (USED IN Datcom, WingBody, NACA4, NACA6, SSSP, and GetMAC)
+
+Some of the programs in this collection use the namelist formatting
+scheme for input. The input data for such statements should be 
+written as:
+
+&abc   ...data items
+   .more data items
+   /
+
+where the forward slash indicates the end of the data.
+Earlier implementations required the & to be in column 2, but
+this has been relaxed. Previous versions of Fortran used an
+ampersand (&) as the terminating character instead of a slash.
+
+The DATCOM cases use $ instead of & as the beginning and ending namelist
+characters. If you look at the code carefully, you will see that the
+native namelist of Fortran is not being used, but that an entire
+namelist emulator has been written for Datcom. This was probably a
+smart move back in the 60s and 70s before namelist was standardized.

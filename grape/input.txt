@@ -1,0 +1,100 @@
+
+
+INPUT GUIDE TO GRAPE                                         \grape\input.txt
+
+The input to grape is contained in a three namelist records.
+There is no published input guide for this program, but many of the
+variables may be deduced.
+
+My best guesses are as follows: (obviously, I haven't gotten far ...)
+
+ 
+      NAMELIST/GRID1/
+ALAMF  -
+ALAMR  -
+DSI    -
+JAIRF  -
+JMAX   -
+JPRT   -
+JTEBOT -
+JTETOP -
+KMAX   -
+MAXITA -
+NAIRF  -
+NDS    - 
+NIBDST - 
+NOBDST - 
+NOBSHP - 
+NORDA  - 
+NOUT   - 
+NPLT   - 
+NTETYP - 
+RADOB  - 
+RCORN  - 
+TR     - 
+XLE    - 
+XLEFT  - 
+XRIGHT - 
+XTE    - 
+YBOTOM - 
+YTOP   - 
+
+
+
+
+
+
+      NAMELIST/GRID2/
+AAAI   - 
+BBBI   - 
+BINN   - 
+CCCI   - 
+DDDI   - 
+DSOBI  - 
+JCAMBR - 
+JDIST  - 
+NLETYP - 
+NOBCAS -
+OMEGA  - 
+OMEGP  - 
+OMEGQ  - 
+OMEGR  - 
+OMEGS  - 
+PLIM   - 
+QLIM   - 
+RLIM   - 
+ROTANG - 
+ROTCTR - 
+SLIM   - 
+TEOPEN - 
+THETAI - 
+THOBI  - 
+WAKEP  - 
+XOBCNT - 
+XTFRAC - 
+
+
+
+
+      NAMELIST/GRID3/
+
+AAA    - 
+AIRFX  - 
+AIRFY  - 
+BBB    - 
+CAMBRX - 
+CAMBRY - 
+CCC    - 
+DDD    -
+DIST   - 
+DS     - 
+DSOB   - 
+OBANGS - 
+THETA  - 
+THETOB - 
+XMAX   - 
+XMIN   - 
+XOB    - 
+YMAX   - 
+YMIN   - 
+YOB    - 

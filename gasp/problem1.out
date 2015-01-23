@@ -1,0 +1,23 @@
+
+THERMODYNAMIC + TRANSPORT PROPERTIES FOR HYDROGEN PC=12.759ATM,TC=32.976K,RHOC=.03143G/CC 
+dia= 0.800000012
+vb= 60.0000000
+tb= 25.0000000
+pb= 6.00000000
+bulk density= 7.29289278E-02
+bulk viscosity= 1.38614108E-04
+bulk kinematic viscosity= 1.90067384E-03
+
+wall density= 3.14729544E-03
+wall viscosity= 1.18722790E-04
+wall kinematic viscosity= 3.77221629E-02
+
+film density= 5.89592801E-03
+film viscosity= 7.84171934E-05
+film kinematic viscosity= 1.33002289E-02
+film thermal conductivity= 2.08301167E-03
+
+Reynolds number= 360896.031
+Prandtl number= 0.594420254
+Nusselt factor= 613.485168
+Coeff. of thermal conductivity= 1.59737098

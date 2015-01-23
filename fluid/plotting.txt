@@ -1,0 +1,42 @@
+HOW TO MAKE PLOTS FROM THE PROGRAMS IN THIS COLLECTION
+
+Some of the programs (hlp, 3view, WaveDrag, naca456) in this
+collection make files that are intended to be plotted. There is
+not much uniformity in the way people make computer plots, so the
+way this is done may evolve over time.
+
+The files produced by all of these programs are tables of (x,y) pairs
+written one pair per line, first x (horizontal dimension) and
+then y (vertical dimension) separated by one or more blanks.
+Each point is to be connected to the previous point by a straight line.
+Whenever a blank line appears in the file, this indicates that the move
+to the next point is invisible, as in a pen-up move.
+
+There are numerous commercial, shareware, and freeware, as well as
+home-written plotting packages on the market, and I cannot presume
+to tell anyone to buy this or buy that. This format is simple
+enough that I think it should be readable as a foreign file in
+almost any package. I will recommend the package called gnuplot
+since it is absolutely free, widely available, and functional on
+just about every computer system in the world. The files produced
+by the programs in this collection may be used by gnuplot without
+modification. I have also supplied auxiliary programs nacaplot and 
+printhlp that will read the generic plot files and produce files that 
+may be sent to a PostScript printer or a Hewlett Packard compatible 
+printer. This should include all of the laser printers and ink-jet 
+printers on the market, but not dot-matrix printers. The HP compatible
+printers must support PCL 5 or greater. This should be OK with any printer
+made since 1988 or so. PCL 4 and earlier do not support HP-GL graphics
+commands.
+
+Gnuplot has its own Usenet group called comp.graphics.gnuplot and a
+Frequently Asked Questions (FAQ) list that is posted periodically.
+Gnuplot is a command line program and a file is plotted with a command 
+such as
+  gnuplot> plot "hlp.plt" with lines
+
+If you wish to obtain gnuplot, go to the Gnuplot web page at
+ http://www.gnuplot.info
+for instructions on downloading a free copy of gnuplot.
+If you have trouble reaching this link, go to
+ http://www.gnuplot.vt.edu

@@ -1,0 +1,2345 @@
+
+7-Zip (A) 9.20  Copyright (c) 1999-2010 Igor Pavlov  2010-11-18
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\2body.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\2body.zip
+Type = zip
+Physical Size = 3790
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-09-17 13:06:28 ....A         9075         3676  TWOBDY.F
+------------------- ----- ------------ ------------  ------------------------
+                                  9075         3676  1 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\2wgs.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\2wgs.zip
+Type = zip
+Physical Size = 44118
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-12-02 17:31:34 ....A        14192         3381  a5022wgs.f90
+2008-07-22 13:13:14 ....A        27814         8916  hab2wgs.f90
+2011-09-28 12:17:16 ....A         1442          635  readme1.txt
+2011-09-26 21:45:02 ....A         1362          671  readme2.txt
+2011-09-28 12:17:16 ....A         1242          623  readme3.txt
+2011-09-26 21:53:00 ....A         1389          662  readme4.txt
+1993-08-28 15:06:54 ....A         8973         2095  swb.inp
+1997-01-02 13:26:44 ....A         5575          809  swb.wgs
+1995-12-06 20:55:10 ....A          798          449  tnd4211.inp
+1995-12-13 18:14:24 ....A        12340         1313  tnd4211.wgs
+1996-07-03 15:57:06 ....A        18482         2802  tnd6480.mk5
+2002-12-06 16:11:34 ....A        21807         2405  tnd6480.wgs
+2002-11-29 23:12:18 ....A          829          496  tnd7505.inp
+1995-12-13 18:13:34 ....A        10079         1121  tnd7505.wgs
+1996-07-03 14:57:14 ....A        12446         1215  tp2608.mk5
+2002-12-06 16:12:12 ....A         5136          596  tp2608.wgs
+2008-12-02 15:24:44 ....A        18519         4901  wb2wgs.f90
+2008-12-02 15:34:52 ....A        39433         7228  wd2wgs.f90
+1995-11-22 15:28:22 ....A         1312          308  wdcase1.inp
+1995-12-13 18:03:42 ....A         7058          812  wdcase1.wgs
+------------------- ----- ------------ ------------  ------------------------
+                                210228        41438  20 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\2wgsexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\2wgsexec.zip
+Type = zip
+Physical Size = 274349
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 13:49:42 ....A       581566       210033  a5022wgs.exe
+2009-02-23 13:49:42 ....A        26090         8409  a5022wgs.lnx
+2009-04-29 21:59:43 ....A        30944         6377  a5022wgs.mac
+2009-02-23 13:50:13 ....A        28753        10469  wb2wgs.lnx
+2009-04-29 21:59:42 ....A        36148         9164  wb2wgs.mac
+2009-02-23 13:50:13 ....A        54083        15220  wd2wgs.lnx
+2009-04-29 21:59:42 ....A       102864        13719  wd2wgs.mac
+------------------- ----- ------------ ------------  ------------------------
+                                860448       273391  7 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\3view.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\3view.zip
+Type = zip
+Physical Size = 13196
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-12 08:59:32 ....A        31367         7436  3view.f90
+2011-09-26 21:53:00 ....A         1772          844  readme.txt
+2002-12-17 19:35:10 ....A        12340         1311  tnd4211.wgs
+2000-02-06 00:11:32 ....A        10079         1121  tnd7505.wgs
+1995-12-04 18:33:06 ....A         7438          860  wbf.wgs
+1995-12-13 20:03:42 ....A         7058          812  wdcase1.wgs
+------------------- ----- ------------ ------------  ------------------------
+                                 70054        12384  6 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\3viewexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\3viewexec.zip
+Type = zip
+Physical Size = 262428
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 13:59:02 ....A       636608       226076  3view.exe
+2009-02-23 13:59:02 ....A        61573        17770  3view.lnx
+2009-12-31 11:50:52 ....A        66356        18170  3view.mac
+------------------- ----- ------------ ------------  ------------------------
+                                764537       262016  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\abaxi.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\abaxi.zip
+Type = zip
+Physical Size = 57064
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-03-06 09:51:40 ....A       103385        26266  abaxi.f90
+2005-10-20 18:43:08 ....A         2482         1285  lar11049.txt
+1996-11-30 00:12:50 ....A       142715        18207  original.src
+2011-09-26 21:58:21 ....A         1836          843  readme.txt
+2008-09-20 13:13:02 ....A         1963          858  tmcase1.inp
+2009-03-04 19:57:04 ....A        23867         3443  tmcase1.out
+2008-08-24 10:30:54 ....A         2845         1037  tmcase2.inp
+2009-03-04 19:57:54 ....A         2586          672  tmcase2.out
+2009-03-05 16:01:48 ....A         2365          904  tmcase3.inp
+2009-03-05 18:50:26 ....A        15920         2189  tmcase3.out
+------------------- ----- ------------ ------------  ------------------------
+                                299964        55704  10 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\abaxiexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\abaxiexec.zip
+Type = zip
+Physical Size = 298668
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-03-06 10:25:11 ....A       643332       224549  abaxi.exe
+2009-03-07 08:40:03 ....A       112749        29990  abaxi.lnx
+2009-04-29 21:59:44 ....A       185388        30674  abaxi.mac
+2009-02-01 21:45:47 ....A        51404        12911  anduct.mac
+------------------- ----- ------------ ------------  ------------------------
+                                992873       298124  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\ablate.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\ablate.zip
+Type = zip
+Physical Size = 181941
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-12 13:45:12 ....A       382908        52202  ablate.f90
+2005-11-12 12:39:12 ....A          614          344  case1.inp
+2005-11-12 13:11:38 ....A       174144        14961  case1.out
+2005-11-12 13:13:24 ....A          510          293  case2.inp
+2005-11-12 13:13:30 ....A       195195        20177  case2.out
+2005-11-12 13:14:18 ....A          956          468  case5.inp
+2005-11-12 13:14:22 ....A       381773        23646  case5.out
+2005-09-06 17:59:24 ....A         2014         1039  lew00240.txt
+1996-11-30 00:09:16 ....A       594376        67021  original.src
+2011-09-27 10:10:02 ....A          948          452  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                               1733438       180603  10 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\aipp.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\aipp.zip
+Type = zip
+Physical Size = 119024
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-09-09 12:42:08 ....A       188995        43391  aipp.f90
+2005-10-20 19:47:48 ....A         4836         2146  lar12203.txt
+1996-11-30 00:09:08 ....A       515134        72519  original.src
+2011-09-27 10:24:17 ....A          740          414  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                709705       118470  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\airfols.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\airfols.zip
+Type = zip
+Comment = NASA program for NACA airfoils from TM-4741.
+Physical Size = 47102
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1997-04-22 10:38:58 ....A       221956        44730  BROOKS.FOR
+1997-04-25 12:50:54 ....A          507          184  ADVICS.H
+1997-04-25 12:51:40 ....A          403          182  AF6S.H
+1997-04-25 12:52:08 ....A          776          296  AFDESC.H
+1997-04-25 12:52:32 ....A          226          123  CHSTG.H
+1997-04-25 12:52:54 ....A          446          175  LISTS.H
+1997-04-25 12:53:14 ....A          183           89  NUMFIL.H
+1997-04-25 12:53:30 ....A          280          146  PSSC.H
+2004-11-01 11:53:54 ....A          412          287  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                225189        46212  9 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\anduct.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\anduct.zip
+Type = zip
+Physical Size = 44052
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-10-25 15:06:06 ....A        28812         8661  anduct.f90
+2009-11-30 15:30:46 ....A         5687          796  case1.inp
+2005-11-07 16:58:16 ....A        83149        20323  case1.out
+2009-11-30 15:30:18 ....A          906          255  case2.inp
+2005-11-07 16:58:24 ....A         6879         1964  case2.out
+2009-11-30 15:31:40 ....A          260          115  case3.inp
+2005-11-07 16:58:32 ....A         6879         1264  case3.out
+2009-11-30 15:32:26 ....A          534          144  case4.inp
+2005-11-07 16:58:40 ....A         6879         1477  case4.out
+2005-11-12 14:21:20 ....A          275          128  case6.inp
+2001-10-24 20:25:08 ....A         2454         1224  lew14000.txt
+1996-11-30 08:15:24 ....A        17824         5400  original.src
+2011-09-27 10:31:20 ....A         1043          573  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                161581        42324  13 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\aofa.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\aofa.zip
+Type = zip
+Physical Size = 47230
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-17 15:05:58 ....A        98576        22405  aofa.f90
+2001-10-24 18:43:52 ....A         2773         1396  arc11087.txt
+1996-11-30 00:12:36 ....A       100945        22402  original.src
+2011-09-27 10:34:35 ....A          868          473  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                203162        46676  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\aries.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\aries.zip
+Type = zip
+Physical Size = 30261
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-11-10 08:19:52 ....A          858          332  case1.inp
+2010-11-10 08:19:52 ....A        40257        10410  case1.out
+2005-09-09 17:14:14 ....A         2754         1409  msc20816.txt
+2005-09-09 16:27:16 ....A        72991        17074  original.src
+2011-09-27 10:38:02 ....A          636          350  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                117496        29575  5 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\atc.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\atc.zip
+Type = zip
+Physical Size = 28953
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-09-09 16:42:20 ....A         2426         1252  arc11132.txt
+2008-12-04 13:23:46 ....A        20932         6516  atc.f90
+2009-02-02 18:38:30 ....A        57530         7343  atc.out
+2005-12-22 18:05:42 ....A           98           72  case1.inp
+2008-08-28 12:45:12 ....A        57530         7343  case1.out
+1996-11-30 00:12:44 ....A        10386         3379  original.src
+2005-09-10 18:14:32 ....A          992          218  plot.inp
+2008-08-28 10:50:38 ....A         3483          836  radar.inp
+2011-10-02 13:54:37 ....A         1300          600  readme.txt
+2005-09-10 18:14:32 ....A          210           70  wind.inp
+------------------- ----- ------------ ------------  ------------------------
+                                154887        27629  10 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\atcexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\atcexec.zip
+Type = zip
+Physical Size = 222886
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 14:02:56 ....A       553781       202403  atc.exe
+2009-02-23 14:02:56 ....A        31211        10605  atc.lnx
+2009-04-29 21:59:44 ....A        38968         9478  atc.mac
+------------------- ----- ------------ ------------  ------------------------
+                                623960       222486  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\atmos.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\atmos.zip
+Type = zip
+Physical Size = 177606
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1995-12-05 16:28:18 ....A         4307         1821  at62.for
+2000-12-30 10:38:04 ....A        17312         4337  atmos76.f90
+2001-10-29 10:57:08 ....A        78142        12924  atmtabs.htm
+2011-09-27 12:28:49 ....A        13108         3886  bb.f90
+2000-03-06 15:37:54 ....A        18627         4805  bbtraj.f90
+2001-01-01 21:07:06 ....A        18323         5286  bigtable.f90
+2009-03-02 16:36:52 ....A        16638         5474  bigtable.out
+1999-01-02 09:01:12 ....A         3156         1471  coesa.txt
+2010-12-12 19:34:02 ....A        20418         5173  ex210.f90
+2010-12-03 13:08:48 ....A        18059         4785  ex210Dec3.f90
+2010-12-12 18:17:44 ....A        17660         5102  hotcold.f90
+2004-12-24 17:39:10 ....A        22134         4811  hotcold1.f90
+2004-12-26 15:23:00 ....A         4495         1641  hotcold2.f90
+2010-09-28 18:23:22 ....A        12361         3811  jump.f90
+2002-01-06 10:58:42 ....A         6060         2627  language.txt
+2010-11-29 10:10:36 ....A        12387         3830  milstd210.f90
+2010-12-07 12:03:16 ....A        17325         4934  nonStandard.f90
+2000-11-28 09:02:36 ....A         4609         1667  press.dpr
+2011-09-27 16:12:15 ....A        10690         4220  readme.txt
+1995-09-19 20:37:48 ....A        10819         2656  tables.bas
+2001-10-31 16:43:36 ....A        11599         2870  tables.c
+2009-02-15 13:06:48 ....A        14776         3251  tables.cpp
+2001-10-31 17:01:36 ....A        13045         3227  tables.dpr
+2001-11-28 16:05:06 ....A        17262         3573  tables.f90
+2001-10-31 16:20:46 ....A        21129         3602  tables.for
+2001-11-17 13:57:36 ....A        14376         3174  tables.java
+2001-11-17 10:54:14 ....A         2025          793  tables.jpr
+2005-01-04 17:12:14 ....A         7307         2268  tables.py
+2010-12-10 15:00:34 ....A         3525         1280  tables.txt
+2001-11-16 15:42:44 ....A          625          399  tables.vbp
+2001-11-16 15:55:38 ....A           50           50  tables.vbw
+2001-10-29 17:36:06 ....A        28785         5077  tables76.f90
+2000-12-29 15:33:04 ....A         7735         2796  uasa2000.dpr
+2000-12-29 16:33:16 ....A        47616        26794  uasa2000.exe
+2000-10-22 14:02:58 ....A         7696         2763  uasa2000.pas
+2010-12-29 16:21:40 ....A        25828         6644  upper2.f90
+2010-12-29 16:22:02 ....A        27323         6380  upperfigs.f90
+2000-12-29 13:40:28 ....A        20519         6141  ussa1976.dpr
+2000-12-29 13:19:44 ....A        20389         6041  ussa1976.pas
+------------------- ----- ------------ ------------  ------------------------
+                                618240       172384  39 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\atmos2 (from HomeMacbook).zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\atmos2 (from HomeMacbook).zip
+Type = zip
+Physical Size = 236949
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-01-02 09:01:12 .....         3156         1487  coesa.txt
+2012-07-03 16:48:13 .....         5876         2599  language.txt
+1995-12-05 16:28:18 .....         4307         1866  at62.for
+2011-09-27 16:12:15 .....        10690         4302  readme.txt
+2001-10-31 16:43:36 .....        11599         2913  tables.c
+2011-10-20 20:25:32 .....        14931         3323  tables.cpp
+2001-10-31 16:20:46 .....        21129         3656  tables.for
+2001-11-28 16:05:06 .....        17262         3599  tables.f90
+2005-01-04 17:12:14 .....         7307         2292  tables.py
+2012-07-05 15:26:22 .....        13220         3368  tables.dpr
+2012-07-17 17:03:28 .....        27509         6035  tablesHTML.f90
+2012-07-16 17:07:16 .....         5148         1927  us1c.prt
+2012-07-16 17:08:00 .....         5253         2011  us1cpp.prt
+2012-07-07 16:16:49 .....         4502         1874  us1f.prt
+2012-07-06 13:42:20 .....         4560         1889  us1p.prt
+2012-07-07 12:35:10 .....         4798         1896  us1py.prt
+2012-07-16 17:07:16 .....         5383         2019  us2c.prt
+2012-07-16 17:08:00 .....         5449         2027  us2cpp.prt
+2012-07-07 16:16:49 .....         5246         2003  us2f.prt
+2012-07-06 13:42:20 .....         5314         2010  us2p.prt
+2012-07-07 12:35:10 .....         5247         2002  us2py.prt
+2012-07-16 17:07:16 .....         4077         1596  si1c.prt
+2012-07-16 17:08:00 .....         4062         1657  si1cpp.prt
+2012-07-07 16:16:49 .....         3574         1551  si1f.prt
+2012-07-06 13:42:20 .....         3619         1558  si1p.prt
+2012-07-07 12:35:10 .....         3805         1564  si1py.prt
+2012-07-16 17:07:16 .....         3253         1311  si2c.prt
+2012-07-16 17:08:00 .....         3253         1310  si2cpp.prt
+2012-07-07 16:16:49 .....         3125         1300  si2f.prt
+2012-07-06 13:42:20 .....         3167         1298  si2p.prt
+2012-07-07 12:35:10 .....         3167         1301  si2py.prt
+2012-07-03 16:06:55 .....         6321         2192  press.dpr
+2012-07-17 18:18:02 .....        51398         9598  atmtabs.html
+2011-01-12 18:52:05 .....        16435         5627  bigtable.out
+2000-12-29 15:33:04 .....         7735         2823  uasa2000.dpr
+2000-12-29 16:33:16 .....        47616        27324  uasa2000.exe
+2000-10-24 18:00:04 .....         4583         1816  uasa2000.f90
+2000-10-22 14:02:58 .....         7696         2789  uasa2000.pas
+2000-10-22 09:03:52 .....        25688        25688  uasa2000.zip
+2000-12-29 13:40:28 .....        20519         6305  ussa1976.dpr
+2000-12-29 13:19:44 .....        20389         6199  ussa1976.pas
+2000-05-06 10:05:50 .....        33535        33535  ussa1976.zip
+2010-12-12 19:34:02 .....        20418         5263  ex210.f90
+2010-12-03 13:08:48 .....        18059         4880  ex210Dec3.f90
+2010-12-12 18:17:44 .....        17660         5228  hotcold.f90
+2004-12-24 17:39:10 .....        22134         4875  hotcold1.f90
+2004-12-26 15:23:00 .....         4495         1658  hotcold2.f90
+2010-12-12 18:22:42 .....        17660         5228  hotcoldXX.f90
+2010-11-29 10:10:36 .....        12387         3884  milstd210.f90
+2010-12-07 12:03:16 .....        17325         5053  nonStandard.f90
+------------------- ----- ------------ ------------  ------------------------
+                                595041       229509  50 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\boom.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\boom.zip
+Type = zip
+Physical Size = 23685
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-09-24 15:36:02 ....A        20141         5863  boom.f90
+2008-09-17 08:12:44 ....A          652          223  case1.inp
+2008-09-20 13:59:50 ....A        13546         2380  case1.out
+2008-09-22 10:16:00 ....A        13546         2380  case1b.out
+2008-09-17 08:00:56 ....A          268           92  case2.inp
+2008-09-20 13:46:42 ....A         3995          931  case2.out
+2008-09-20 13:55:12 ....A         4033          929  case2a.out
+2008-09-22 16:41:08 ....A          917          281  cases.inp
+2008-09-22 16:42:16 ....A        17415         3022  cases.out
+2008-09-06 14:32:12 ....A        13972         5565  original.src
+2011-09-27 16:51:59 ....A         1276          557  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 89761        22223  11 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\cas2d.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\cas2d.zip
+Type = zip
+Physical Size = 24360
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-12 23:41:30 ....A        34778         9656  cas2d.f
+2005-11-12 19:58:48 ....A         2556         1348  lew13854.txt
+1996-11-30 01:09:18 ....A        52810        12402  original.src
+2011-09-27 16:53:30 ....A          684          402  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 90828        23808  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\celest.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\celest.zip
+Type = zip
+Physical Size = 12539
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-12-14 17:11:02 ....A         9694         2583  celest.f90
+2008-07-06 15:36:38 ....A         5333         1414  original.src
+2011-09-27 17:07:50 ....A         2214          962  readme.txt
+2009-12-14 17:05:16 ....A         5803          906  table1.txt
+2009-12-14 17:05:16 ....A         5807          902  table2.txt
+2009-12-14 17:05:16 ....A         5799         1009  table3.txt
+2009-12-14 17:05:16 ....A         5801         1023  table4.txt
+2009-12-14 17:05:16 ....A         5807         1273  table5.txt
+2009-12-14 17:11:02 ....A         4435         1253  tables.f90
+------------------- ----- ------------ ------------  ------------------------
+                                 50693        11325  9 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\coldarc.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\coldarc.zip
+Type = zip
+Physical Size = 26558
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-13 00:31:38 ....A         1727          332  blank.cmn
+2010-11-28 10:42:02 ....A          170           83  case1.inp
+2010-11-28 10:41:52 ....A        38551        11201  coldarc.f90
+2005-11-13 00:50:50 ....A          546          288  input.txt
+2005-11-07 09:34:06 ....A         1932          998  msc20522.txt
+1996-11-30 01:09:26 ....A        87885        12299  original.src
+2011-09-27 17:07:50 ....A          724          407  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                131535        25608  7 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\conplot.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\conplot.zip
+Type = zip
+Physical Size = 28524
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-10-04 16:14:16 ....A         1879         1009  arc11441.txt
+2010-01-21 21:24:40 ....A        49899        13682  conplot.f90
+1996-11-30 00:12:44 ....A        32691         8787  original.src
+2010-01-25 12:08:24 ....A         3463         1535  readme.txt
+2010-01-21 21:18:40 ....A         1905          716  test1.f90
+2010-01-21 21:25:10 ....A         3824         1245  test2.f90
+1999-12-29 10:26:22 ....A           51           37  test2con.txt
+1999-12-29 10:23:50 ....A         1998          421  test2dat.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 95710        27432  8 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\contour.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\contour.zip
+Type = zip
+Physical Size = 37738
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-01-27 13:38:56 ....A         2076         1099  lar10872.txt
+1996-11-30 00:12:48 ....A       252411        35850  original.src
+2011-09-27 17:07:50 ....A          640          363  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                255127        37312  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\corel.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\corel.zip
+Type = zip
+Physical Size = 39480
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-10-20 18:58:52 ....A         2921         1457  lar13239.txt
+1999-10-07 18:00:44 ....A       145222        37227  original.src
+2011-09-28 12:47:20 ....A          643          370  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                148786        39054  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\datcom.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\datcom.zip
+Type = zip
+Physical Size = 788034
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2003-05-23 12:29:32 ....A        65362        61675  exlinux.zip
+2004-12-21 15:16:40 ....A        64270        60487  exmac.zip
+2004-12-22 15:52:30 ....A        60041        56708  exwin.zip
+2011-09-28 13:38:29 ....A         3627         1690  readme.txt
+2009-03-10 09:40:28 ....A       626344       606794  source.zip
+------------------- ----- ------------ ------------  ------------------------
+                                819644       787354  5 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\datcomexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\datcomexec.zip
+Type = zip
+Physical Size = 1410263
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-11-18 10:11:27 ....A      1914380       654504  datcom.exe
+2009-11-18 10:11:27 ....A      1189359       363321  datcom.lnx
+2009-11-18 10:11:27 ....A      1457036       392020  datcom.mac
+------------------- ----- ------------ ------------  ------------------------
+                               4560775      1409845  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\diffprob.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\diffprob.zip
+Type = zip
+Physical Size = 174733
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-10-11 10:41:24 ....A         4559         1495  areash.f90
+2002-09-13 09:55:40 ....A         1185          400  areash.out
+2003-03-20 11:42:12 ....A        46750        17547  areash.pdf
+2003-04-08 10:04:00 ....A        40257        15010  areash2.pdf
+2003-03-20 11:42:12 ....A        42518        15814  geopot.pdf
+2003-03-20 18:42:12 ....A        69391        27767  hydro.pdf
+2003-01-25 10:23:18 ....A         5808         2012  maxramp.f90
+2003-01-25 15:20:48 ....A          931          375  maxramp.out
+2003-03-20 11:42:12 ....A        53927        25206  maxramp1.pdf
+2003-03-20 11:42:12 ....A        47519        18170  maxramp2.pdf
+2002-09-29 14:19:00 ....A         8589         2441  oshock.f90
+2002-10-12 16:30:32 ....A          560          226  oshock.out
+2003-03-20 11:42:12 ....A        53462        24858  oshock1.pdf
+2003-03-20 11:42:12 ....A        50865        20388  oshock2.pdf
+2011-09-28 13:41:06 ....A         2125         1006  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                428446       172715  15 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\diverge.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\diverge.zip
+Type = zip
+Physical Size = 33141
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-13 01:27:22 ....A         1130          589  case1.inp
+2010-02-04 14:52:38 ....A         3938          795  case1.out
+2009-12-11 16:10:40 ....A         1250          700  case2.inp
+2010-02-04 14:53:14 ....A         3971          815  case2.out
+2010-02-04 15:51:20 ....A        55111        11737  diverge.f90
+2005-10-20 20:01:26 ....A         2038         1127  lar12004.txt
+1996-11-30 00:09:10 ....A       123853        15723  original.src
+2011-09-28 13:47:20 ....A         1110          575  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                192401        32061  8 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\elastic.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\elastic.zip
+Type = zip
+Physical Size = 1677
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 01:09:08 ....A         2031         1056  lar11602.txt
+2011-09-28 13:54:08 ....A          598          331  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                  2629         1387  2 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\eppler.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\eppler.zip
+Type = zip
+Physical Size = 36643
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1998-12-26 16:57:50 ....A          204          105  e1098.dat
+2004-01-01 13:46:18 ....A        23419         6211  e1098.out
+2009-12-13 20:04:56 ....A        92630        28138  profile.f90
+2009-03-03 15:30:16 ....A         3394         1641  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                119647        36095  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\epplerexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\epplerexec.zip
+Type = zip
+Physical Size = 308727
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-12-17 16:02:46 ....A       652541       236882  profile.exe
+2009-02-23 14:23:56 ....A       100117        34709  profile.lnx
+2009-04-29 22:00:06 ....A       118152        36712  profile.mac
+------------------- ----- ------------ ------------  ------------------------
+                                870810       308303  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\exhaust.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\exhaust.zip
+Type = zip
+Physical Size = 87870
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-12-03 17:32:34 ....A         1713          962  lar11596.txt
+2005-11-13 02:10:40 ....A       190267        43027  nozzle.for
+1996-11-30 00:12:24 ....A       190193        42916  original.src
+2011-09-29 10:58:16 ....A          706          407  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                382879        87312  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\fairdata.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\fairdata.zip
+Type = zip
+Physical Size = 26300
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-12-26 16:01:16 ....A         1383          490  case1.nml
+2001-12-12 13:58:18 ....A        17076         3733  case1.out
+2001-08-11 10:05:58 ....A         1394          494  case1.txt
+2001-12-26 16:01:16 ....A         1485          545  case1a.nml
+2001-08-11 10:43:44 ....A         1502          560  case1a.txt
+2001-12-26 16:01:16 ....A         1353          488  case1b.nml
+2001-12-26 16:01:16 ....A         3110         1211  case2.nml
+2001-12-19 17:10:36 ....A         3121         1239  case2.txt
+2001-12-26 16:01:16 ....A         3168         1231  case2a.nml
+2001-12-19 17:10:34 ....A         3269         1288  case2a.txt
+2001-12-19 11:59:30 ....A         2174          864  case3.nml
+2001-12-17 13:30:48 ....A         2214          883  case3.txt
+2001-12-19 12:03:00 ....A         2206          876  case3a.nml
+2001-12-19 17:36:46 ....A          630          322  case4.nml
+2002-01-06 16:57:26 ....A        36192         8968  fair.f90
+2011-09-29 10:58:16 ....A         2246          994  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 82523        24186  16 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\fairdataexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\fairdataexec.zip
+Type = zip
+Physical Size = 269708
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 14:24:59 ....A       626049       225998  fair.exe
+2009-02-23 14:24:50 ....A        62107        21289  fair.lnx
+2009-04-29 22:00:06 ....A        72672        22015  fair.mac
+------------------- ----- ------------ ------------  ------------------------
+                                760828       269302  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\fluid.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\fluid.zip
+Type = zip
+Physical Size = 363899
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1997-12-18 16:45:00 ....A        94909        22874  ar.f90
+1997-12-18 16:45:10 ....A        72012        18670  ch4.f90
+1997-12-19 11:05:26 ....A        95021        23566  co2.f90
+1997-12-18 13:07:16 ....A         3717         1117  cubic.f90
+1997-12-18 16:45:28 ....A        25996         4701  dryair.f90
+1997-12-18 16:45:36 ....A        71956        18107  f2.f90
+2008-08-27 13:10:20 ....A        70128        11441  fluid.f90
+1997-09-11 09:22:34 ....A        11373         2892  futil.f90
+1997-09-11 10:11:38 ....A        28749         5032  gases.f90
+1998-01-02 12:25:02 ....A         9840         3851  instr.txt
+1998-01-02 11:52:56 ....A         2924         1314  lew14418.txt
+1997-12-18 16:45:56 ....A        94893        23377  n2.f90
+1997-12-18 11:15:04 ....A         5621         2056  ntrp.f90
+1997-12-18 16:47:54 ....A        41977        10685  o2.f90
+2006-01-04 17:06:28 ....A       174073       173691  original.zip
+1997-12-18 16:46:04 ....A        46308        11931  ph2.f90
+2011-09-29 11:07:58 ....A         2703         1209  readme.txt
+2008-08-27 10:19:10 ....A         8362         1889  sample.f90
+2008-08-27 11:23:24 ....A        12621         3233  samprlc.f90
+1997-12-18 16:48:02 ....A        73284        19657  steam.f90
+------------------- ----- ------------ ------------  ------------------------
+                                946467       361293  20 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\flutter.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\flutter.zip
+Type = zip
+Physical Size = 22292
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-13 11:57:04 ....A          248          146  blk.inc
+2005-11-13 02:17:18 ....A         3338         1128  case1.dat
+2005-11-24 11:33:34 ....A         1478          812  case1.inp
+2005-11-24 09:51:22 ....A         1858          900  case2.dat
+2005-11-27 19:11:10 ....A        66126        17569  flutter.f90
+2011-09-29 11:12:48 ....A         1205          612  readme.txt
+2005-11-13 11:57:04 ....A          504          195  wws.inc
+------------------- ----- ------------ ------------  ------------------------
+                                 74757        21362  7 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\fmm.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\fmm.zip
+Type = zip
+Physical Size = 53844
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-10-11 10:11:36 ....A       117901        31812  fmm.f90
+2009-03-13 15:28:46 ....A        56297        15795  original.src
+2011-09-29 11:25:13 ....A         1347          698  readme.txt
+2008-12-12 16:24:44 ....A        21712         3483  samples.f90
+2005-01-02 16:10:42 ....A         4161         1372  samples.out
+------------------- ----- ------------ ------------  ------------------------
+                                201418        53160  5 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\fsd.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\fsd.zip
+Type = zip
+Physical Size = 215977
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-13 13:56:16 ....A         3058         1574  gsc13006.txt
+2005-11-02 11:11:32 ....A        13152         3263  library.pas
+2005-11-02 10:24:44 ....A       887774       210188  original.src
+2011-09-29 11:25:13 ....A          703          392  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                904687       215417  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\gasp.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\gasp.zip
+Type = zip
+Physical Size = 111453
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-12-10 17:49:50 ....A        81362        21794  g.for
+1998-01-01 16:01:18 ....A         2367         1243  lew11629.txt
+2006-01-04 18:09:48 ....A       176127        28153  original.src
+2009-12-07 16:57:50 ....A         3755         1408  prob1.f90
+2009-12-07 17:07:46 ....A         2806         1059  prob2.f90
+2009-12-07 17:14:18 ....A         2543         1137  prob3.f90
+2009-12-07 17:24:40 ....A         3875         1507  prob4.f90
+2009-12-07 17:26:14 ....A         2373         1086  prob5.f90
+2009-12-22 22:00:56 ....A          651          373  problem1.out
+2009-12-22 22:00:56 ....A          614          349  problem2.out
+2009-12-22 22:00:56 ....A         2727          689  problem3.out
+2009-12-22 22:00:56 ....A        18342         1521  problem4.out
+2011-09-29 11:41:33 ....A         2015          857  readme.txt
+2009-12-07 16:13:18 ....A         6479         2029  sample1.for
+2009-12-07 16:13:32 ....A        74197        24832  sample1.out
+2009-12-07 16:22:24 ....A         4752         1702  sample2.for
+2009-12-07 16:22:34 ....A        86128        11282  sample2.out
+2009-12-07 16:29:04 ....A         3026         1088  sample3.for
+2009-12-07 16:29:12 ....A        25707         6798  sample3.out
+------------------- ----- ------------ ------------  ------------------------
+                                499846       108907  19 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\getmac.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\getmac.zip
+Type = zip
+Physical Size = 3306
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-11-03 17:38:26 ....A         5637         1893  getmac.f90
+2006-01-03 10:12:10 ....A          765          396  input.txt
+2011-09-29 11:41:33 ....A         1342          601  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                  7744         2890  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\getmacexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\getmacexec.zip
+Type = zip
+Physical Size = 205053
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-12-17 16:02:48 ....A       527166       194889  getmac.exe
+2009-02-23 14:32:34 ....A        14559         5459  getmac.lnx
+2009-04-29 22:00:07 ....A        22380         4287  getmac.mac
+------------------- ----- ------------ ------------  ------------------------
+                                564105       204635  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\goptics.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\goptics.zip
+Type = zip
+Physical Size = 56127
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-12-10 18:10:40 ....A       313577        53616  geno84.f90
+1996-11-30 01:16:12 ....A         3999         1699  gsc12823.txt
+2011-09-29 11:46:46 ....A          677          390  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                318253        55705  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\grape.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\grape.zip
+Type = zip
+Physical Size = 119808
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-12-19 11:31:06 ....A         3071         1520  arc11379.txt
+2005-11-02 09:04:20 ....A           42           42  case1.inp
+2006-01-01 16:34:46 ....A       110659        15901  case1.out
+2005-11-02 09:05:00 ....A          150          115  case2.inp
+2006-01-01 16:35:32 ....A        51951         1201  case2.out
+2005-11-02 09:05:54 ....A          864          286  case3.inp
+2006-01-01 16:36:02 ....A       141518        24253  case3.out
+2005-11-02 09:06:52 ....A         3714         1283  case4.inp
+2006-01-01 16:36:24 ....A       112357        15870  case4.out
+2009-01-30 18:50:58 ....A       135353        29906  grape.f90
+1996-11-30 00:08:58 ....A       117501        27211  original.src
+2011-09-29 12:26:57 ....A         1355          624  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                678535       118212  12 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\hlp.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\hlp.zip
+Type = zip
+Physical Size = 227409
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-01-07 11:48:56 ....A         2588         1334  arc12721.txt
+2008-05-20 13:31:38 ....A       229088       191549  danplot.exe
+2005-10-11 11:44:54 ....A        45568         9792  dpr.xls
+2004-12-20 11:40:18 ....A          215          149  drh.cmn
+2009-12-13 19:51:22 ....A        78390        20557  hlp.f90
+2006-01-03 08:23:58 ....A         1933         1000  input.txt
+2011-09-29 12:26:57 ....A         4606         2096  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                362388       226477  7 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\hlpexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\hlpexec.zip
+Type = zip
+Physical Size = 263255
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 14:36:05 ....A       592966       215547  hlp.exe
+2009-02-23 14:36:05 ....A        66599        23587  hlp.lnx
+2009-04-29 22:00:09 ....A        85016        23721  hlp.mac
+------------------- ----- ------------ ------------  ------------------------
+                                744581       262855  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\hyper.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\hyper.zip
+Type = zip
+Physical Size = 100530
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-11-24 10:05:18 ....A        46851        11086  hyper.f90
+2006-01-04 17:46:18 ....A         3661         1677  input.txt
+2010-11-24 10:05:18 ....A        23033         6692  methods.f90
+2011-09-30 12:28:28 ....A         2306         1115  readme.txt
+2002-12-31 16:06:16 ....A       280192        34889  tmx1242.dbg
+2002-12-29 18:32:08 ....A          213          167  tmx1242.inp
+2002-12-13 10:15:06 ....A          427          278  tmx1242.mak
+2002-12-31 16:06:16 ....A         2519         1006  tmx1242.out
+2002-12-13 17:15:22 ....A        14327         2009  tmx1242.wgs
+2002-12-31 16:08:08 ....A       214824        34558  tnd6480.dbg
+2002-12-06 18:02:26 ....A          170          120  tnd6480.inp
+2002-12-06 18:16:18 ....A          487          315  tnd6480.mak
+2003-01-01 16:48:28 ....A         2047          870  tnd6480.out
+2002-12-06 18:16:32 ....A        27295         3860  tnd6480.wgs
+------------------- ----- ------------ ------------  ------------------------
+                                618352        98642  14 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\hyperexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\hyperexec.zip
+Type = zip
+Physical Size = 305625
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 14:36:51 ....A       757739       250344  hyper.exe
+2009-02-23 14:36:51 ....A        87745        26907  hyper.lnx
+2009-04-29 22:00:10 ....A        99336        27962  hyper.mac
+------------------- ----- ------------ ------------  ------------------------
+                                944820       305213  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\induced.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\induced.zip
+Type = zip
+Physical Size = 13504
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-07-24 20:56:46 ....A          159          127  case1.ccl
+1996-12-28 16:39:28 ....A         1407          555  case1.out
+1996-12-28 08:43:26 ....A          444          289  case2.ccl
+1996-12-28 16:42:18 ....A         1405          567  case2.out
+1997-01-02 14:14:06 ....A          247          168  case3.ccl
+1997-01-02 14:15:00 ....A         1315          566  case3.out
+1996-12-28 08:43:26 ....A          288          206  case4.ccl
+1996-12-28 16:42:38 ....A         1224          455  case4.out
+2009-01-28 18:08:38 ....A        10859         2892  id.f90
+2009-01-28 18:08:12 ....A        15560         4366  induced.f90
+2011-09-30 13:08:13 ....A         4192         1861  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 37100        12052  11 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\inducedexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\inducedexec.zip
+Type = zip
+Physical Size = 242458
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-12-17 16:02:54 ....A       582328       213602  induced.exe
+2009-02-23 14:38:03 ....A        36737        14593  induced.lnx
+2009-04-29 22:00:11 ....A        43740        13839  induced.mac
+------------------- ----- ------------ ------------  ------------------------
+                                662805       242034  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\inlet.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\inlet.zip
+Type = zip
+Physical Size = 15318
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-12-28 16:42:14 ....A         1222          460  blank.cmn
+2009-03-31 12:27:24 ....A        51719        13647  inlet.f90
+2011-09-30 13:08:13 ....A         1522          797  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 54463        14904  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\inletexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\inletexec.zip
+Type = zip
+Physical Size = 252341
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-11-18 10:19:10 ....A       591752       209334  inlet.exe
+2009-11-18 10:19:10 ....A        77115        20587  inlet.lnx
+2009-12-12 11:32:13 ....A       120696        22008  inlet.mac
+------------------- ----- ------------ ------------  ------------------------
+                                789563       251929  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\ipeg.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\ipeg.zip
+Type = zip
+Physical Size = 13461
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 00:15:28 ....A         3186         1437  npo15569.txt
+1996-11-30 01:15:30 ....A        48845        11099  original.src
+2011-09-30 13:08:13 ....A          906          499  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 52937        13035  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\kernel.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\kernel.zip
+Type = zip
+Physical Size = 106869
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 00:09:14 ....A         4872          678  case1.inp
+2006-01-01 16:52:26 ....A       150324         4310  case1.out
+2006-01-01 16:52:00 ....A       175825        32782  kernel.f90
+2005-12-03 17:47:30 ....A         4262         1944  lar12524.txt
+1996-11-30 00:09:14 ....A       469894        65719  original.src
+2011-09-30 13:08:13 ....A         1190          618  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                806367       106051  6 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\kernelexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\kernelexec.zip
+Type = zip
+Physical Size = 565803
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-11-18 10:19:52 ....A       719284       283378  kernel.exe
+2009-11-18 10:19:53 ....A       223782        88203  kernel.lnx
+2009-11-18 10:19:53 ....A       476732       193804  kernel.mac
+------------------- ----- ------------ ------------  ------------------------
+                               1419798       565385  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\lineint.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\lineint.zip
+Type = zip
+Physical Size = 226594
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2000-12-24 20:13:06 ....A          185          131  int2d.dpr
+2007-03-06 16:57:22 ....A       438784       220461  int2d.exe
+2011-09-30 13:58:40 ....A         1978          981  readme.txt
+2000-11-10 16:48:38 ....A         5009         1706  xlines.c
+2000-12-26 18:29:06 ....A         8302          896  xsect.dfm
+2000-12-24 20:13:58 ....A         5538         1617  xsect.pas
+------------------- ----- ------------ ------------  ------------------------
+                                459796       225792  6 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\lineintexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\lineintexec.zip
+Type = zip
+Physical Size = 220613
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2007-03-06 16:57:22 ....A       438784       220461  int2d.exe
+------------------- ----- ------------ ------------  ------------------------
+                                438784       220461  1 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\linintrp.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\linintrp.zip
+Type = zip
+Physical Size = 226880
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2000-11-28 18:11:24 ....A         3987          856  int.dfm
+2000-11-28 18:19:50 ....A         4594         1228  int.pas
+2000-11-27 18:58:26 ....A          182          129  interp.dpr
+2007-03-06 16:59:50 ....A       444416       223123  interp.exe
+2011-09-30 13:58:40 ....A         1817          874  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                454996       226210  5 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\linintrpexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\linintrpexec.zip
+Type = zip
+Physical Size = 223277
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2007-03-06 16:59:50 ....A       444416       223123  interp.exe
+------------------- ----- ------------ ------------  ------------------------
+                                444416       223123  1 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\longlib.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\longlib.zip
+Type = zip
+Physical Size = 1284394
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 01:11:48 ....A         2837         1412  npo17443.txt
+2008-10-02 08:48:14 ....A      1289750      1282200  original.zip
+2011-09-30 13:58:40 ....A          641          356  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                               1293228      1283968  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\makewgs.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\makewgs.zip
+Type = zip
+Physical Size = 16124
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-01-03 12:45:56 ....A         3516         1270  input.txt
+2008-03-17 17:01:38 ....A        35876         8303  makewgs.f90
+2011-09-30 13:58:40 ....A         1072          517  readme.txt
+2005-01-01 19:05:08 ....A          485          316  tnd6480.mak
+2005-01-01 19:13:30 ....A        27296         3871  tnd6480.wgs
+2005-01-01 19:08:44 ....A          545          361  tnd7505.mak
+2005-01-01 19:09:00 ....A         3828          532  tnd7505.wgs
+------------------- ----- ------------ ------------  ------------------------
+                                 72618        15170  7 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\makewgsexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\makewgsexec.zip
+Type = zip
+Physical Size = 262627
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-12-17 15:02:56 ....A       613604       222333  makewgs.exe
+2009-02-23 14:41:04 ....A        55020        18816  makewgs.lnx
+2009-12-22 21:09:56 ....A        64388        21054  makewgs.mac
+------------------- ----- ------------ ------------  ------------------------
+                                733012       262203  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\mark4.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\mark4.zip
+Type = zip
+Physical Size = 143154
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1990-11-28 12:09:18 ....A       520324       143038  mark4.for
+------------------- ----- ------------ ------------  ------------------------
+                                520324       143038  1 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\massprop.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\massprop.zip
+Type = zip
+Physical Size = 26480
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-15 17:02:02 ....A           65           59  example1.inp
+2009-02-19 17:31:44 ....A         1268          557  example1.out
+2009-02-15 17:02:14 ....A          675           99  example2.inp
+2009-02-19 17:32:08 ....A         4852          739  example2.out
+2009-02-15 17:02:24 ....A          922          274  example3.inp
+2009-02-19 17:32:32 ....A         3637         1070  example3.out
+2005-12-03 17:52:38 ....A         2565         1228  lar12454.txt
+2009-02-10 18:06:42 ....A        40732        11807  massprop.f90
+1996-11-30 00:12:24 ....A        42018         8587  original.src
+2011-09-30 14:27:37 ....A         1506          682  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 98240        25102  10 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\masspropexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\masspropexec.zip
+Type = zip
+Physical Size = 237700
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-12-17 16:02:56 ....A       572695       205216  massprop.exe
+2009-02-17 17:17:37 ....A        60525        16574  massprop.lnx
+2009-04-29 22:00:13 ....A        71652        15480  massprop.mac
+------------------- ----- ------------ ------------  ------------------------
+                                704872       237270  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\mislift.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\mislift.zip
+Type = zip
+Physical Size = 7443
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-12-03 17:55:52 ....A         1861          994  lar10932.txt
+1996-11-30 00:09:08 ....A        23850         5638  original.src
+2009-02-19 17:35:36 ....A          658          385  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 26369         7017  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\monitor.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\monitor.zip
+Type = zip
+Physical Size = 108781
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 01:09:28 ....A         3143         1438  gsc12705.txt
+1996-11-30 01:09:28 ....A       661545       106526  original.src
+2011-09-30 14:27:37 ....A          672          391  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                665360       108355  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\naca456.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\naca456.zip
+Type = zip
+Physical Size = 408064
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-11-01 11:54:12 ....A        47102        46454  airfols.zip
+2010-11-07 16:09:38 ....A        89670        13024  avd.f90
+2006-06-04 13:08:28 ....A        42312        12092  epspsi.f90
+2006-01-03 10:52:00 ....A         2094          937  input.txt
+2010-11-07 12:46:02 ....A        21321         5359  naca456.f90
+2010-11-07 12:35:32 ....A        46576        10509  nacax.f90
+2011-09-30 15:27:59 ....A         3344         1457  readme.txt
+2002-01-04 18:00:02 ....A        44377        39630  samples.zip
+2002-01-04 18:06:32 ....A        43851        38748  samplnx.zip
+2010-11-07 12:56:46 ....A        15450         4603  splprocs.f90
+2002-01-04 18:13:26 ....A       240876       233779  ver6.zip
+------------------- ----- ------------ ------------  ------------------------
+                                596973       406592  11 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\naca456exec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\naca456exec.zip
+Type = zip
+Physical Size = 360361
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 14:45:07 ....A       700156       258676  naca456.exe
+2009-02-23 14:45:15 ....A       121636        48843  naca456.lnx
+2009-04-29 22:00:14 ....A       146412        52418  naca456.mac
+------------------- ----- ------------ ------------  ------------------------
+                                968204       359937  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\nastplt.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\nastplt.zip
+Type = zip
+Physical Size = 7261
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-14 23:51:40 ....A         2203         1024  gsc12833.txt
+1996-11-30 00:12:44 ....A        21751         5452  original.src
+2011-09-30 15:52:09 ....A          641          359  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 24595         6835  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\nseg.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\nseg.zip
+Type = zip
+Physical Size = 150342
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-12-03 18:15:52 ....A         2710         1413  lar12299.txt
+1996-11-30 01:09:12 ....A      1380302       148110  original.src
+2011-09-30 15:52:09 ....A          672          393  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                               1383684       149916  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\optim.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\optim.zip
+Type = zip
+Physical Size = 73999
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 00:09:14 ....A         1755          960  lar12940.txt
+1996-11-30 01:09:14 ....A       470068        72214  original.src
+2011-09-30 15:27:59 ....A          674          399  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                472497        73573  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\opttraj.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\opttraj.zip
+Type = zip
+Physical Size = 49868
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-05-11 17:48:18 ....A         4099         1839  arc11282.txt
+1999-11-08 17:44:30 ....A         1162          368  boeing.inc
+1999-10-10 17:20:48 ....A        19908         5424  case1.aer
+1999-10-07 18:34:22 ....A        24230         6734  case1.dat
+1999-10-10 17:19:34 ....A         3905         1114  case1.eng
+1999-10-18 17:54:02 ....A          143           61  case1.in5
+1999-10-10 17:22:12 ....A          148           68  case1.in7
+2006-01-03 11:00:58 ....A          586          374  input.txt
+2002-01-06 18:52:54 ....A       119378        31956  opttraj.f90
+2011-09-30 15:31:52 ....A         1134          594  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                174693        48532  10 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\opttrajexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\opttrajexec.zip
+Type = zip
+Physical Size = 317037
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-12-12 11:26:35 ....A       711600       238768  opttraj.exe
+2009-12-12 11:26:35 ....A       114997        37020  opttraj.lnx
+2009-12-12 11:32:17 ....A       134180        40825  opttraj.mac
+------------------- ----- ------------ ------------  ------------------------
+                                960777       316613  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\oracls.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\oracls.zip
+Type = zip
+Physical Size = 281857
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-12-21 15:04:40 ....A         1549          655  example1.f90
+2009-12-16 16:26:00 ....A         1640          704  example1.for
+2005-12-21 17:21:48 ....A           74           70  example1.inp
+2009-12-16 18:14:40 ....A        13908         2620  example1.out
+2005-12-19 20:55:02 ....A         2511          916  example2.for
+2005-12-21 17:44:22 ....A          510          197  example2.inp
+2009-12-16 18:14:54 ....A         7949         1974  example2.out
+2009-12-16 18:43:30 ....A         2447          966  example3.for
+2005-12-21 17:44:22 ....A          943          266  example3.inp
+2009-12-16 18:43:40 ....A         9223         1388  example3.out
+2009-12-16 18:39:00 ....A         1671          695  example4.for
+2005-12-21 17:44:22 ....A          666          228  example4.inp
+2009-12-16 18:39:20 ....A         4910         1079  example4.out
+2005-12-19 13:03:10 ....A         4249         1770  gsc13067.txt
+2009-12-16 18:28:18 ....A       279473        64354  oracls.f
+2005-12-22 11:55:54 ....A       205729       201033  original.zip
+2011-10-02 14:09:05 ....A         1462          620  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                538914       279535  17 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\pablo.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\pablo.zip
+Type = zip
+Physical Size = 146769
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-11-17 17:07:56 ....A        61116        55767  cases.zip
+2000-01-17 09:00:48 ....A           84           79  CFTURB.M
+2000-01-17 09:00:48 ....A         4565         1624  CLOSE_TE.M
+2000-01-17 09:00:48 ....A           79           73  DIST.M
+2000-01-17 09:00:48 ....A         2483         1118  DOUBLET.M
+2000-01-17 09:00:48 ....A          153          119  ELLIPSE.M
+2000-01-17 09:00:48 ....A          273          156  FH.M
+2000-01-17 09:00:48 ....A          408          179  FINDY.M
+2000-01-17 09:00:48 ....A          296          157  FL.M
+2000-01-17 09:00:48 ....A          222          150  H1OFH.M
+2000-01-17 09:00:48 ....A          161          114  HOFH1.M
+2000-01-17 09:00:48 ....A         2849          936  INFO.M
+2000-01-17 09:00:48 ....A         3079         1195  LIBRARY.M
+2000-01-17 09:00:48 ....A         1132          520  NACA4.M
+2000-12-17 08:19:18 ....A         5992         2448  PABLO.HTM
+2000-12-30 16:03:40 ....A        34381         4762  PABLO.M
+1999-12-20 22:36:06 ....A       334336        64765  PABLO.TAR
+2000-12-17 10:22:36 ....A         1578          793  PABLO.TXT
+2011-09-30 15:52:09 ....A         4265         1980  readme.txt
+2000-01-17 09:00:48 ....A         1027          406  RSOLVER.M
+2000-01-17 09:00:48 ....A          967          362  RUNGE.M
+2000-01-17 09:00:48 ....A         8952         2209  SOLVEBL.M
+2000-01-17 09:00:48 ....A         2383         1088  SOURCE.M
+2000-01-17 09:00:48 ....A           53           53  SPLF.M
+2000-12-30 16:04:56 ....A          364          182  STAG.M
+2000-01-17 09:00:48 ....A          159          115  SY.M
+2000-01-17 09:00:48 ....A         4918         1967  VORTEX.M
+------------------- ----- ------------ ------------  ------------------------
+                                476275       143317  27 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\panair.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\panair.zip
+Type = zip
+Physical Size = 1137373
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-01-07 12:55:02 ....A         6407         2840  arc11398.txt
+1993-08-28 13:06:12 ....A        44887         7415  btac.inp
+1999-01-05 17:25:16 ....A      1302188       169511  btac.out
+2009-03-11 14:34:38 ....A          286          160  clean502.bat
+2009-03-11 14:18:10 ....A          241          156  clean502.sh
+1993-08-28 13:06:20 ....A        27161         5763  ellip.inp
+1999-01-07 10:48:46 ....A       366386        46665  ellip.out
+1993-08-28 13:06:28 ....A         5432         1399  nac6.inp
+1999-01-07 10:51:52 ....A       296970        40242  nac6.out
+1993-08-28 13:06:44 ....A         2104          541  ppbc.inp
+1999-01-07 10:52:36 ....A       153163        17653  ppbc.out
+2011-09-30 15:52:09 ....A         6081         2707  readme.txt
+2010-02-22 13:33:32 ....A       728593       700884  source15.zip
+1993-08-28 13:06:54 ....A         8973         2095  swb.inp
+1999-01-07 10:53:14 ....A       321613        38361  swb.out
+1993-08-28 13:07:04 ....A         4912          753  vbc.inp
+1999-01-07 10:50:10 ....A       407264        37618  vbc.out
+1993-08-28 13:07:14 ....A         6713         1024  vepd.inp
+1999-01-07 10:51:00 ....A       318165        29481  vepd.out
+1993-08-28 13:07:24 ....A         7433         1089  vss.inp
+1999-01-07 10:49:36 ....A       352835        28280  vss.out
+------------------- ----- ------------ ------------  ------------------------
+                               4367807      1134637  21 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\panairexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\panairexec.zip
+Type = zip
+Physical Size = 1381064
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-02-22 16:09:04 ....A      1942290       606091  panair.exe
+2009-03-12 16:10:30 ....A      1297814       373858  panair.lnx
+2010-02-22 13:03:40 ....A      1438864       400697  panair.mac
+------------------- ----- ------------ ------------  ------------------------
+                               4678968      1380646  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\panin.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\panin.zip
+Type = zip
+Physical Size = 276882
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-01-10 19:34:20 ....A          152          126  case1a.aux
+1998-12-18 15:27:50 ....A         9892         1085  case1a.wgs
+2009-02-17 16:27:06 ....A        12481         4913  input.txt
+2009-02-23 14:51:37 ....A       606729       218254  panin.exe
+2008-12-15 14:11:10 ....A        47141        11393  panin.f90
+2009-02-23 14:51:37 ....A        70729        19988  panin.lnx
+2009-04-29 22:00:37 ....A        73212        19288  panin.mac
+2011-09-30 15:52:37 ....A         1599          767  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                821935       275814  8 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\pilot.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\pilot.zip
+Type = zip
+Physical Size = 89137
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-01-29 21:54:12 ....A         1993         1041  gsc12801.txt
+1996-11-30 01:09:00 ....A       669123        87275  original.src
+2011-10-01 10:05:48 ....A          680          395  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                671796        88711  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\quartic.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\quartic.zip
+Type = zip
+Physical Size = 6857
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2000-01-04 15:54:28 ....A        19184         5220  quartic.f90
+2011-10-01 10:05:48 ....A         2814         1349  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 21998         6569  2 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\quarticexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\quarticexec.zip
+Type = zip
+Physical Size = 214337
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-11-18 10:23:35 ....A       536820       197635  quartic.exe
+2009-11-18 10:23:35 ....A        24032         8230  quartic.lnx
+2009-12-12 11:32:17 ....A        31640         8048  quartic.mac
+------------------- ----- ------------ ------------  ------------------------
+                                592492       213913  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\quiz.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\quiz.zip
+Type = zip
+Physical Size = 172177
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-12-18 17:49:10 ....A         2232          658  quizunit.dfm
+2002-01-06 18:01:50 ....A         8729         2737  quizunit.pas
+2001-11-15 11:55:56 ....A          193          137  quizzer.dpr
+2002-01-06 11:37:44 ....A       325632       166154  quizzer.exe
+2011-10-01 10:12:34 ....A         3839         1941  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                340625       171627  5 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\quizexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\quizexec.zip
+Type = zip
+Physical Size = 166310
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-01-06 11:37:44 ....A       325632       166154  quizzer.exe
+------------------- ----- ------------ ------------  ------------------------
+                                325632       166154  1 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\raxbod.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\raxbod.zip
+Type = zip
+Physical Size = 1532051
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-05-15 12:05:46 ....A      1572579      1510717  TMX72831.pdf
+2008-09-27 12:22:34 ....A        42257        21112  original.src
+------------------- ----- ------------ ------------  ------------------------
+                               1614836      1531829  2 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\rblade.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\rblade.zip
+Type = zip
+Physical Size = 18740
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-01-29 21:57:24 ....A         1965         1011  lew11744.txt
+1996-11-30 01:09:16 ....A        62945        16898  original.src
+2011-10-01 10:33:23 ....A          690          405  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 65600        18314  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\relay.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\relay.zip
+Type = zip
+Physical Size = 33953
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-10-09 16:10:48 ....A           30           30  case1.inp
+2005-11-22 16:58:56 ....A          936          561  lar10658.txt
+1996-11-30 00:09:00 ....A        61616        13607  original.src
+2011-10-01 10:33:23 ....A          955          506  readme.txt
+2008-10-09 16:26:32 ....A        77950        18563  relay.f90
+------------------- ----- ------------ ------------  ------------------------
+                                141487        33267  5 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\rogers.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\rogers.zip
+Type = zip
+Physical Size = 232350
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1997-12-27 15:06:22 ....A        24874        23976  fg.pdf
+2008-12-18 22:38:48 ....A         1020          540  input.txt
+2011-10-01 10:33:23 ....A         3069         1460  readme.txt
+1998-01-04 16:30:02 ....A       212444       201594  report.pdf
+2008-12-19 09:37:28 ....A        12902         3249  rogers.f90
+2009-02-19 16:51:36 ....A         1371          725  sample1.f90
+------------------- ----- ------------ ------------  ------------------------
+                                255680       231544  6 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\roncz.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\roncz.zip
+Type = zip
+Physical Size = 861174
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1995-08-05 20:42:00 ....A         6387         2435  ADDPREP.BAS
+1994-01-12 00:00:00 ....A       393942       176368  DOSXMSF.EXE
+1990-08-22 22:44:00 ....A        50874        37065  EGAPLOT.EXE
+1990-08-24 13:39:44 ....A       136475        71221  EPPLER.EXE
+1990-08-17 22:09:00 ....A        90569        29652  EPPLER.FOR
+1990-08-22 22:42:08 ....A         1298          588  EPPLOT.BAS
+1990-08-24 13:36:56 ....A         8130         4318  PREP.GWB
+1987-05-23 13:21:30 ....A         8320         3282  PREP.BAS
+1990-08-24 14:34:46 ....A        19080         7476  READ.ME
+1986-06-18 09:43:40 ....A         3136          990  SETUP.COM
+1990-08-22 22:43:04 ....A        50874        37065  VGAPLOT.EXE
+1995-02-08 14:18:02 ....A         1370          588  EPPVGA.BAS
+1995-02-14 22:05:56 ....A        14268         9058  PLT2DXF.EXE
+1995-06-08 10:35:44 ....A         1810          891  PLT2HPGL.BAS
+1996-03-12 16:47:06 ....A        62352        19681  NACA40.BAS
+1995-06-05 20:08:54 ....A         1956          956  PLT2HP1.BAS
+1997-04-11 13:48:22 ....A        24702         6921  N23012.LST
+1997-04-11 13:48:00 ....A         2659          903  N23012.DAT
+1997-04-11 13:48:22 ....A        95011        24674  N23012.PLT
+1996-09-13 19:20:08 ....A         1401          436  W71L1502.DAT
+1995-08-07 16:07:00 ....A          259          136  J101.DAT
+1995-08-07 16:20:54 ....A          261          135  J102.DAT
+1995-08-07 16:34:58 ....A          261          131  J103.DAT
+1995-08-07 16:45:36 ....A          261          134  J104.DAT
+1995-08-07 16:58:30 ....A          261          130  J105.DAT
+1995-08-07 17:08:28 ....A          231          119  J106.DAT
+1995-10-08 17:10:10 ....A          241          128  J107.DAT
+1995-10-08 17:38:22 ....A          257          149  J108.DAT
+1990-07-26 00:32:06 ....A         1230          459  N65418.DAT
+1996-07-17 11:34:10 ....A         1530          451  NEMESIS.DAT
+1996-07-17 10:37:08 ....A         1398          462  PB231.DAT
+1996-07-17 10:38:16 ....A         1396          457  PB232.DAT
+1990-08-23 23:49:20 ....A          606          252  R1157.DAT
+1996-09-13 19:01:18 ....A         1401          433  W71L1002.DAT
+1995-08-07 14:27:26 ....A          274          143  991.DAT
+1996-09-13 19:31:34 ....A        46816         9619  W71L1502.PLT
+1995-04-29 12:45:40 ....A        73033        19854  E507.PLT
+1995-04-29 12:46:10 ....A        75031        20600  E508.PLT
+1995-04-29 12:46:36 ....A        78784        21708  E509.PLT
+1995-08-07 16:13:16 ....A        55375        13771  J101.PLT
+1995-08-07 16:27:08 ....A        64555        16519  J102.PLT
+1995-08-07 16:41:36 ....A        65392        17104  J103.PLT
+1995-08-07 16:56:18 ....A        59344        15515  J104.PLT
+1995-08-07 17:06:02 ....A        71359        19071  J105.PLT
+1995-08-07 17:11:24 ....A        32101         7055  J106.PLT
+1995-10-08 17:23:24 ....A        32101         7061  J107.PLT
+1996-03-16 00:18:34 ....A        77623        20379  L201.PLT
+1996-03-17 13:48:52 ....A        71197        18527  L207.PLT
+1990-08-30 22:01:04 ....A        12419         3250  N65418.PLT
+1996-07-17 11:45:04 ....A        85075        22351  NEMESIS.PLT
+1995-03-08 09:01:18 ....A       167315        45636  NLF0414F.PLT
+1996-07-17 11:05:46 ....A        79189        21109  PB231.PLT
+1996-07-17 11:16:22 ....A        73816        19388  PB232.PLT
+1990-08-30 21:51:44 ....A        83858        20411  R1157.PLT
+1996-09-13 19:12:06 ....A        49327        10387  W71L1002.PLT
+1995-04-29 12:45:14 ....A        70198        19058  E506.PLT
+1996-09-13 19:31:34 ....A        13323         2764  W71L1502.LST
+1995-08-07 16:27:08 ....A        14756         3828  J102.LST
+1995-08-07 16:41:36 ....A        14792         3956  J103.LST
+1995-08-07 16:56:18 ....A        14746         3960  J104.LST
+1995-08-07 17:06:02 ....A        14710         3993  J105.LST
+1995-08-07 17:11:24 ....A        10642         3366  J106.LST
+1995-10-08 17:23:24 ....A        10604         3361  J107.LST
+1995-10-08 17:46:28 ....A            3            3  J108.LST
+1996-07-17 11:45:04 ....A        14117         3625  NEMESIS.LST
+1996-07-17 11:05:46 ....A        13323         3362  PB231.LST
+1996-07-17 11:16:22 ....A        13487         3399  PB232.LST
+1990-08-23 23:50:18 ....A        21779         5369  R1157.LST
+1996-09-13 19:12:06 ....A        13323         2724  W71L1002.LST
+1995-08-07 14:54:24 ....A        17596         4170  991.LST
+------------------- ----- ------------ ------------  ------------------------
+                               2595590       854540  70 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\rotor.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\rotor.zip
+Type = zip
+Physical Size = 225502
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 01:08:56 ....A         3430         1608  arc11150.txt
+2005-11-06 00:15:06 ....A       121597        28995  dynamics.for
+2005-11-06 00:14:00 ....A       118358        28847  dynamics.src
+2011-10-01 10:43:13 ....A         1090          459  readme.txt
+2005-11-06 00:25:00 ....A       170409        36771  rotor2.for
+2005-11-06 00:13:42 ....A       164166        36412  rotor2.src
+2005-11-06 00:15:44 ....A        70661        18168  support.for
+2005-11-06 00:14:28 ....A        68881        18085  support.src
+2005-11-06 00:32:04 ....A       145410        27507  tilting.for
+2005-11-06 00:14:12 ....A       142070        27288  tilting.src
+------------------- ----- ------------ ------------  ------------------------
+                               1006072       224140  10 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\rspline.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\rspline.zip
+Type = zip
+Physical Size = 39431
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2008-12-29 16:59:28 ....A         4130         1441  example1.f90
+2010-01-27 18:56:12 ....A         3301          983  example1.out
+2008-12-29 17:08:18 ....A         3795         1371  example2.f90
+2010-01-27 18:56:28 ....A          434          189  example2.out
+2005-11-05 12:14:04 ....A         2132         1117  lar13694.txt
+1996-11-30 01:09:16 ....A       107738        15410  original.src
+2008-12-29 18:16:02 ....A       112558        17408  ratspl.f90
+2011-10-01 10:43:13 ....A          839          410  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                234927        38329  8 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\shifarc.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\shifarc.zip
+Type = zip
+Physical Size = 298161
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-05 11:42:22 ....A       254379        32041  blunt.for
+2005-11-05 11:23:38 ....A       250995        31630  blunt.src
+2009-02-17 17:43:02 ....A         4007         1913  lar11891.txt
+2005-11-05 11:15:12 ....A       109008        23732  quick.for
+2005-11-05 10:25:54 ....A       108164        23278  quick.src
+2011-10-01 10:56:17 ....A          957          430  readme.txt
+2005-11-20 14:37:52 ....A       774258        92322  stein.for
+2005-11-05 10:26:48 ....A       763751        91745  stein.src
+------------------- ----- ------------ ------------  ------------------------
+                               2265519       297091  8 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\sneak.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\sneak.zip
+Type = zip
+Physical Size = 2379
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 01:12:48 ....A         3675         1744  hqn10517.txt
+2011-10-01 10:56:17 ....A          629          345  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                  4304         2089  2 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\solararr.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\solararr.zip
+Type = zip
+Physical Size = 24092
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-12-10 20:15:50 ....A         1823          690  case1.nml
+2000-01-04 17:40:34 ....A         4303          991  case1.out
+1999-12-19 00:29:28 ....A         1824          691  case2.nml
+2000-01-04 17:39:52 ....A         4303         1063  case2.out
+2006-01-03 11:31:30 ....A          275          192  input.txt
+2006-01-03 11:37:12 ....A         2201         1149  msc18558.txt
+1996-11-30 08:15:28 ....A        23618         6364  original.src
+2011-10-01 14:15:16 ....A         2291         1095  readme.txt
+1999-12-18 23:27:52 ....A        37897        10649  solpow.f90
+------------------- ----- ------------ ------------  ------------------------
+                                 78535        22884  9 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\solararrexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\solararrexec.zip
+Type = zip
+Physical Size = 234639
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 14:59:14 ....A       548451       202202  solpow.exe
+2009-02-23 14:59:14 ....A        46531        16255  solpow.lnx
+2009-04-29 22:00:38 ....A        56012        15764  solpow.mac
+------------------- ----- ------------ ------------  ------------------------
+                                650994       234221  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\sssp.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\sssp.zip
+Type = zip
+Physical Size = 82208
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-05-11 15:54:28 ....A         2022         1079  msc13914.txt
+1996-11-30 00:09:26 ....A       607918        80281  original.src
+2011-10-01 14:46:03 ....A          749          422  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                610689        81782  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\tandem.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\tandem.zip
+Type = zip
+Physical Size = 22902
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-06 01:49:44 ....A         1828          988  lew10743.txt
+2005-11-05 15:38:20 ....A       103650        21095  original.src
+2011-10-01 14:46:03 ....A          685          393  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                106163        22476  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\tea201.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\tea201.zip
+Type = zip
+Physical Size = 71183
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-03-14 15:39:18 ....A         1750          730  readme.txt
+2009-02-19 21:01:48 ....A       266996        70167  tea201.f90
+------------------- ----- ------------ ------------  ------------------------
+                                268746        70897  2 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\therm1d.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\therm1d.zip
+Type = zip
+Physical Size = 17807
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-06 01:53:22 ....A         1921          795  case1.inp
+2005-11-06 02:08:54 ....A         2153         1156  lar12057.txt
+1996-11-30 03:13:36 ....A        31505         7658  original.src
+2011-10-01 14:46:03 ....A          764          437  readme.txt
+2005-11-06 02:05:08 ....A        30573         7077  sink.for
+------------------- ----- ------------ ------------  ------------------------
+                                 66916        17123  5 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\tidy.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\tidy.zip
+Type = zip
+Physical Size = 119083
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1999-10-15 10:20:00 ....A         1122          506  getarg.for
+1999-10-15 10:20:00 ....A         4845         2242  read1st.txt
+2011-10-01 15:01:24 ....A         2010         1029  readme.txt
+1999-10-15 07:20:00 ....A        69120        63362  tidy.exe
+1999-10-15 10:20:00 ....A       180699        41432  tidy.for
+1999-10-15 10:20:00 ....A         2203          826  tidy.inc
+1999-10-15 10:20:00 ....A            9            9  tidy.ini
+1999-10-15 10:20:00 ....A        24131         8382  tidy.txt
+1999-10-15 10:20:00 ....A          305          105  units.inc
+------------------- ----- ------------ ------------  ------------------------
+                                284444       117893  9 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\tol.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\tol.zip
+Type = zip
+Physical Size = 173461
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-07-30 16:50:42 ....A        13783         3779  case1.dat
+2009-08-04 12:58:50 ....A        15149         4701  case1.nml
+2009-12-15 11:10:16 ....A       155389        19824  case1.out
+2009-07-25 12:09:00 ....A        75909         9696  case1.xout
+2005-11-05 09:43:02 ....A        75331         9630  case1x.out
+2009-12-15 11:42:30 ....A        11997         3468  case2.dat
+2009-12-15 11:31:24 ....A        75067         7398  case2.out
+2005-11-05 10:22:02 ....A         3064         1446  lar13086.txt
+1996-11-30 00:09:30 ....A       387324        59023  original.src
+2011-10-01 15:01:24 ....A         2727         1317  readme.txt
+2009-12-15 11:09:52 ....A       188443        51713  tol.f90
+------------------- ----- ------------ ------------  ------------------------
+                               1004183       171995  11 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\tomars.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\tomars.zip
+Type = zip
+Physical Size = 46701
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2011-10-01 15:10:31 ....A         2440         2216  cases.zip
+2011-10-01 15:11:08 ....A        43733        43622  code.zip
+2011-10-01 15:30:57 ....A          788          451  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                 46961        46289  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\tps.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\tps.zip
+Type = zip
+Physical Size = 98425
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 08:12:34 ....A        23571         2814  case1.inp
+2005-12-04 10:31:10 ....A         3423         1495  msc18616.txt
+1996-11-30 08:12:32 ....A       659259        93127  original.src
+2011-10-01 15:30:57 ....A          755          433  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                687008        97869  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\turbsf.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\turbsf.zip
+Type = zip
+Physical Size = 4618
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2011-10-01 15:30:57 ....A         3455         1582  readme.txt
+2002-12-27 16:02:24 ....A         3875         1407  sftab.f90
+1996-11-30 08:38:40 ....A          659          325  turbsf.cpp
+1998-12-31 12:28:10 ....A         1676          756  turbsf.f90
+------------------- ----- ------------ ------------  ------------------------
+                                  9665         4070  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\turbsfexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\turbsfexec.zip
+Type = zip
+Physical Size = 195147
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-12-17 15:03:08 ....A       506944       187951  sftab.exe
+2009-02-23 15:00:50 ....A        11024         4224  sftab.lnx
+2009-04-29 22:00:40 ....A        17732         2560  sftab.mac
+------------------- ----- ------------ ------------  ------------------------
+                                535700       194735  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\vascomp.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\vascomp.zip
+Type = zip
+Physical Size = 232716
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1996-11-30 01:08:58 ....A         2023         1038  arc11433.txt
+2005-11-08 08:50:20 ....A        21102         3308  case1.inp
+1996-11-30 01:08:58 ....A      1141258       158846  original.src
+2011-10-01 15:33:23 ....A          787          431  readme.txt
+2008-12-14 18:46:46 ....A       571587        68403  vascomp.f90
+------------------- ----- ------------ ------------  ------------------------
+                               1736757       232026  5 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\vasp.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\vasp.zip
+Type = zip
+Physical Size = 45489
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-12-12 00:36:28 ....A         2430         1213  arc10616.txt
+2006-01-03 10:51:36 ....A         1502          682  example1.for
+2005-12-27 12:31:46 ....A          394          124  example1.inp
+2006-01-03 10:51:36 ....A          701          354  example2.for
+2005-12-27 12:52:42 ....A          929          179  example2.inp
+2005-12-11 23:10:12 ....A          547          185  example2a.inp
+2006-01-03 10:51:36 ....A         2314          853  example3.for
+2005-12-27 23:58:16 ....A          573          189  example3.inp
+2006-01-03 10:51:36 ....A          846          422  example4.for
+2005-12-28 00:09:12 ....A          353          123  example4.inp
+2006-01-03 10:51:36 ....A         2432          875  example5.for
+2005-12-28 09:35:00 ....A         1789          309  example5.inp
+2006-01-03 10:51:36 ....A          992          372  example6.for
+2005-12-28 09:39:40 ....A          510          167  example6.inp
+2009-12-14 16:40:08 ....A          999          372  example7.for
+2005-12-11 22:32:54 ....A          510          167  example7.inp
+2005-12-11 22:50:42 ....A         7461         2269  examples.for
+1996-11-30 01:12:44 ....A        51684        14757  orig1.src
+1996-11-30 01:12:44 ....A         7185         2195  orig2.src
+2011-10-01 15:44:29 ....A         2154          864  readme.txt
+2009-12-14 16:27:50 ....A        55498        15954  vaspProc.for
+------------------- ----- ------------ ------------  ------------------------
+                                141803        42625  21 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\viewer.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\viewer.zip
+Type = zip
+Physical Size = 11268
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+1997-07-29 15:54:42 ....A         2050         1081  lew10482.txt
+1996-11-29 23:15:24 ....A        20049         3774  original.src
+2011-10-01 15:44:29 ....A         2186         1062  readme.txt
+2010-11-24 10:06:38 ....A        19634         4793  viewer.f90
+------------------- ----- ------------ ------------  ------------------------
+                                 43919        10710  4 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\viewerexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\viewerexec.zip
+Type = zip
+Physical Size = 232615
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 15:02:56 ....A       571204       208675  viewer.exe
+2009-02-23 15:02:56 ....A        36078        12186  viewer.lnx
+2009-04-29 22:00:41 ....A        39668        11336  viewer.mac
+------------------- ----- ------------ ------------  ------------------------
+                                646950       232197  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\vlmd.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\vlmd.zip
+Type = zip
+Physical Size = 29395
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-01-04 14:19:12 ....A        63858        13915  analysis.f90
+2005-01-04 14:44:44 ....A          400          121  case1.inp
+1989-04-10 13:09:04 ....A          384          117  case2.inp
+1985-10-31 21:41:36 ....A          348          110  case3.inp
+1989-04-07 19:53:12 ....A          388          115  case4.inp
+2008-12-13 13:31:30 ....A        34788        10259  geom.f90
+1999-01-07 13:49:40 ....A         3226         1569  lar15160.txt
+2005-01-04 09:02:44 ....A         1655          839  read.me
+2011-10-01 16:09:52 ....A         2893         1150  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                107940        28195  9 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\vlmdexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\vlmdexec.zip
+Type = zip
+Physical Size = 486829
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-12-17 15:03:10 ....A       592272       211117  analysis.exe
+2009-02-21 17:06:02 ....A        76596        23083  analysis.lnx
+2009-02-17 20:48:42 ....A        92216        22912  analysis.mac
+2009-12-17 15:03:10 ....A       560430       201320  geom.exe
+2009-02-21 17:06:32 ....A        51806        14604  geom.lnx
+2009-02-17 20:48:42 ....A        59276        12979  geom.mac
+------------------- ----- ------------ ------------  ------------------------
+                               1432596       486015  6 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\vmaco.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\vmaco.zip
+Type = zip
+Physical Size = 47552
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-12-12 18:33:06 ....A         2151         1173  msc21275.txt
+1996-11-30 00:15:28 ....A       165090        21316  original.src
+2011-10-01 16:09:52 ....A         1014          495  readme.txt
+2009-02-25 20:17:16 ....A         3664         1356  test1.f90
+2009-02-25 20:18:08 ....A         3168         1230  test2.f90
+2008-11-24 14:39:18 ....A        96212        21166  vmaco.f90
+------------------- ----- ------------ ------------  ------------------------
+                                271299        46736  6 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\vrml.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\vrml.zip
+Type = zip
+Physical Size = 18020
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2011-10-01 16:09:52 ....A         2370         1123  readme.txt
+1995-12-13 18:14:24 ....A        12340         1313  tnd4211.wgs
+2000-01-05 18:06:36 ....A        11254         2261  tnd4211.wrl
+1995-12-13 18:13:34 ....A        10079         1121  tnd7505.wgs
+2000-01-05 18:01:26 ....A         9572         2169  tnd7505.wrl
+1995-12-13 18:03:42 ....A         7058          812  wdcase1.wgs
+2000-01-02 15:06:26 ....A         7622         1062  wdcase1.wrl
+2008-11-10 18:12:20 ....A        35526         7067  wgs2wrl.f90
+------------------- ----- ------------ ------------  ------------------------
+                                 95821        16928  8 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\vrmlexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\vrmlexec.zip
+Type = zip
+Physical Size = 255973
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-11-18 10:29:41 ....A       600465       216948  wgs2wrl.exe
+2009-11-18 10:29:41 ....A        60337        19025  wgs2wrl.lnx
+2009-11-18 10:29:41 ....A        68688        19576  wgs2wrl.mac
+------------------- ----- ------------ ------------  ------------------------
+                                729490       255549  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\vucalc.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\vucalc.zip
+Type = zip
+Physical Size = 287626
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-05-02 15:54:12 ....A         1578          644  areachk.dpr
+1996-10-23 12:12:08 ....A        82030        12200  calc.c
+2005-05-04 13:43:52 ....A        10892         2760  calcsubs.pas
+2000-12-31 21:34:44 ....A        16442         2961  getmach.pas
+2007-03-06 13:01:34 ....A        16442         2961  GetMachFromInput.pas
+2007-03-06 13:49:50 ....A        18137         3647  loadmemo.pas
+2007-03-06 13:04:22 ....A        16664         2791  main.dfm
+2005-05-04 14:20:24 ....A        13142         2664  main.pas
+2005-05-04 13:43:10 ....A        15491         2554  naca1135.pas
+2000-12-31 20:57:42 ....A        12607         2028  rayfanno.pas
+2011-10-01 16:09:52 ....A         2505         1216  readme.txt
+2007-03-06 13:53:04 ....A          355          207  vucalc.dpr
+2010-01-27 18:28:56 ....A       517120       249231  vucalc.exe
+------------------- ----- ------------ ------------  ------------------------
+                                723405       285864  13 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\vucalcexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\vucalcexec.zip
+Type = zip
+Physical Size = 249385
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-01-27 18:28:56 ....A       517120       249231  vucalc.exe
+------------------- ----- ------------ ------------  ------------------------
+                                517120       249231  1 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\w12sc3.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\w12sc3.zip
+Type = zip
+Physical Size = 210646
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2005-11-30 13:35:48 ....A         6670         2494  case1.inp
+2005-11-09 17:34:53 ....A       141448        18725  case1.out
+2005-11-29 10:31:50 ....A          333          138  files.cmn
+2005-11-09 16:16:02 ....A          139          121  head.cmn
+2005-12-19 10:14:40 ....A          146          104  input.txt
+2005-12-19 11:22:00 ....A         2917         1455  lar13239.txt
+2005-11-09 14:32:18 ....A          210          141  option.cmn
+2011-10-01 16:38:40 ....A         1460          699  readme.txt
+2005-11-30 09:39:50 ....A          328          149  shell.cmn
+2005-12-31 11:55:24 ....A       450142        92598  w.f90
+2008-11-10 16:57:28 ....A       450136        92568  w12sc3.f90
+------------------- ----- ------------ ------------  ------------------------
+                               1053929       209192  11 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\wavedrag.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\wavedrag.zip
+Type = zip
+Physical Size = 173976
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2000-01-07 16:51:50 ....A         1140          585  cases.txt
+2002-01-04 12:23:04 ....A       138068       135113  caseslnx.zip
+2009-05-06 10:45:02 ....A       120570        28712  d2500.for
+2006-01-03 12:16:38 ....A        19340         4753  input.txt
+2001-01-05 12:24:50 ....A         2386         1225  lar13223.txt
+1995-12-10 17:25:18 ....A         2145         1069  output.txt
+2011-10-01 16:41:05 ....A         3637         1571  readme.txt
+------------------- ----- ------------ ------------  ------------------------
+                                287286       173028  7 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\wavedragexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\wavedragexec.zip
+Type = zip
+Physical Size = 287413
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-05-07 09:32:22 ....A       625893       221894  d2500.exe
+2009-05-07 09:32:22 ....A       109729        32822  d2500.lnx
+2009-05-07 09:25:20 ....A       121344        32285  d2500.mac
+------------------- ----- ------------ ------------  ------------------------
+                                856966       287001  3 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\wingbody.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\wingbody.zip
+Type = zip
+Physical Size = 112951
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2011-10-02 13:54:37 ....A         3220         1448  readme.txt
+1995-12-06 13:55:10 ....A          798          449  tnd4211.inp
+1999-01-07 12:38:40 ....A       340845        52316  tnd4211.out
+2000-01-02 09:41:52 ....A          956          546  tnd7505.inp
+2000-01-02 09:36:54 ....A       122875        20817  tnd7505.out
+1995-12-01 16:43:24 ....A          338          220  wdcase1.inp
+1999-01-07 12:39:40 ....A        37076         5388  wdcase1.out
+2009-04-27 15:10:36 ....A       104678        26155  wingbody.for
+1995-12-11 08:48:34 ....A        12942         4382  wingbody.txt
+------------------- ----- ------------ ------------  ------------------------
+                                623728       111721  9 files, 0 folders
+
+Listing archive: C:\Users\PDAS\PDAS\html\packages\wingbodyexec.zip
+
+--
+Path = C:\Users\PDAS\PDAS\html\packages\wingbodyexec.zip
+Type = zip
+Physical Size = 285511
+
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-23 15:14:57 ....A       619069       219127  wingbody.exe
+2009-02-23 15:14:57 ....A       111070        32482  wingbody.lnx
+2009-04-29 22:00:44 ....A       134828        33472  wingbody.mac
+------------------- ----- ------------ ------------  ------------------------
+                                864967       285081  3 files, 0 folders
+
+------------------- ----- ------------ ------------  ------------------------
+                              74119761     24084187  898 files, 0 folders
+Archives: 120

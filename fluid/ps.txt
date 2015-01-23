@@ -1,0 +1,30 @@
+POSTSCRIPT FILES
+
+Some of the programs produce files in the PostScript format.
+PostScript is an Adobe trademark.
+PostScript files can be text or graphics or a combination
+of both. They have the advantage of showing the same image
+regardless of display or printing hardware.
+
+So you have produced a file with a name of xxx.ps and you want 
+to know what to do with it. Unfortunately, the answer depends 
+on your computer system. 
+
+With a Macintosh OS X, you can simply double click on it and 
+the file will be converted into PDF which is then displayed
+with Preview.
+
+You can convert PostScript to PDF under Windows, but you must
+install the appropriate software to do this. I use Adobe 
+Acrobat (the full product, not the Reader). There is also a
+similar product called Ghostscript which you can find and
+install.
+
+Most Linux systems have a utility called ps2pdf that will convert
+a PostScript file into PDF. There will most likely be a
+utility that displays the PostScript file. This might be
+called psview or xps or some other variation. Most printers
+are usually set to recognize PostScript files and to automatically
+use ghostscript to convert them into the appropriate printer
+commands.
+

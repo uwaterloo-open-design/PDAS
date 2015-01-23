@@ -1,0 +1,1122 @@
+total 408
+drwxr-xr-x  31 PDAS  staff   1054 Jan 30 17:00 2wgs
+drwxr-xr-x  11 PDAS  staff    374 Jan 30 17:00 3view
+drwxr-xr-x  15 PDAS  staff    510 Jan 30 17:00 abaxi
+drwxr-xr-x  12 PDAS  staff    408 Jan 30 17:00 ablate
+drwxr-xr-x   6 PDAS  staff    204 Jan 30 17:00 aipp
+drwxr-xr-x  15 PDAS  staff    510 Jan 30 17:00 anduct
+drwxr-xr-x   6 PDAS  staff    204 Jan 30 17:00 aofa
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 aries
+drwxr-xr-x  15 PDAS  staff    510 Jan 30 17:00 atc
+drwxr-xr-x  32 PDAS  staff   1088 Jan 30 17:00 atmos
+drwxr-xr-x   9 PDAS  staff    306 Jan 30 17:00 boom
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 cas2d
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 celest
+drwxr-xr-x   6 PDAS  staff    204 Jan 30 17:00 coldarc
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 conplot
+-rw-r--r--   1 PDAS  staff  31350 Feb 13  2010 contents.pdf
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 contour
+drwxr-xr-x  11 PDAS  staff    374 Jan 30 17:00 corel
+-rw-r--r--   1 PDAS  staff  53210 Jan 15  2010 covers.pdf
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 datcom
+drwxr-xr-x  17 PDAS  staff    578 Jan 30 17:00 diffprob
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 diverge
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 elastic
+drwxr-xr-x   9 PDAS  staff    306 Jan 30 17:00 eppler
+drwxr-xr-x   6 PDAS  staff    204 Jan 30 17:00 exhaust
+drwxr-xr-x  15 PDAS  staff    510 Jan 30 17:00 fairdata
+drwxr-xr-x  23 PDAS  staff    782 Jan 30 17:00 fluid
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 flutter
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 fmm
+drwxr-xr-x   6 PDAS  staff    204 Jan 30 17:00 fsd
+drwxr-xr-x  14 PDAS  staff    476 Jan 30 17:00 gasp
+drwxr-xr-x  16 PDAS  staff    544 Jan 30 17:00 getmac
+drwxr-xr-x   6 PDAS  staff    204 Jan 30 17:00 goptics
+drwxr-xr-x  18 PDAS  staff    612 Jan 30 17:00 grape
+drwxr-xr-x  18 PDAS  staff    612 Jan 30 17:00 hlp
+drwxr-xr-x  15 PDAS  staff    510 Jan 30 17:00 hyper
+drwxr-xr-x  17 PDAS  staff    578 Jan 30 17:00 induced
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 inlet
+-rw-r--r--   1 PDAS  staff  13979 Feb 13  2010 inprog.pdf
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 ipeg
+drwxr-xr-x   9 PDAS  staff    306 Jan 30 17:00 kernel
+-rw-r--r--   1 PDAS  staff   2353 Jan  6  2007 legal.txt
+drwxr-xr-x   8 PDAS  staff    272 Jan 30 17:00 lineint
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 linintrp
+-rw-r--r--   1 PDAS  staff   1191 Jan  6  2007 linux.txt
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 longlib
+drwxr-xr-x   8 PDAS  staff    272 Jan 30 17:00 makewgs
+-rw-r--r--   1 PDAS  staff  64516 Feb 24  2010 manifest
+drwxr-xr-x  15 PDAS  staff    510 Jan 30 17:00 massprop
+drwxr-xr-x   9 PDAS  staff    306 Jan 30 17:00 mislift
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 monitor
+drwxr-xr-x  16 PDAS  staff    544 Jan 30 17:00 naca456
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 nastplt
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 nseg
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 optim
+drwxr-xr-x  16 PDAS  staff    544 Jan 30 17:00 opttraj
+drwxr-xr-x  17 PDAS  staff    578 Jan 30 17:00 oracls
+drwxr-xr-x  30 PDAS  staff   1020 Jan 30 17:00 pablo
+drwxr-xr-x  28 PDAS  staff    952 Jan 30 17:00 panair
+drwxr-xr-x  11 PDAS  staff    374 Jan 30 17:00 panin
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 pilot
+-rw-r--r--   1 PDAS  staff   2212 Dec 18  2004 plotting.txt
+-rw-r--r--   1 PDAS  staff   1222 Jan  5  2005 ps.txt
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 quartic
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 quiz
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 rblade
+-rw-r--r--   1 PDAS  staff   9171 Mar 23  2009 readme.1st
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 relay
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 rogers
+drwxr-xr-x  12 PDAS  staff    408 Jan 30 17:00 rotor
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 rspline
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 shifarc
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 sneak
+drwxr-xr-x  15 PDAS  staff    510 Jan 30 17:00 solararr
+-rw-r--r--   1 PDAS  staff   9054 Jan 15  2010 spines.pdf
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 sssp
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 tandem
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 tea201
+drwxr-xr-x   5 PDAS  staff    170 Jan 30 17:00 therm1d
+drwxr-xr-x  12 PDAS  staff    408 Jan 30 17:00 tidy
+drwxr-xr-x   8 PDAS  staff    272 Jan 30 17:00 tol
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 tomars
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 tps
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 turbsf
+drwxr-xr-x   8 PDAS  staff    272 Jan 30 17:00 vascomp
+drwxr-xr-x  21 PDAS  staff    714 Jan 30 17:00 vasp
+drwxr-xr-x   7 PDAS  staff    238 Jan 30 17:00 viewer
+drwxr-xr-x  23 PDAS  staff    782 Jan 30 17:00 vlmd
+drwxr-xr-x  10 PDAS  staff    340 Jan 30 17:00 vmaco
+drwxr-xr-x  13 PDAS  staff    442 Jan 30 17:00 vrml
+drwxr-xr-x  13 PDAS  staff    442 Jan 30 17:00 vucalc
+drwxr-xr-x  15 PDAS  staff    510 Jan 30 17:00 w12sc3
+drwxr-xr-x  20 PDAS  staff    680 Jan 30 17:00 wavedrag
+drwxr-xr-x  15 PDAS  staff    510 Jan 30 17:00 wingbody
+
+/Users/PDAS/V16image/2wgs:
+total 3968
+-rw-r--r--  1 PDAS  staff  290858 Jan 29 21:59 a5022wgs.exe
+-rw-r--r--  1 PDAS  staff   14192 Dec  2  2008 a5022wgs.f90
+-rw-r--r--  1 PDAS  staff   26090 Feb 21  2009 a5022wgs.lnx
+-rw-r--r--  1 PDAS  staff   28112 Dec 31  2009 a5022wgs.mac
+-rw-r--r--  1 PDAS  staff   27814 Jul 22  2008 hab2wgs.f90
+-rw-r--r--  1 PDAS  staff    1439 Sep 22 13:19 readme1.txt
+-rw-r--r--  1 PDAS  staff    1359 Sep 22 13:59 readme2.txt
+-rw-r--r--  1 PDAS  staff    1242 Sep 28  2011 readme3.txt
+-rw-r--r--  1 PDAS  staff    1386 Sep 22 13:59 readme4.txt
+-rw-r--r--  1 PDAS  staff    8973 Aug 28  1993 swb.inp
+-rw-r--r--  1 PDAS  staff    5575 Jan  2  1997 swb.wgs
+-rw-r--r--  1 PDAS  staff     798 Dec  6  1995 tnd4211.inp
+-rw-r--r--  1 PDAS  staff   12340 Dec 13  1995 tnd4211.wgs
+-rw-r--r--  1 PDAS  staff   18482 Jul  3  1996 tnd6480.mk5
+-rw-r--r--  1 PDAS  staff   21807 Dec  6  2002 tnd6480.wgs
+-rw-r--r--  1 PDAS  staff     829 Nov 29  2002 tnd7505.inp
+-rw-r--r--  1 PDAS  staff   10079 Dec 13  1995 tnd7505.wgs
+-rw-r--r--  1 PDAS  staff   12446 Jul  3  1996 tp2608.mk5
+-rw-r--r--  1 PDAS  staff    5136 Dec  6  2002 tp2608.wgs
+-rw-r--r--  1 PDAS  staff  589839 Dec 17  2009 wb2wgs.exe
+-rw-r--r--  1 PDAS  staff   18519 Dec  2  2008 wb2wgs.f90
+-rw-r--r--  1 PDAS  staff   28753 Feb 21  2009 wb2wgs.lnx
+-rw-r--r--  1 PDAS  staff   33544 Dec 31  2009 wb2wgs.mac
+-rw-r--r--  1 PDAS  staff  591967 Dec 17  2009 wd2wgs.exe
+-rw-r--r--  1 PDAS  staff   39433 Dec  2  2008 wd2wgs.f90
+-rw-r--r--  1 PDAS  staff   54083 Feb 21  2009 wd2wgs.lnx
+-rw-r--r--  1 PDAS  staff  100828 Dec 31  2009 wd2wgs.mac
+-rw-r--r--  1 PDAS  staff    1312 Nov 22  1995 wdcase1.inp
+-rw-r--r--  1 PDAS  staff    7058 Dec 13  1995 wdcase1.wgs
+
+/Users/PDAS/V16image/3view:
+total 1064
+-rw-r--r--  1 PDAS  staff  327654 Jan 29 21:59 3view.exe
+-rw-r--r--  1 PDAS  staff   31396 Jan 27 13:21 3view.f90
+-rw-r--r--  1 PDAS  staff   61573 Feb 21  2009 3view.lnx
+-rw-r--r--  1 PDAS  staff   66356 Dec 31  2009 3view.mac
+-rw-r--r--  1 PDAS  staff    1772 Sep 26  2011 readme.txt
+-rw-r--r--  1 PDAS  staff   12340 Dec 17  2002 tnd4211.wgs
+-rw-r--r--  1 PDAS  staff   10079 Feb  5  2000 tnd7505.wgs
+-rw-r--r--  1 PDAS  staff    7438 Dec  4  1995 wbf.wgs
+-rw-r--r--  1 PDAS  staff    7058 Dec 13  1995 wdcase1.wgs
+
+/Users/PDAS/V16image/abaxi:
+total 1920
+-rw-r--r--  1 PDAS  staff  363402 Jan 29 21:59 abaxi.exe
+-rw-r--r--  1 PDAS  staff  103392 Jan 26 15:48 abaxi.f90
+-rw-r--r--  1 PDAS  staff  112749 Mar  6  2009 abaxi.lnx
+-rw-r--r--  1 PDAS  staff  185668 Feb 23  2010 abaxi.mac
+-rw-r--r--  1 PDAS  staff    2482 Oct 20  2005 lar11049.txt
+-rw-r--r--  1 PDAS  staff  142715 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    1836 Sep 26  2011 readme.txt
+-rw-r--r--  1 PDAS  staff    1963 Sep 20  2008 tmcase1.inp
+-rw-r--r--  1 PDAS  staff   23867 Mar  4  2009 tmcase1.out
+-rw-r--r--  1 PDAS  staff    2845 Aug 24  2008 tmcase2.inp
+-rw-r--r--  1 PDAS  staff    2586 Mar  4  2009 tmcase2.out
+-rw-r--r--  1 PDAS  staff    2365 Mar  5  2009 tmcase3.inp
+-rw-r--r--  1 PDAS  staff   15920 Mar  5  2009 tmcase3.out
+
+/Users/PDAS/V16image/ablate:
+total 3440
+-rw-r--r--  1 PDAS  staff  382908 Nov 12  2005 ablate.f90
+-rw-r--r--  1 PDAS  staff     614 Nov 12  2005 case1.inp
+-rw-r--r--  1 PDAS  staff  174144 Nov 12  2005 case1.out
+-rw-r--r--  1 PDAS  staff     510 Nov 12  2005 case2.inp
+-rw-r--r--  1 PDAS  staff  195195 Nov 12  2005 case2.out
+-rw-r--r--  1 PDAS  staff     956 Nov 12  2005 case5.inp
+-rw-r--r--  1 PDAS  staff  381773 Nov 12  2005 case5.out
+-rw-r--r--  1 PDAS  staff    2014 Sep  6  2005 lew00240.txt
+-rw-r--r--  1 PDAS  staff  594376 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff     948 Sep 27  2011 readme.txt
+
+/Users/PDAS/V16image/aipp:
+total 1408
+-rw-r--r--  1 PDAS  staff  188995 Sep  9  2005 aipp.f90
+-rw-r--r--  1 PDAS  staff    4836 Oct 20  2005 lar12203.txt
+-rw-r--r--  1 PDAS  staff  515134 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff     740 Sep 27  2011 readme.txt
+
+/Users/PDAS/V16image/anduct:
+total 392
+-rw-r--r--  1 PDAS  staff  36478 Dec  1  2009 an.f90
+-rw-r--r--  1 PDAS  staff   5687 Nov 30  2009 case1.inp
+-rw-r--r--  1 PDAS  staff  83149 Nov  7  2005 case1.out
+-rw-r--r--  1 PDAS  staff    906 Nov 30  2009 case2.inp
+-rw-r--r--  1 PDAS  staff   6879 Nov  7  2005 case2.out
+-rw-r--r--  1 PDAS  staff    260 Nov 30  2009 case3.inp
+-rw-r--r--  1 PDAS  staff   6879 Nov  7  2005 case3.out
+-rw-r--r--  1 PDAS  staff    534 Nov 30  2009 case4.inp
+-rw-r--r--  1 PDAS  staff   6879 Nov  7  2005 case4.out
+-rw-r--r--  1 PDAS  staff    275 Nov 12  2005 case6.inp
+-rw-r--r--  1 PDAS  staff   2454 Oct 24  2001 lew14000.txt
+-rw-r--r--  1 PDAS  staff  17824 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff    960 Nov 26  2010 readme.txt
+
+/Users/PDAS/V16image/aofa:
+total 416
+-rw-r--r--  1 PDAS  staff   98576 Nov 17  2005 aofa.f90
+-rw-r--r--  1 PDAS  staff    2773 Oct 24  2001 arc11087.txt
+-rw-r--r--  1 PDAS  staff  100945 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff     868 Sep 27  2011 readme.txt
+
+/Users/PDAS/V16image/aries:
+total 312
+-rw-r--r--  1 PDAS  staff  73058 Sep  9  2005 aries.f
+-rw-r--r--  1 PDAS  staff    968 Jan 29  2009 aries.jcl
+-rw-r--r--  1 PDAS  staff   2754 Sep  9  2005 msc20816.txt
+-rw-r--r--  1 PDAS  staff  72991 Sep  9  2005 original.src
+-rw-r--r--  1 PDAS  staff    636 Sep 27  2011 readme.txt
+
+/Users/PDAS/V16image/atc:
+total 952
+-rw-r--r--  1 PDAS  staff    2426 Sep  9  2005 arc11132.txt
+-rw-r--r--  1 PDAS  staff  285480 Jan 29 21:59 atc.exe
+-rw-r--r--  1 PDAS  staff   20932 Nov 24  2010 atc.f90
+-rw-r--r--  1 PDAS  staff   31211 Feb 21  2009 atc.lnx
+-rw-r--r--  1 PDAS  staff   38856 Feb 17  2009 atc.mac
+-rw-r--r--  1 PDAS  staff      98 Feb  3  2009 case1.inp
+-rw-r--r--  1 PDAS  staff   57530 Feb 23  2009 case1.out
+-rw-r--r--  1 PDAS  staff    1803 Nov 24  2010 input.txt
+-rw-r--r--  1 PDAS  staff   10386 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff     992 Nov 24  2010 plot.inp
+-rw-r--r--  1 PDAS  staff    3483 Nov 24  2010 radar.inp
+-rw-r--r--  1 PDAS  staff    1336 Nov 28  2010 readme.txt
+-rw-r--r--  1 PDAS  staff     210 Nov 24  2010 wind.inp
+
+/Users/PDAS/V16image/atmos:
+total 1288
+-rw-r--r--  1 PDAS  staff    4307 Dec  5  1995 at62.for
+-rw-r--r--  1 PDAS  staff   17312 Dec 30  2000 atmos76.f90
+-rw-r--r--  1 PDAS  staff   78956 Oct  6  2011 atmtabs.htm
+-rw-r--r--  1 PDAS  staff   13108 Sep 27  2011 bb.f90
+-rw-r--r--  1 PDAS  staff   18800 Jan  5  2011 bigtable.f90
+-rw-r--r--  1 PDAS  staff   16435 Jan 12  2011 bigtable.out
+-rw-r--r--  1 PDAS  staff    3303 Aug 30 11:23 coesa.txt
+-rw-r--r--  1 PDAS  staff   17660 Jan  5  2011 hotcold.f90
+-rw-r--r--  1 PDAS  staff    5876 Jul  3  2012 language.txt
+-rw-r--r--  1 PDAS  staff    6321 Jul  3  2012 press.dpr
+-rw-r--r--  1 PDAS  staff   10690 Sep 27  2011 readme.txt
+-rw-r--r--  1 PDAS  staff    3574 Jul  7  2012 si1.prt
+-rw-r--r--  1 PDAS  staff    3125 Jul  7  2012 si2.prt
+-rw-r--r--  1 PDAS  staff   10819 Sep 19  1995 tables.bas
+-rw-r--r--  1 PDAS  staff   11599 Oct 31  2001 tables.c
+-rw-r--r--  1 PDAS  staff   14931 Oct 20  2011 tables.cpp
+-rw-r--r--  1 PDAS  staff   13220 Jul  5  2012 tables.dpr
+-rw-r--r--  1 PDAS  staff   17262 Nov 28  2001 tables.f90
+-rw-r--r--  1 PDAS  staff   21129 Oct 31  2001 tables.for
+-rw-r--r--  1 PDAS  staff    7307 Jan  4  2005 tables.py
+-rw-r--r--  1 PDAS  staff    3525 Dec 10  2010 tables.txt
+-rw-r--r--@ 1 PDAS  staff   29597 Jul 15  2012 tables76.f90
+-rw-r--r--  1 PDAS  staff    7735 Dec 29  2000 uasa2000.dpr
+-rw-r--r--  1 PDAS  staff   47616 Dec 29  2000 uasa2000.exe
+-rw-r--r--  1 PDAS  staff    7696 Oct 22  2000 uasa2000.pas
+-rw-r--r--  1 PDAS  staff    4502 Jul  7  2012 us1.prt
+-rw-r--r--  1 PDAS  staff    5246 Jul  7  2012 us2.prt
+-rw-r--r--  1 PDAS  staff   20519 Dec 29  2000 ussa1976.dpr
+-rw-r--r--  1 PDAS  staff  153600 Jul 24  2012 ussa1976.exe
+-rw-r--r--  1 PDAS  staff   20389 Dec 29  2000 ussa1976.pas
+
+/Users/PDAS/V16image/boom:
+total 136
+-rw-r--r--  1 PDAS  staff  20141 Sep 24  2008 boom.f90
+-rw-r--r--  1 PDAS  staff    652 Sep 17  2008 case1.inp
+-rw-r--r--  1 PDAS  staff  13546 Sep 20  2008 case1.out
+-rw-r--r--  1 PDAS  staff    268 Sep 17  2008 case2.inp
+-rw-r--r--  1 PDAS  staff   3995 Sep 20  2008 case2.out
+-rw-r--r--  1 PDAS  staff  13972 Sep  6  2008 original.src
+-rw-r--r--@ 1 PDAS  staff    589 May 21  2010 readme.txt
+
+/Users/PDAS/V16image/cas2d:
+total 120
+-rw-r--r--  1 PDAS  staff   2556 Nov 12  2005 lew13854.txt
+-rw-r--r--  1 PDAS  staff  52810 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff    684 Sep 27  2011 readme.txt
+
+/Users/PDAS/V16image/celest:
+total 128
+-rw-r--r--  1 PDAS  staff  9538 Jan  5 14:46 celest.f90
+-rw-r--r--  1 PDAS  staff  2458 Jan  5 13:14 readme.txt
+-rw-r--r--  1 PDAS  staff  5803 Jan  3 12:06 table1.txt
+-rw-r--r--  1 PDAS  staff  5807 Jan  3 12:06 table2.txt
+-rw-r--r--  1 PDAS  staff  5799 Jan  3 12:06 table3.txt
+-rw-r--r--  1 PDAS  staff  5801 Jan  3 12:06 table4.txt
+-rw-r--r--  1 PDAS  staff  5807 Jan  3 12:06 table5.txt
+-rw-r--r--  1 PDAS  staff  4435 Dec 14  2009 tables.f90
+
+/Users/PDAS/V16image/coldarc:
+total 272
+-rw-r--r--  1 PDAS  staff  38551 Nov 28  2010 coldarc.f90
+-rw-r--r--  1 PDAS  staff   1932 Nov  7  2005 msc20522.txt
+-rw-r--r--  1 PDAS  staff  87885 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff    724 Sep 27  2011 readme.txt
+
+/Users/PDAS/V16image/conplot:
+total 216
+-rw-r--r--  1 PDAS  staff   1879 Oct  4  1999 arc11441.txt
+-rw-r--r--  1 PDAS  staff  49899 Jan 21  2010 conplot.f90
+-rw-r--r--  1 PDAS  staff  32691 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff   3463 Jan 25  2010 readme.txt
+-rw-r--r--  1 PDAS  staff   1905 Jan 21  2010 test1.f90
+-rw-r--r--  1 PDAS  staff   3824 Jan 21  2010 test2.f90
+-rw-r--r--  1 PDAS  staff     51 Dec 29  1999 test2con.txt
+-rw-r--r--  1 PDAS  staff   1998 Dec 29  1999 test2dat.txt
+
+/Users/PDAS/V16image/contour:
+total 512
+-rw-r--r--  1 PDAS  staff    2076 Jan 27  2009 lar10872.txt
+-rw-r--r--  1 PDAS  staff  252411 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff     640 Sep 27  2011 readme.txt
+
+/Users/PDAS/V16image/corel:
+total 656
+-rw-r--r--  1 PDAS  staff   13312 Oct  7  1999 case1.nml
+-rw-r--r--  1 PDAS  staff   16899 Nov  7  2001 case1.out
+-rw-r--r--  1 PDAS  staff    3144 Nov  8  2001 case1a.nml
+-rw-r--r--  1 PDAS  staff  121198 Nov  7  2001 case1a.out
+-rw-r--r--  1 PDAS  staff    9552 Nov  8  2001 case2a.nml
+-rw-r--r--  1 PDAS  staff     616 Nov  8  2001 case3a.nml
+-rw-r--r--  1 PDAS  staff    2921 Oct 20  2005 lar13239.txt
+-rw-r--r--  1 PDAS  staff  145222 Oct  7  1999 original.src
+-rw-r--r--  1 PDAS  staff     643 Sep 28  2011 readme.txt
+
+/Users/PDAS/V16image/datcom:
+total 10536
+-rw-r--r--  1 PDAS  staff  1914380 Nov 18  2009 datcom.exe
+-rw-r--r--  1 PDAS  staff  1189359 Nov 18  2009 datcom.lnx
+-rw-r--r--  1 PDAS  staff  1457036 Nov 18  2009 datcom.mac
+-rw-r--r--  1 PDAS  staff    65362 May 23  2003 exlinux.zip
+-rw-r--r--  1 PDAS  staff    64270 Dec 21  2004 exmac.zip
+-rw-r--r--  1 PDAS  staff    60041 Dec 22  2004 exwin.zip
+-rw-r--r--  1 PDAS  staff     4419 Nov 28  2010 readme.txt
+-rw-r--r--  1 PDAS  staff   626344 Mar 10  2009 source.zip
+
+/Users/PDAS/V16image/diffprob:
+total 912
+-rw-r--r--  1 PDAS  staff   4559 Oct 11  2002 areash.f90
+-rw-r--r--  1 PDAS  staff   1185 Sep 13  2002 areash.out
+-rw-r--r--  1 PDAS  staff  46750 Mar 20  2003 areash.pdf
+-rw-r--r--  1 PDAS  staff  40257 Apr  8  2003 areash2.pdf
+-rw-r--r--  1 PDAS  staff  42518 Mar 20  2003 geopot.pdf
+-rw-r--r--  1 PDAS  staff  69391 Mar 20  2003 hydro.pdf
+-rw-r--r--  1 PDAS  staff   5808 Jan 25  2003 maxramp.f90
+-rw-r--r--  1 PDAS  staff    931 Jan 25  2003 maxramp.out
+-rw-r--r--  1 PDAS  staff  53927 Mar 20  2003 maxramp1.pdf
+-rw-r--r--  1 PDAS  staff  47519 Mar 20  2003 maxramp2.pdf
+-rw-r--r--  1 PDAS  staff   8589 Sep 29  2002 oshock.f90
+-rw-r--r--  1 PDAS  staff    560 Oct 12  2002 oshock.out
+-rw-r--r--  1 PDAS  staff  53462 Mar 20  2003 oshock1.pdf
+-rw-r--r--  1 PDAS  staff  50865 Mar 20  2003 oshock2.pdf
+-rw-r--r--  1 PDAS  staff   2125 Sep 28  2011 readme.txt
+
+/Users/PDAS/V16image/diverge:
+total 408
+-rw-r--r--  1 PDAS  staff    1130 Nov 24  2010 case1.inp
+-rw-r--r--  1 PDAS  staff    3938 Nov 24  2010 case1.out
+-rw-r--r--  1 PDAS  staff    1250 Nov 24  2010 case2.inp
+-rw-r--r--  1 PDAS  staff    3971 Nov 24  2010 case2.out
+-rw-r--r--  1 PDAS  staff   55111 Nov 24  2010 diverge.f90
+-rw-r--r--  1 PDAS  staff    2038 Oct 20  2005 lar12004.txt
+-rw-r--r--  1 PDAS  staff  123853 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    1123 Dec  6  2010 readme.txt
+
+/Users/PDAS/V16image/elastic:
+total 480
+-rw-r--r--  1 PDAS  staff  88096 Aug 27  2008 aeread.f
+-rw-r--r--  1 PDAS  staff  90004 Aug 27  2008 aerela.f
+-rw-r--r--  1 PDAS  staff  55354 Aug 27  2008 aerelas.f
+-rw-r--r--  1 PDAS  staff   2031 Nov 30  1996 lar11602.txt
+-rw-r--r--  1 PDAS  staff    598 Sep 28  2011 readme.txt
+
+/Users/PDAS/V16image/eppler:
+total 1384
+-rw-r--r--  1 PDAS  staff     204 Dec 26  1998 e1098.dat
+-rw-r--r--  1 PDAS  staff   23419 Jan  1  2004 e1098.out
+-rw-r--r--  1 PDAS  staff  359995 Jan 29 21:59 profile.exe
+-rw-r--r--  1 PDAS  staff   92630 Dec 13  2009 profile.f90
+-rw-r--r--  1 PDAS  staff  100117 Feb 21  2009 profile.lnx
+-rw-r--r--  1 PDAS  staff  118152 Feb  2  2009 profile.mac
+-rw-r--r--  1 PDAS  staff    3581 Oct  2  2011 readme.txt
+
+/Users/PDAS/V16image/exhaust:
+total 768
+-rw-r--r--  1 PDAS  staff    1713 Dec  3  2005 lar11596.txt
+-rw-r--r--  1 PDAS  staff  190267 Nov 13  2005 nozzle.for
+-rw-r--r--  1 PDAS  staff  190193 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff     706 Sep 29  2011 readme.txt
+
+/Users/PDAS/V16image/fairdata:
+total 1048
+-rw-r--r--  1 PDAS  staff    1383 Dec 26  2001 case1.nml
+-rw-r--r--  1 PDAS  staff    1485 Dec 26  2001 case1a.nml
+-rw-r--r--  1 PDAS  staff    1353 Dec 26  2001 case1b.nml
+-rw-r--r--  1 PDAS  staff    3110 Dec 26  2001 case2.nml
+-rw-r--r--  1 PDAS  staff    3168 Dec 26  2001 case2a.nml
+-rw-r--r--  1 PDAS  staff    2174 Dec 19  2001 case3.nml
+-rw-r--r--  1 PDAS  staff    2206 Dec 19  2001 case3a.nml
+-rw-r--r--  1 PDAS  staff     630 Dec 19  2001 case4.nml
+-rw-r--r--  1 PDAS  staff  323376 Jan 29 21:59 fair.exe
+-rw-r--r--  1 PDAS  staff   36192 Jan  6  2002 fair.f90
+-rw-r--r--  1 PDAS  staff   62107 Feb 21  2009 fair.lnx
+-rw-r--r--  1 PDAS  staff   72672 Feb  2  2009 fair.mac
+-rw-r--r--  1 PDAS  staff    2246 Sep 29  2011 readme.txt
+
+/Users/PDAS/V16image/fluid:
+total 1952
+-rw-r--r--  1 PDAS  staff   94909 Dec 18  1997 ar.f90
+-rw-r--r--  1 PDAS  staff   72012 Dec 18  1997 ch4.f90
+-rw-r--r--  1 PDAS  staff   95021 Dec 19  1997 co2.f90
+-rw-r--r--  1 PDAS  staff    3717 Dec 18  1997 cubic.f90
+-rw-r--r--  1 PDAS  staff   25996 Dec 18  1997 dryair.f90
+-rw-r--r--  1 PDAS  staff   71956 Dec 18  1997 f2.f90
+-rw-r--r--  1 PDAS  staff   70128 Aug 27  2008 fluid.f90
+-rw-r--r--  1 PDAS  staff   11373 Sep 11  1997 futil.f90
+-rw-r--r--  1 PDAS  staff   28749 Sep 11  1997 gases.f90
+-rw-r--r--  1 PDAS  staff    9840 Jan  2  1998 instr.txt
+-rw-r--r--  1 PDAS  staff    2924 Jan  2  1998 lew14418.txt
+-rw-r--r--  1 PDAS  staff   94893 Dec 18  1997 n2.f90
+-rw-r--r--  1 PDAS  staff    5621 Dec 18  1997 ntrp.f90
+-rw-r--r--  1 PDAS  staff   41977 Dec 18  1997 o2.f90
+-rw-r--r--  1 PDAS  staff  174073 Jan  4  2006 original.zip
+-rw-r--r--  1 PDAS  staff   46308 Dec 18  1997 ph2.f90
+-rw-r--r--  1 PDAS  staff    2703 Sep 29  2011 readme.txt
+-rw-r--r--  1 PDAS  staff    8362 Aug 27  2008 sample.f90
+-rw-r--r--  1 PDAS  staff   12621 Aug 27  2008 samprlc.f90
+-rw-r--r--  1 PDAS  staff   73284 Dec 18  1997 steam.f90
+-rw-r--r--@ 1 PDAS  staff    1426 May 25  2010 test.f90
+
+/Users/PDAS/V16image/flutter:
+total 456
+-rw-r--r--  1 PDAS  staff     248 Nov 13  2005 blk.inc
+-rw-r--r--  1 PDAS  staff    1478 Nov 24  2005 case1.inp
+-rw-r--r--  1 PDAS  staff   66126 Nov 27  2005 flutter.f90
+-rw-r--r--  1 PDAS  staff    1489 Dec 19  2005 input.txt
+-rw-r--r--  1 PDAS  staff    3137 Dec  3  2005 lar10199.txt
+-rw-r--r--  1 PDAS  staff  137335 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff    1205 Sep 29  2011 readme.txt
+-rw-r--r--  1 PDAS  staff     504 Nov 13  2005 wws.inc
+
+/Users/PDAS/V16image/fmm:
+total 416
+-rw-r--r--  1 PDAS  staff  117901 Oct 11  2002 fmm.f90
+-rw-r--r--  1 PDAS  staff   56297 Mar 13  2009 original.src
+-rw-r--r--  1 PDAS  staff    1347 Sep 29  2011 readme.txt
+-rw-r--r--  1 PDAS  staff   21712 Dec 12  2008 samples.f90
+-rw-r--r--  1 PDAS  staff    4161 Jan  2  2005 samples.out
+
+/Users/PDAS/V16image/fsd:
+total 1784
+-rw-r--r--  1 PDAS  staff    3058 Nov 13  2005 gsc13006.txt
+-rw-r--r--  1 PDAS  staff   13152 Nov  2  2005 library.pas
+-rw-r--r--  1 PDAS  staff  887774 Nov  2  2005 original.src
+-rw-r--r--  1 PDAS  staff     703 Sep 29  2011 readme.txt
+
+/Users/PDAS/V16image/gasp:
+total 600
+-rw-r--r--  1 PDAS  staff   81362 Nov 24  2010 g.for
+-rw-r--r--  1 PDAS  staff    2367 Jan  1  1998 lew11629.txt
+-rw-r--r--  1 PDAS  staff  176127 Jan  4  2006 original.src
+-rw-r--r--  1 PDAS  staff    3718 Nov 24  2010 problem1.f90
+-rw-r--r--  1 PDAS  staff    2546 Nov 24  2010 problem2.f90
+-rw-r--r--  1 PDAS  staff    2337 Nov 24  2010 problem3.f90
+-rw-r--r--  1 PDAS  staff    3656 Nov 24  2010 problem4.f90
+-rw-r--r--  1 PDAS  staff    2332 Nov 24  2010 problem5.f90
+-rw-r--r--  1 PDAS  staff    2107 Nov 28  2010 readme.txt
+-rw-r--r--  1 PDAS  staff    6479 Nov 24  2010 sample1.for
+-rw-r--r--  1 PDAS  staff    4752 Nov 24  2010 sample2.for
+-rw-r--r--  1 PDAS  staff    3026 Nov 24  2010 sample3.for
+
+/Users/PDAS/V16image/getmac:
+total 1224
+-rw-r--r--  1 PDAS  staff     179 Nov 24  2010 b2.nml
+-rw-r--r--  1 PDAS  staff     524 Nov 24  2010 b2.out
+-rw-r--r--  1 PDAS  staff   10887 Jul 20  2008 cases.pdf
+-rw-r--r--  1 PDAS  staff    1910 Jul 20  2008 cases.txt
+-rw-r--r--  1 PDAS  staff     160 Nov 24  2010 f117.nml
+-rw-r--r--  1 PDAS  staff     526 Nov 24  2010 f117.out
+-rw-r--r--  1 PDAS  staff  527166 Dec 17  2009 getmac.exe
+-rw-r--r--  1 PDAS  staff    5637 Nov 24  2010 getmac.f90
+-rw-r--r--  1 PDAS  staff   14559 Feb 21  2009 getmac.lnx
+-rw-r--r--  1 PDAS  staff   22380 Feb  2  2009 getmac.mac
+-rw-r--r--  1 PDAS  staff     765 Jan  3  2006 input.txt
+-rw-r--r--  1 PDAS  staff     619 Nov 24  2010 ofw.nml
+-rw-r--r--  1 PDAS  staff    1108 Nov 24  2010 ofw.out
+-rw-r--r--  1 PDAS  staff    1369 Nov 28  2010 readme.txt
+
+/Users/PDAS/V16image/goptics:
+total 1048
+-rw-r--r--  1 PDAS  staff  313577 Dec 10  2008 geno84.f90
+-rw-r--r--  1 PDAS  staff    3999 Nov 30  1996 gsc12823.txt
+-rw-r--r--  1 PDAS  staff  211521 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff     677 Sep 29  2011 readme.txt
+
+/Users/PDAS/V16image/grape:
+total 3656
+-rw-r--r--  1 PDAS  staff    3071 Dec 19  2005 arc11379.txt
+-rw-r--r--  1 PDAS  staff      42 Nov  2  2005 case1.inp
+-rw-r--r--  1 PDAS  staff  110659 Jan  1  2006 case1.out
+-rw-r--r--  1 PDAS  staff     150 Nov  2  2005 case2.inp
+-rw-r--r--  1 PDAS  staff   51951 Jan  1  2006 case2.out
+-rw-r--r--  1 PDAS  staff     864 Nov  2  2005 case3.inp
+-rw-r--r--  1 PDAS  staff  141518 Jan  1  2006 case3.out
+-rw-r--r--  1 PDAS  staff    3714 Nov  2  2005 case4.inp
+-rw-r--r--  1 PDAS  staff  112357 Jan  1  2006 case4.out
+-rw-r--r--  1 PDAS  staff  723114 Feb 23  2009 grape.exe
+-rw-r--r--  1 PDAS  staff  135353 Jan 30  2009 grape.f90
+-rw-r--r--  1 PDAS  staff  190056 Feb 23  2009 grape.lnx
+-rw-r--r--  1 PDAS  staff  238632 Dec 12  2009 grape.mac
+-rw-r--r--  1 PDAS  staff    1224 Dec 29  2009 input.txt
+-rw-r--r--  1 PDAS  staff  117501 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    1355 Sep 29  2011 readme.txt
+
+/Users/PDAS/V16image/hlp:
+total 1880
+-rw-r--r--  1 PDAS  staff    2588 Jan  7  1999 arc12721.txt
+-rw-r--r--  1 PDAS  staff  229088 May 20  2008 danplot.exe
+-rw-r--r--  1 PDAS  staff   45568 Oct 11  2005 dpr.xls
+-rw-r--r--  1 PDAS  staff     215 Jul  8  2008 drh.cmn
+-rw-r--r--  1 PDAS  staff    1790 Mar 15  1999 ex1.wgs
+-rw-r--r--  1 PDAS  staff     901 Mar 15  1999 ex2.wgs
+-rw-r--r--  1 PDAS  staff    3832 Mar 15  1999 ex3.wgs
+-rw-r--r--  1 PDAS  staff   34375 May 14  1999 ex4.wgs
+-rw-r--r--  1 PDAS  staff   11262 May 14  1999 ex4pod1.wgs
+-rw-r--r--  1 PDAS  staff   43650 Aug 16  1995 f16xl.wgs
+-rw-r--r--  1 PDAS  staff  316450 Jan 29 21:59 hlp.exe
+-rw-r--r--  1 PDAS  staff   78390 Dec 13  2009 hlp.f90
+-rw-r--r--  1 PDAS  staff   66599 Nov 18  2009 hlp.lnx
+-rw-r--r--  1 PDAS  staff   85016 Nov 18  2009 hlp.mac
+-rw-r--r--  1 PDAS  staff    1933 Jan  3  2006 input.txt
+-rw-r--r--  1 PDAS  staff    4606 Sep 29  2011 readme.txt
+
+/Users/PDAS/V16image/hyper:
+total 720
+-rw-r--r--  1 PDAS  staff   46851 Nov 24  2010 hyper.f90
+-rw-r--r--  1 PDAS  staff    3661 Jan  4  2006 input.txt
+-rw-r--r--  1 PDAS  staff   23033 Nov 24  2010 methods.f90
+-rw-r--r--  1 PDAS  staff    2306 Sep 30  2011 readme.txt
+-rw-r--r--  1 PDAS  staff     213 Dec 29  2002 tmx1242.inp
+-rw-r--r--  1 PDAS  staff     427 Dec 13  2002 tmx1242.mak
+-rw-r--r--  1 PDAS  staff    2519 Dec 31  2002 tmx1242.out
+-rw-r--r--  1 PDAS  staff   14327 Dec 13  2002 tmx1242.wgs
+-rw-r--r--  1 PDAS  staff  214824 Dec 31  2002 tnd6480.dbg
+-rw-r--r--  1 PDAS  staff     170 Dec  6  2002 tnd6480.inp
+-rw-r--r--  1 PDAS  staff     487 Dec  6  2002 tnd6480.mak
+-rw-r--r--  1 PDAS  staff    2047 Jan  1  2003 tnd6480.out
+-rw-r--r--  1 PDAS  staff   27295 Dec  6  2002 tnd6480.wgs
+
+/Users/PDAS/V16image/induced:
+total 888
+-rw-r--r--  1 PDAS  staff     159 Jul 24  1996 case1.ccl
+-rw-r--r--  1 PDAS  staff    1407 Dec 28  1996 case1.out
+-rw-r--r--  1 PDAS  staff     444 Dec 28  1996 case2.ccl
+-rw-r--r--  1 PDAS  staff    1405 Dec 28  1996 case2.out
+-rw-r--r--  1 PDAS  staff     247 Jan  2  1997 case3.ccl
+-rw-r--r--  1 PDAS  staff    1315 Jan  2  1997 case3.out
+-rw-r--r--  1 PDAS  staff     288 Dec 28  1996 case4.ccl
+-rw-r--r--  1 PDAS  staff    1224 Dec 28  1996 case4.out
+-rw-r--r--  1 PDAS  staff   10859 Nov 18  2009 id.f90
+-rw-r--r--  1 PDAS  staff  296857 Jan 29 21:59 induced.exe
+-rw-r--r--  1 PDAS  staff   15560 Nov 18  2009 induced.f90
+-rw-r--r--  1 PDAS  staff   36737 Feb 21  2009 induced.lnx
+-rw-r--r--  1 PDAS  staff   43740 Feb  2  2009 induced.mac
+-rw-r--r--  1 PDAS  staff    1339 Jan  3  2006 input.txt
+-rw-r--r--  1 PDAS  staff    4399 Nov 28  2010 readme.txt
+
+/Users/PDAS/V16image/inlet:
+total 1280
+-rw-r--r--  1 PDAS  staff    1222 Nov 24  2010 blank.cmn
+-rw-r--r--  1 PDAS  staff    1974 Nov 24  2010 fig9.dat
+-rw-r--r--  1 PDAS  staff   55245 Jul 14  2008 fig9.out
+-rw-r--r--  1 PDAS  staff  329520 Jan 29 21:59 inlet.exe
+-rw-r--r--  1 PDAS  staff   51719 Nov 24  2010 inlet.f90
+-rw-r--r--  1 PDAS  staff   77115 Nov 18  2009 inlet.lnx
+-rw-r--r--  1 PDAS  staff  120696 Dec 12  2009 inlet.mac
+-rw-r--r--  1 PDAS  staff    1764 Nov 28  2010 readme.txt
+
+/Users/PDAS/V16image/ipeg:
+total 112
+-rw-r--r--  1 PDAS  staff   3186 Nov 29  1996 npo15569.txt
+-rw-r--r--  1 PDAS  staff  48845 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff    906 Sep 30  2011 readme.txt
+
+/Users/PDAS/V16image/kernel:
+total 1608
+-rw-r--r--  1 PDAS  staff    4872 Nov 29  1996 case1.inp
+-rw-r--r--  1 PDAS  staff  150324 Jan  1  2006 case1.out
+-rw-r--r--@ 1 PDAS  staff     203 Dec 22  2009 input.txt
+-rw-r--r--  1 PDAS  staff  175825 Nov 24  2010 kernel.f90
+-rw-r--r--  1 PDAS  staff    4262 Dec  3  2005 lar12524.txt
+-rw-r--r--  1 PDAS  staff  469894 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    1395 Jan 27 12:58 readme.txt
+
+/Users/PDAS/V16image/lineint:
+total 936
+-rw-r--r--  1 PDAS  staff     185 Dec 24  2000 int2d.dpr
+-rw-r--r--  1 PDAS  staff  438784 Mar  6  2007 int2d.exe
+-rw-r--r--  1 PDAS  staff    1978 Sep 30  2011 readme.txt
+-rw-r--r--  1 PDAS  staff    5009 Nov 10  2000 xlines.c
+-rw-r--r--  1 PDAS  staff    8302 Dec 26  2000 xsect.dfm
+-rw-r--r--  1 PDAS  staff    5538 Dec 24  2000 xsect.pas
+
+/Users/PDAS/V16image/linintrp:
+total 912
+-rw-r--r--  1 PDAS  staff    3987 Nov 28  2000 int.dfm
+-rw-r--r--  1 PDAS  staff    4594 Nov 28  2000 int.pas
+-rw-r--r--  1 PDAS  staff     182 Nov 27  2000 interp.dpr
+-rw-r--r--  1 PDAS  staff  444416 Mar  6  2007 interp.exe
+-rw-r--r--  1 PDAS  staff    1817 Sep 30  2011 readme.txt
+
+/Users/PDAS/V16image/longlib:
+total 2536
+-rw-r--r--  1 PDAS  staff  1289750 Jan 11  2009 longlib.zip
+-rw-r--r--  1 PDAS  staff     2837 Nov 30  1996 npo17443.txt
+-rw-r--r--  1 PDAS  staff      641 Sep 30  2011 readme.txt
+
+/Users/PDAS/V16image/makewgs:
+total 952
+-rw-r--r--  1 PDAS  staff    3516 Jan  3  2006 input.txt
+-rw-r--r--  1 PDAS  staff  315746 Jan 29 21:59 makewgs.exe
+-rw-r--r--  1 PDAS  staff   35876 Nov 24  2010 makewgs.f90
+-rw-r--r--  1 PDAS  staff   55020 Feb 21  2009 makewgs.lnx
+-rw-r--r--  1 PDAS  staff   64388 Dec 22  2009 makewgs.mac
+-rw-r--r--  1 PDAS  staff    1326 Nov 28  2010 readme.txt
+
+/Users/PDAS/V16image/massprop:
+total 1112
+-rw-r--r--  1 PDAS  staff      65 Feb 15  2009 example1.inp
+-rw-r--r--  1 PDAS  staff    1268 Feb 19  2009 example1.out
+-rw-r--r--  1 PDAS  staff     675 Feb 15  2009 example2.inp
+-rw-r--r--  1 PDAS  staff    4852 Feb 19  2009 example2.out
+-rw-r--r--  1 PDAS  staff     922 Feb 15  2009 example3.inp
+-rw-r--r--  1 PDAS  staff    3637 Feb 19  2009 example3.out
+-rw-r--r--  1 PDAS  staff    2565 Dec  3  2005 lar12454.txt
+-rw-r--r--  1 PDAS  staff  308292 Jan 29 21:59 massprop.exe
+-rw-r--r--  1 PDAS  staff   40732 Nov 24  2010 massprop.f90
+-rw-r--r--  1 PDAS  staff   60525 Feb 10  2009 massprop.lnx
+-rw-r--r--  1 PDAS  staff   71656 Feb  2  2009 massprop.mac
+-rw-r--r--  1 PDAS  staff   42018 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    1519 Nov 28  2010 readme.txt
+
+/Users/PDAS/V16image/mislift:
+total 152
+-rw-r--r--  1 PDAS  staff    315 Dec  6  2005 case1.inp
+-rw-r--r--  1 PDAS  staff    938 Dec  7  2005 case2.inp
+-rw-r--r--  1 PDAS  staff    665 Dec  7  2005 case2extra.txt
+-rw-r--r--  1 PDAS  staff   1861 Dec  3  2005 lar10932.txt
+-rw-r--r--  1 PDAS  staff  29651 Nov 24  2010 mislift.f90
+-rw-r--r--  1 PDAS  staff  23850 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    658 Nov 24  2010 readme.txt
+
+/Users/PDAS/V16image/monitor:
+total 1328
+-rw-r--r--  1 PDAS  staff     759 Nov 14  2005 case1.inp
+-rw-r--r--  1 PDAS  staff    3180 Nov 14  2005 case1.out
+-rw-r--r--  1 PDAS  staff    3143 Nov 30  1996 gsc12705.txt
+-rw-r--r--  1 PDAS  staff  661545 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff     672 Sep 30  2011 readme.txt
+
+/Users/PDAS/V16image/naca456:
+total 2568
+-rw-r--r--  1 PDAS  staff   86054 Oct 19  2001 aiaa5235.pdf
+-rw-r--r--  1 PDAS  staff   89670 Nov  7  2010 avd.f90
+-rw-r--r--  1 PDAS  staff   42312 Jun  4  2006 epspsi.f90
+-rw-r--r--  1 PDAS  staff    2094 Jan  3  2006 input.txt
+-rw-r--r--  1 PDAS  staff  385092 Jan 29 21:59 naca456.exe
+-rw-r--r--  1 PDAS  staff   21321 Nov  7  2010 naca456.f90
+-rw-r--r--  1 PDAS  staff  121636 Feb 21  2009 naca456.lnx
+-rw-r--r--  1 PDAS  staff  146412 Feb  2  2009 naca456.mac
+-rw-r--r--  1 PDAS  staff   46660 Oct  8  2011 nacax.f90
+-rw-r--r--  1 PDAS  staff    3344 Sep 30  2011 readme.txt
+-rw-r--r--  1 PDAS  staff   44377 Jan  4  2002 samples.zip
+-rw-r--r--  1 PDAS  staff   43851 Jan  4  2002 samplnx.zip
+-rw-r--r--  1 PDAS  staff   15450 Nov  7  2010 splprocs.f90
+-rw-r--r--  1 PDAS  staff  240876 Jan  4  2002 ver6.zip
+
+/Users/PDAS/V16image/nastplt:
+total 64
+-rw-r--r--  1 PDAS  staff   2203 Nov 14  2005 gsc12833.txt
+-rw-r--r--  1 PDAS  staff  21751 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    641 Sep 30  2011 readme.txt
+
+/Users/PDAS/V16image/nseg:
+total 2712
+-rw-r--r--  1 PDAS  staff     2710 Dec  3  2005 lar12299.txt
+-rw-r--r--  1 PDAS  staff  1380302 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff      672 Sep 30  2011 readme.txt
+
+/Users/PDAS/V16image/optim:
+total 936
+-rw-r--r--  1 PDAS  staff    1755 Nov 29  1996 lar12940.txt
+-rw-r--r--  1 PDAS  staff  470068 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff     674 Sep 30  2011 readme.txt
+
+/Users/PDAS/V16image/opttraj:
+total 1768
+-rw-r--r--  1 PDAS  staff    4099 May 11  1999 arc11282.txt
+-rw-r--r--  1 PDAS  staff    1162 Dec 12  2009 boeing.inc
+-rw-r--r--  1 PDAS  staff   19908 Oct 10  1999 case1.aer
+-rw-r--r--  1 PDAS  staff   24230 Oct  7  1999 case1.dat
+-rw-r--r--  1 PDAS  staff    3905 Oct 10  1999 case1.eng
+-rw-r--r--  1 PDAS  staff     143 Oct 18  1999 case1.in5
+-rw-r--r--  1 PDAS  staff     148 Oct 10  1999 case1.in7
+-rw-r--r--  1 PDAS  staff     586 Jan  3  2006 input.txt
+-rw-r--r--  1 PDAS  staff  356703 Jan 29 21:59 opttraj.exe
+-rw-r--r--  1 PDAS  staff  119378 Dec 12  2009 opttraj.f90
+-rw-r--r--  1 PDAS  staff  114997 Dec 12  2009 opttraj.lnx
+-rw-r--r--  1 PDAS  staff  134180 Dec 12  2009 opttraj.mac
+-rw-r--r--  1 PDAS  staff   88945 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    1125 Dec 12  2009 readme.txt
+
+/Users/PDAS/V16image/oracls:
+total 1112
+-rw-r--r--  1 PDAS  staff    1640 Nov 24  2010 example1.for
+-rw-r--r--  1 PDAS  staff      74 Nov 24  2010 example1.inp
+-rw-r--r--  1 PDAS  staff   13908 Nov 24  2010 example1.out
+-rw-r--r--  1 PDAS  staff    2511 Nov 24  2010 example2.for
+-rw-r--r--  1 PDAS  staff     510 Nov 24  2010 example2.inp
+-rw-r--r--  1 PDAS  staff    7949 Nov 24  2010 example2.out
+-rw-r--r--  1 PDAS  staff    2447 Nov 24  2010 example3.for
+-rw-r--r--  1 PDAS  staff     943 Nov 24  2010 example3.inp
+-rw-r--r--  1 PDAS  staff    1671 Nov 24  2010 example4.for
+-rw-r--r--  1 PDAS  staff     666 Nov 24  2010 example4.inp
+-rw-r--r--  1 PDAS  staff    4910 Nov 24  2010 example4.out
+-rw-r--r--  1 PDAS  staff    4249 Dec 19  2005 gsc13067.txt
+-rw-r--r--  1 PDAS  staff  279473 Nov 24  2010 oracls.f
+-rw-r--r--  1 PDAS  staff  205729 Dec 22  2005 original.zip
+-rw-r--r--  1 PDAS  staff    1438 Nov 28  2010 readme.txt
+
+/Users/PDAS/V16image/pablo:
+total 1208
+-rw-r--r--  1 PDAS  staff   59106 Dec 17  2000 69.gif
+-rw-r--r--  1 PDAS  staff   61116 Nov 17  2009 cases.zip
+-rw-r--r--  1 PDAS  staff      84 Jan 17  2000 cfturb.m
+-rw-r--r--  1 PDAS  staff    4565 Jan 17  2000 close_te.m
+-rw-r--r--  1 PDAS  staff      79 Jan 17  2000 dist.m
+-rw-r--r--  1 PDAS  staff    2483 Jan 17  2000 doublet.m
+-rw-r--r--  1 PDAS  staff     153 Jan 17  2000 ellipse.m
+-rw-r--r--  1 PDAS  staff     273 Jan 17  2000 fh.m
+-rw-r--r--  1 PDAS  staff     408 Jan 17  2000 findy.m
+-rw-r--r--  1 PDAS  staff     296 Jan 17  2000 fl.m
+-rw-r--r--  1 PDAS  staff     222 Jan 17  2000 h1ofh.m
+-rw-r--r--  1 PDAS  staff     161 Jan 17  2000 hofh1.m
+-rw-r--r--  1 PDAS  staff    2849 Jan 17  2000 info.m
+-rw-r--r--  1 PDAS  staff    3079 Jan 17  2000 library.m
+-rw-r--r--  1 PDAS  staff    1132 Jan 17  2000 naca4.m
+-rw-r--r--  1 PDAS  staff    5992 Dec 17  2000 pablo.htm
+-rw-r--r--  1 PDAS  staff   34381 Dec 30  2000 pablo.m
+-rw-r--r--  1 PDAS  staff  334336 Dec 20  1999 pablo.tar
+-rw-r--r--  1 PDAS  staff    1578 Dec 17  2000 pablo.txt
+-rw-r--r--  1 PDAS  staff    4265 Sep 30  2011 readme.txt
+-rw-r--r--  1 PDAS  staff    1027 Jan 17  2000 rsolver.m
+-rw-r--r--  1 PDAS  staff     967 Jan 17  2000 runge.m
+-rw-r--r--  1 PDAS  staff    8952 Jan 17  2000 solvebl.m
+-rw-r--r--  1 PDAS  staff    2383 Jan 17  2000 source.m
+-rw-r--r--  1 PDAS  staff      53 Jan 17  2000 splf.m
+-rw-r--r--  1 PDAS  staff     364 Dec 30  2000 stag.m
+-rw-r--r--  1 PDAS  staff     159 Jan 17  2000 sy.m
+-rw-r--r--  1 PDAS  staff    4918 Jan 17  2000 vortex.m
+
+/Users/PDAS/V16image/panair:
+total 39768
+-rw-r--r--  1 PDAS  staff      6407 Jan  7  1999 arc11398.txt
+-rw-r--r--  1 PDAS  staff     44887 Aug 28  1993 btac.inp
+-rw-r--r--  1 PDAS  staff   1302188 Jan  5  1999 btac.out
+-rw-r--r--  1 PDAS  staff       286 Mar 11  2009 clean502.bat
+-rw-r--r--  1 PDAS  staff       241 Mar 11  2009 clean502.sh
+-rw-r--r--  1 PDAS  staff     27161 Aug 28  1993 ellip.inp
+-rw-r--r--  1 PDAS  staff    366386 Jan  7  1999 ellip.out
+-rw-r--r--  1 PDAS  staff       325 Feb 27  2009 locfcn.f90
+-rw-r--r--  1 PDAS  staff      5432 Aug 28  1993 nac6.inp
+-rw-r--r--  1 PDAS  staff    296970 Jan  7  1999 nac6.out
+-rw-r--r--  1 PDAS  staff   1942290 Feb 22  2010 panair.exe
+-rw-r--r--  1 PDAS  staff   1297814 Mar 12  2009 panair.lnx
+-rw-r--r--  1 PDAS  staff   1438864 Feb 22  2010 panair.mac
+-rw-r--r--  1 PDAS  staff      2104 Aug 28  1993 ppbc.inp
+-rw-r--r--  1 PDAS  staff    153163 Jan  7  1999 ppbc.out
+-rw-r--r--  1 PDAS  staff      5494 Nov 27  2010 readme.txt
+-rw-r--r--  1 PDAS  staff    728593 Feb 22  2010 source15.zip
+-rw-r--r--  1 PDAS  staff      8973 Aug 28  1993 swb.inp
+-rw-r--r--  1 PDAS  staff    321613 Jan  7  1999 swb.out
+-rw-r--r--  1 PDAS  staff  11259363 Mar 24  2010 userman.pdf
+-rw-r--r--  1 PDAS  staff      4912 Aug 28  1993 vbc.inp
+-rw-r--r--  1 PDAS  staff    407264 Jan  7  1999 vbc.out
+-rw-r--r--  1 PDAS  staff      6713 Aug 28  1993 vepd.inp
+-rw-r--r--  1 PDAS  staff    318165 Jan  7  1999 vepd.out
+-rw-r--r--  1 PDAS  staff      7433 Aug 28  1993 vss.inp
+-rw-r--r--  1 PDAS  staff    352835 Jan  7  1999 vss.out
+
+/Users/PDAS/V16image/panin:
+total 1112
+-rw-r--r--  1 PDAS  staff     152 Jan 10  1999 case1a.aux
+-rw-r--r--  1 PDAS  staff    8919 Jan  5  2000 case1a.inp
+-rw-r--r--  1 PDAS  staff    9892 Dec 18  1998 case1a.wgs
+-rw-r--r--  1 PDAS  staff   12481 Feb 17  2009 input.txt
+-rw-r--r--  1 PDAS  staff  322879 Jan 29 21:59 panin.exe
+-rw-r--r--  1 PDAS  staff   47141 Dec 15  2008 panin.f90
+-rw-r--r--  1 PDAS  staff   70729 Feb 21  2009 panin.lnx
+-rw-r--r--  1 PDAS  staff   73212 Feb 17  2009 panin.mac
+-rw-r--r--  1 PDAS  staff    1599 Sep 30  2011 readme.txt
+
+/Users/PDAS/V16image/pilot:
+total 1328
+-rw-r--r--  1 PDAS  staff    1993 Jan 29  2009 gsc12801.txt
+-rw-r--r--  1 PDAS  staff  669123 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff     680 Oct  1  2011 readme.txt
+
+/Users/PDAS/V16image/quartic:
+total 712
+-rw-r--r--  1 PDAS  staff  281585 Jan 29 21:59 quartic.exe
+-rw-r--r--  1 PDAS  staff   19184 Jan  4  2000 quartic.f90
+-rw-r--r--  1 PDAS  staff   24032 Nov 18  2009 quartic.lnx
+-rw-r--r--  1 PDAS  staff   31640 Dec 12  2009 quartic.mac
+-rw-r--r--  1 PDAS  staff    2814 Oct  1  2011 readme.txt
+
+/Users/PDAS/V16image/quiz:
+total 688
+-rw-r--r--  1 PDAS  staff    2232 Dec 18  2001 quizunit.dfm
+-rw-r--r--  1 PDAS  staff    8729 Jan  6  2002 quizunit.pas
+-rw-r--r--  1 PDAS  staff     193 Nov 15  2001 quizzer.dpr
+-rw-r--r--  1 PDAS  staff  325632 Jan  6  2002 quizzer.exe
+-rw-r--r--  1 PDAS  staff    3839 Oct  1  2011 readme.txt
+
+/Users/PDAS/V16image/rblade:
+total 144
+-rw-r--r--  1 PDAS  staff   1965 Jan 29  2009 lew11744.txt
+-rw-r--r--  1 PDAS  staff  62945 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff    690 Oct  1  2011 readme.txt
+
+/Users/PDAS/V16image/relay:
+total 144
+-rw-r--r--  1 PDAS  staff    936 Nov 22  2005 lar10658.txt
+-rw-r--r--  1 PDAS  staff  61616 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    955 Oct  1  2011 readme.txt
+
+/Users/PDAS/V16image/rogers:
+total 912
+-rw-r--r--  1 PDAS  staff  189028 Dec 31  1998 eq.pdf
+-rw-r--r--  1 PDAS  staff   24874 Dec 27  1997 fg.pdf
+-rw-r--r--  1 PDAS  staff    1020 Dec 18  2008 input.txt
+-rw-r--r--  1 PDAS  staff    3069 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  212444 Jan  4  1998 report.pdf
+-rw-r--r--  1 PDAS  staff   12902 Dec 19  2008 rogers.f90
+-rw-r--r--  1 PDAS  staff    1371 Feb 19  2009 sample1.f90
+-rw-r--r--  1 PDAS  staff     525 Jul 20  2008 sample1.out
+
+/Users/PDAS/V16image/rotor:
+total 2000
+-rw-r--r--  1 PDAS  staff    3430 Nov 30  1996 arc11150.txt
+-rw-r--r--  1 PDAS  staff  121597 Nov  5  2005 dynamics.for
+-rw-r--r--  1 PDAS  staff  118358 Nov  5  2005 dynamics.src
+-rw-r--r--  1 PDAS  staff    1090 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  170409 Nov  5  2005 rotor2.for
+-rw-r--r--  1 PDAS  staff  164166 Nov  5  2005 rotor2.src
+-rw-r--r--  1 PDAS  staff   70661 Nov  5  2005 support.for
+-rw-r--r--  1 PDAS  staff   68881 Nov  5  2005 support.src
+-rw-r--r--  1 PDAS  staff  145410 Nov  5  2005 tilting.for
+-rw-r--r--  1 PDAS  staff  142070 Nov  5  2005 tilting.src
+
+/Users/PDAS/V16image/rspline:
+total 496
+-rw-r--r--  1 PDAS  staff    4130 Nov 24  2010 example1.f90
+-rw-r--r--  1 PDAS  staff    3301 Nov 24  2010 example1.out
+-rw-r--r--  1 PDAS  staff    3795 Nov 24  2010 example2.f90
+-rw-r--r--  1 PDAS  staff     434 Nov 24  2010 example2.out
+-rw-r--r--  1 PDAS  staff    2132 Nov  5  2005 lar13694.txt
+-rw-r--r--  1 PDAS  staff  107738 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff  112558 Nov 24  2010 ratspl.f90
+-rw-r--r--  1 PDAS  staff    1134 Nov 28  2010 readme.txt
+
+/Users/PDAS/V16image/shifarc:
+total 4464
+-rw-r--r--  1 PDAS  staff  254379 Nov  5  2005 blunt.for
+-rw-r--r--  1 PDAS  staff  250995 Nov  5  2005 blunt.src
+-rw-r--r--  1 PDAS  staff    4007 Feb 17  2009 lar11891.txt
+-rw-r--r--  1 PDAS  staff  109008 Nov  5  2005 quick.for
+-rw-r--r--  1 PDAS  staff  108164 Nov  5  2005 quick.src
+-rw-r--r--  1 PDAS  staff     957 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  774258 Nov 20  2005 stein.for
+-rw-r--r--  1 PDAS  staff  763751 Nov  5  2005 stein.src
+
+/Users/PDAS/V16image/sneak:
+total 200
+-rw-r--r--  1 PDAS  staff   3675 Nov 30  1996 hqn10517.txt
+-rw-r--r--  1 PDAS  staff    629 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  91958 Jan 31  2009 sneak.zip
+
+/Users/PDAS/V16image/solararr:
+total 992
+-rw-r--r--  1 PDAS  staff    1823 Dec 10  1999 case1.nml
+-rw-r--r--  1 PDAS  staff    4303 Jan  4  2000 case1.out
+-rw-r--r--  1 PDAS  staff    1824 Dec 18  1999 case2.nml
+-rw-r--r--  1 PDAS  staff    4303 Jan  4  2000 case2.out
+-rw-r--r--  1 PDAS  staff     275 Jan  3  2006 input.txt
+-rw-r--r--  1 PDAS  staff    2201 Jan  3  2006 msc18558.txt
+-rw-r--r--  1 PDAS  staff    3629 Dec 11  1999 notes.txt
+-rw-r--r--  1 PDAS  staff   23618 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff    2291 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  293109 Jan 29 21:59 solpow.exe
+-rw-r--r--  1 PDAS  staff   37897 Dec 18  1999 solpow.f90
+-rw-r--r--  1 PDAS  staff   46531 Nov 18  2009 solpow.lnx
+-rw-r--r--  1 PDAS  staff   53384 Dec 12  2009 solpow.mac
+
+/Users/PDAS/V16image/sssp:
+total 1208
+-rw-r--r--  1 PDAS  staff    2022 May 11  1999 msc13914.txt
+-rw-r--r--  1 PDAS  staff  607918 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff     749 Oct  1  2011 readme.txt
+
+/Users/PDAS/V16image/tandem:
+total 224
+-rw-r--r--  1 PDAS  staff    1828 Nov  6  2005 lew10743.txt
+-rw-r--r--  1 PDAS  staff  103650 Nov  5  2005 original.src
+-rw-r--r--  1 PDAS  staff     685 Oct  1  2011 readme.txt
+
+/Users/PDAS/V16image/tea201:
+total 544
+-rw-r--r--  1 PDAS  staff     122 Dec 19  2005 input.txt
+-rw-r--r--  1 PDAS  staff    1750 Mar 14  2009 readme.txt
+-rw-r--r--  1 PDAS  staff  266996 Feb 19  2009 tea201.f90
+
+/Users/PDAS/V16image/therm1d:
+total 80
+-rw-r--r--  1 PDAS  staff   2153 Nov  6  2005 lar12057.txt
+-rw-r--r--  1 PDAS  staff  31505 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff    764 Oct  1  2011 readme.txt
+
+/Users/PDAS/V16image/tidy:
+total 952
+-rw-r--r--  1 PDAS  staff    1122 Oct 15  1999 getarg.for
+-rw-r--r--  1 PDAS  staff    4845 Oct 15  1999 read1st.txt
+-rw-r--r--  1 PDAS  staff    2010 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff   69120 Oct 15  1999 tidy.exe
+-rw-r--r--  1 PDAS  staff  180699 Oct 15  1999 tidy.for
+-rw-r--r--  1 PDAS  staff    2203 Oct 15  1999 tidy.inc
+-rw-r--r--  1 PDAS  staff       9 Oct 15  1999 tidy.ini
+-rw-r--r--  1 PDAS  staff  176480 Dec  8  2001 tidy.lnx
+-rw-r--r--  1 PDAS  staff   24131 Oct 15  1999 tidy.txt
+-rw-r--r--  1 PDAS  staff     305 Oct 15  1999 units.inc
+
+/Users/PDAS/V16image/tol:
+total 1488
+-rw-r--r--  1 PDAS  staff   13783 Jul 30  2009 case1.dat
+-rw-r--r--  1 PDAS  staff  155389 Dec 15  2009 case1.out
+-rw-r--r--  1 PDAS  staff    3064 Nov  5  2005 lar13086.txt
+-rw-r--r--  1 PDAS  staff  387324 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    2727 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  188443 Dec 15  2009 tol.f90
+
+/Users/PDAS/V16image/tomars:
+total 280
+-rw-r--r--  1 PDAS  staff   2440 Oct  1  2011 cases.zip
+-rw-r--r--  1 PDAS  staff  17310 Aug  2  2008 mathcal.f90
+-rw-r--r--  1 PDAS  staff  32958 Aug  2  2008 mishap.f90
+-rw-r--r--  1 PDAS  staff    788 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  77299 Aug  4  2008 space.f90
+
+/Users/PDAS/V16image/tps:
+total 2656
+-rw-r--r--  1 PDAS  staff   23571 Nov 30  1996 case1.inp
+-rw-r--r--  1 PDAS  staff    3423 Dec  4  2005 msc18616.txt
+-rw-r--r--  1 PDAS  staff  659259 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff     755 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  667591 Sep  4  2008 tps.for
+
+/Users/PDAS/V16image/turbsf:
+total 40
+-rw-r--r--  1 PDAS  staff  3455 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  3875 Dec 27  2002 sftab.f90
+-rw-r--r--  1 PDAS  staff  2198 Dec 27  2002 sftab.out
+-rw-r--r--  1 PDAS  staff   659 Nov 30  1996 turbsf.cpp
+-rw-r--r--  1 PDAS  staff  1676 Dec 31  1998 turbsf.f90
+
+/Users/PDAS/V16image/vascomp:
+total 3504
+-rw-r--r--  1 PDAS  staff     2023 Nov 30  1996 arc11433.txt
+-rw-r--r--  1 PDAS  staff    21102 Nov  8  2005 case1.inp
+-rw-r--r--  1 PDAS  staff    42564 Nov  8  2005 case1.out
+-rw-r--r--  1 PDAS  staff  1141258 Nov 30  1996 original.src
+-rw-r--r--  1 PDAS  staff      602 Feb 10  2009 readme.txt
+-rw-r--r--  1 PDAS  staff   570314 Jul 20  2008 vascomp.f90
+
+/Users/PDAS/V16image/vasp:
+total 400
+-rw-r--r--  1 PDAS  staff   2430 Dec 11  2005 arc10616.txt
+-rw-r--r--  1 PDAS  staff   1502 Jul  8  2008 example1.for
+-rw-r--r--  1 PDAS  staff    394 Jul  8  2008 example1.inp
+-rw-r--r--  1 PDAS  staff  20063 Jul  8  2008 example1.out
+-rw-r--r--  1 PDAS  staff    701 Jul  8  2008 example2.for
+-rw-r--r--  1 PDAS  staff    929 Jul  8  2008 example2.inp
+-rw-r--r--  1 PDAS  staff   5529 Jul  8  2008 example2.out
+-rw-r--r--  1 PDAS  staff   2314 Jul  8  2008 example3.for
+-rw-r--r--  1 PDAS  staff    573 Jul  8  2008 example3.inp
+-rw-r--r--  1 PDAS  staff    846 Jul  8  2008 example4.for
+-rw-r--r--  1 PDAS  staff    353 Jul  8  2008 example4.inp
+-rw-r--r--  1 PDAS  staff   2432 Jul  8  2008 example5.for
+-rw-r--r--  1 PDAS  staff   1789 Jul  8  2008 example5.inp
+-rw-r--r--  1 PDAS  staff    992 Jul  8  2008 example6.for
+-rw-r--r--  1 PDAS  staff    510 Jul  8  2008 example6.inp
+-rw-r--r--  1 PDAS  staff  51684 Nov 30  1996 orig1.src
+-rw-r--r--  1 PDAS  staff   7185 Nov 30  1996 orig2.src
+-rw-r--r--  1 PDAS  staff   2154 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  55498 Dec 14  2009 vaspproc.for
+
+/Users/PDAS/V16image/viewer:
+total 104
+-rw-r--r--  1 PDAS  staff   2050 Jul 29  1997 lew10482.txt
+-rw-r--r--  1 PDAS  staff  20049 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff   2186 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff  19634 Nov 24  2010 viewer.f90
+-rw-r--r--  1 PDAS  staff    311 Nov 24  2010 viewer.txt
+
+/Users/PDAS/V16image/vlmd:
+total 3736
+-rw-r--r--  1 PDAS  staff  321806 Jan 29 21:59 analysis.exe
+-rw-r--r--  1 PDAS  staff   63858 Jan  4  2005 analysis.f90
+-rw-r--r--  1 PDAS  staff   76596 Feb 21  2009 analysis.lnx
+-rw-r--r--  1 PDAS  staff   92216 Feb 17  2009 analysis.mac
+-rw-r--r--  1 PDAS  staff     400 Jan  4  2005 case1.inp
+-rw-r--r--  1 PDAS  staff  234808 Dec 29  1996 case1.out
+-rw-r--r--  1 PDAS  staff     384 Apr 10  1989 case2.inp
+-rw-r--r--  1 PDAS  staff  234808 Dec 29  1996 case2.out
+-rw-r--r--  1 PDAS  staff     348 Oct 31  1985 case3.inp
+-rw-r--r--  1 PDAS  staff  177509 Dec 29  1996 case3.out
+-rw-r--r--  1 PDAS  staff     388 Apr  7  1989 case4.inp
+-rw-r--r--  1 PDAS  staff  203123 Dec 29  1996 case4.out
+-rw-r--r--  1 PDAS  staff  300994 Jan 29 21:59 geom.exe
+-rw-r--r--  1 PDAS  staff   34788 Dec 13  2008 geom.f90
+-rw-r--r--  1 PDAS  staff   51806 Feb 21  2009 geom.lnx
+-rw-r--r--  1 PDAS  staff   59276 Feb 17  2009 geom.mac
+-rw-r--r--  1 PDAS  staff    1103 Jan  3  2006 input.txt
+-rw-r--r--  1 PDAS  staff    3226 Jan  7  1999 lar15160.txt
+-rw-r--r--  1 PDAS  staff    1655 Jan  4  2005 read.me
+-rw-r--r--  1 PDAS  staff    2893 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff    1080 Dec 31  1996 vlmd.txt
+
+/Users/PDAS/V16image/vmaco:
+total 600
+-rw-r--r--  1 PDAS  staff    2151 Dec 12  2005 msc21275.txt
+-rw-r--r--  1 PDAS  staff  165090 Nov 29  1996 original.src
+-rw-r--r--  1 PDAS  staff    1452 Nov 28  2010 readme.txt
+-rw-r--r--  1 PDAS  staff    3664 Nov 24  2010 test1.f90
+-rw-r--r--  1 PDAS  staff    5513 Mar 15  2009 test1.out
+-rw-r--r--  1 PDAS  staff    3168 Nov 24  2010 test2.f90
+-rw-r--r--  1 PDAS  staff   13968 Mar 15  2009 test2.out
+-rw-r--r--  1 PDAS  staff   96212 Nov 24  2010 vmaco.f90
+
+/Users/PDAS/V16image/vrml:
+total 1088
+-rw-r--r--  1 PDAS  staff    2423 Nov 28  2010 readme.txt
+-rw-r--r--  1 PDAS  staff   12340 Dec 13  1995 tnd4211.wgs
+-rw-r--r--  1 PDAS  staff   11254 Jan  5  2000 tnd4211.wrl
+-rw-r--r--  1 PDAS  staff   10079 Dec 13  1995 tnd7505.wgs
+-rw-r--r--  1 PDAS  staff    9572 Jan  5  2000 tnd7505.wrl
+-rw-r--r--  1 PDAS  staff    7058 Dec 13  1995 wdcase1.wgs
+-rw-r--r--  1 PDAS  staff    7622 Jan  2  2000 wdcase1.wrl
+-rw-r--r--  1 PDAS  staff  314516 Jan 29 21:59 wgs2wrl.exe
+-rw-r--r--  1 PDAS  staff   35526 Nov 24  2010 wgs2wrl.f90
+-rw-r--r--  1 PDAS  staff   60337 Nov 18  2009 wgs2wrl.lnx
+-rw-r--r--  1 PDAS  staff   68688 Nov 18  2009 wgs2wrl.mac
+
+/Users/PDAS/V16image/vucalc:
+total 1440
+-rw-r--r--  1 PDAS  staff   16442 Mar  6  2007 GetMachFromInput.pas
+-rw-r--r--  1 PDAS  staff   82030 Oct 23  1996 calc.c
+-rw-r--r--  1 PDAS  staff   10892 May  4  2005 calcsubs.pas
+-rw-r--r--  1 PDAS  staff   18137 Mar  6  2007 loadmemo.pas
+-rw-r--r--  1 PDAS  staff   16664 Mar  6  2007 main.dfm
+-rw-r--r--  1 PDAS  staff   13142 May  4  2005 main.pas
+-rw-r--r--  1 PDAS  staff   15491 May  4  2005 naca1135.pas
+-rw-r--r--  1 PDAS  staff   12607 Dec 31  2000 rayfanno.pas
+-rw-r--r--  1 PDAS  staff    2505 Oct  1  2011 readme.txt
+-rw-r--r--  1 PDAS  staff     355 Mar  6  2007 vucalc.dpr
+-rw-r--r--  1 PDAS  staff  517120 Jan 27  2010 vucalc.exe
+
+/Users/PDAS/V16image/w12sc3:
+total 7320
+-rw-r--r--  1 PDAS  staff     6670 Nov 30  2005 case1.inp
+-rw-r--r--  1 PDAS  staff      333 Nov 29  2005 files.cmn
+-rw-r--r--  1 PDAS  staff      139 Nov  9  2005 head.cmn
+-rw-r--r--  1 PDAS  staff      146 Dec 19  2005 input.txt
+-rw-r--r--  1 PDAS  staff     2917 Dec 19  2005 lar13239.txt
+-rw-r--r--  1 PDAS  staff      210 Jul  8  2008 option.cmn
+-rw-r--r--  1 PDAS  staff  1227849 Nov 28  2010 original.src
+-rw-r--r--  1 PDAS  staff     1527 Mar 14  2009 readme.txt
+-rw-r--r--  1 PDAS  staff      328 Jul  8  2008 shell.cmn
+-rw-r--r--  1 PDAS  staff   983022 Feb 23  2009 w12sc3.exe
+-rw-r--r--  1 PDAS  staff   450136 Nov 10  2008 w12sc3.f90
+-rw-r--r--  1 PDAS  staff   483945 Feb 23  2009 w12sc3.lnx
+-rw-r--r--  1 PDAS  staff   558088 Feb 17  2009 w12sc3.mac
+
+/Users/PDAS/V16image/wavedrag:
+total 2872
+-rw-r--r--  1 PDAS  staff    1312 Nov 11  2008 case1.inp
+-rw-r--r--  1 PDAS  staff  150058 Nov 11  2008 case1.out
+-rw-r--r--  1 PDAS  staff    9826 Nov 11  2008 case2.inp
+-rw-r--r--  1 PDAS  staff  129722 Nov 11  2008 case2.out
+-rw-r--r--  1 PDAS  staff    6637 Nov 11  2008 case3.inp
+-rw-r--r--  1 PDAS  staff  168679 Nov 11  2008 case3.out
+-rw-r--r--  1 PDAS  staff   26612 Nov 11  2008 case4.inp
+-rw-r--r--  1 PDAS  staff   70029 Nov 11  2008 case4.out
+-rw-r--r--  1 PDAS  staff    1140 Jan  7  2000 cases.txt
+-rw-r--r--  1 PDAS  staff  138068 Jan  4  2002 caseslnx.zip
+-rw-r--r--  1 PDAS  staff  354611 Jan 29 21:59 d2500.exe
+-rw-r--r--  1 PDAS  staff  120570 May  6  2009 d2500.for
+-rw-r--r--  1 PDAS  staff  109737 May  7  2009 d2500.lnx
+-rw-r--r--  1 PDAS  staff  122756 Dec 22  2009 d2500.mac
+-rw-r--r--  1 PDAS  staff   19340 Jan  3  2006 input.txt
+-rw-r--r--  1 PDAS  staff    2386 Jan  5  2001 lar13223.txt
+-rw-r--r--  1 PDAS  staff    2145 Dec 10  1995 output.txt
+-rw-r--r--  1 PDAS  staff    3637 Oct  1  2011 readme.txt
+
+/Users/PDAS/V16image/wingbody:
+total 3152
+-rw-r--r--  1 PDAS  staff   89927 Jan  4  2002 caseslnx.zip
+-rw-r--r--  1 PDAS  staff    3220 Oct  2  2011 readme.txt
+-rw-r--r--  1 PDAS  staff     798 Dec  6  1995 tnd4211.inp
+-rw-r--r--  1 PDAS  staff  340845 Jan  7  1999 tnd4211.out
+-rw-r--r--  1 PDAS  staff     956 Jan  2  2000 tnd7505.inp
+-rw-r--r--  1 PDAS  staff  122875 Jan  2  2000 tnd7505.out
+-rw-r--r--  1 PDAS  staff     338 Dec  1  1995 wdcase1.inp
+-rw-r--r--  1 PDAS  staff   37076 Jan  7  1999 wdcase1.out
+-rw-r--r--  1 PDAS  staff  620605 Dec 17  2009 wingbody.exe
+-rw-r--r--  1 PDAS  staff  104678 Apr 27  2009 wingbody.for
+-rw-r--r--  1 PDAS  staff  111070 May  1  2009 wingbody.lnx
+-rw-r--r--  1 PDAS  staff  137044 Dec 22  2009 wingbody.mac
+-rw-r--r--  1 PDAS  staff   12942 Dec 11  1995 wingbody.txt

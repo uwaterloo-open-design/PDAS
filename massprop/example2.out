@@ -1,0 +1,130 @@
+ INPUT DATA
+ NODE 1
+ 1 15    0 0 0 0 0
+ 0 0 0   0 0 0   0 0 0
+ NODE 2
+ 1 15    0 0 0 0 0
+ 10 0 0   0 0 0   0 0 0
+ NODE 3
+ 1 15    0 0 0 0 0
+ 10 10 0   0 0 0   0 0 0
+ NODE 4
+ 1 15    0 0 0 0 0
+ 0 10 0   0 0 0   0 0 0
+ NODE 5
+ 1 15    0 0 0 0 0
+ 0 10 10   0 0 0   0 0 0
+ NODE 6
+ 1 15    0 0 0 0 0
+ 0 0 10   0 0 0   0 0 0
+ NODE 7
+ 1 15    0 0 0 0 0
+ 10 0 10   0 0 0   0 0 0
+ NODE 8
+ 1 15    0 0 0 0 0
+ 10 10 10   0 0 0   0 0 0
+ NODE 9
+ 1 15    0 0 0 0 0
+ 10 10 20   0 0 0   0 0 0
+ NODE 10
+ 1 15    0 0 0 0 0
+ 0 10 20   0 0 0   0 0 0
+ NODE 11
+ 1 15    0 0 0 0 0
+ 0 0 20   0 0 0   0 0 0
+ NODE 12
+ 1 15    0 0 0 0 0
+ 10 0 20   0 0 0   0 0 0
+ NODE 13
+ 1 15    0 0 0 0 0
+ 5 5 30   0 0 0   0 0 0
+          13  objects read from input file
+    COMPONENT  DATA  LISTED  BELOW
+ Component            1    NODE 1
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        0.00000E+00  0.00000E+00  0.00000E+00
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component            2    NODE 2
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        1.00000E+01  0.00000E+00  0.00000E+00
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component            3    NODE 3
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        1.00000E+01  1.00000E+01  0.00000E+00
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component            4    NODE 4
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        0.00000E+00  1.00000E+01  0.00000E+00
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component            5    NODE 5
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        0.00000E+00  1.00000E+01  1.00000E+01
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component            6    NODE 6
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        0.00000E+00  0.00000E+00  1.00000E+01
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component            7    NODE 7
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        1.00000E+01  0.00000E+00  1.00000E+01
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component            8    NODE 8
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        1.00000E+01  1.00000E+01  1.00000E+01
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component            9    NODE 9
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        1.00000E+01  1.00000E+01  2.00000E+01
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component           10    NODE 10
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        0.00000E+00  1.00000E+01  2.00000E+01
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component           11    NODE 11
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        0.00000E+00  0.00000E+00  2.00000E+01
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component           12    NODE 12
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        1.00000E+01  0.00000E+00  2.00000E+01
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+ Component           13    NODE 13
+Weight, lbs.        1.50000E+01
+IxxCO,IyyCO,IzzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+xcg,ycg,zcg=        5.00000E+00  5.00000E+00  3.00000E+01
+IxyCO,IyzCO,IxzCO=  0.00000E+00  0.00000E+00  0.00000E+00
+  
+  SYSTEM DATA LISTED BELOW
+  WT=LBS, INERTIAS=SLUGS FT SQUARED
+  C.G.=INS, SECOND MOMENT=SLUG FT SQUARED)
+  
+ System weight     1.95000E+02
+ Ixx0,Iyy0,Izz0    1.14152E+01  1.14152E+01  4.04793E+00
+ xbap,ybar,zbar    5.00000E+00  5.00000E+00  1.15385E+01
+  
+ Ixx,Iyy,Izz   4.75787E+00  4.75787E+00  1.94301E+00
+ Ixy,Ixz,Iyz   3.80826E-18  2.01933E-18 -2.01933E-18
+  
+  inertias (eigenvalues) about system principal axes with axis
+  direction cosines (eigenvectors) relating the principal axes
+  to the x, y, and z system axes in that sequence
+  
+  
+ eigenvalue    1    1.94301E+00
+ eigenvector   1    0.00000E+00    0.00000E+00    1.00000E+00
+ eigenvalue    2    4.75787E+00
+ eigenvector   2    7.07107E-01   -7.07107E-01    0.00000E+00
+ eigenvalue    3    4.75787E+00
+ eigenvector   3    7.07107E-01    7.07107E-01    0.00000E+00

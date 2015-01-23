@@ -1,0 +1,431 @@
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.bat readme16.out                                /y 
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\2wgs\V16\readme*.txt     /y 
+readme16.out
+C:\Users\PDAS\PDAS\2wgs\V16\readme1.txt
+C:\Users\PDAS\PDAS\2wgs\V16\readme2.txt
+C:\Users\PDAS\PDAS\2wgs\V16\readme3.txt
+C:\Users\PDAS\PDAS\2wgs\V16\readme4.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\3view\V16\readme.txt     /y 
+readme16.out
+C:\Users\PDAS\PDAS\3view\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\abaxi\V16\readme.txt     /y 
+readme16.out
+C:\Users\PDAS\PDAS\abaxi\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\ablate\readme.txt        /y 
+readme16.out
+C:\Users\PDAS\PDAS\ablate\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\aipp\readme.txt          /y 
+readme16.out
+C:\Users\PDAS\PDAS\aipp\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\anduct\V16\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\anduct\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\aofa\readme.txt          /y 
+readme16.out
+C:\Users\PDAS\PDAS\aofa\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\aries\readme.txt         /y 
+readme16.out
+C:\Users\PDAS\PDAS\aries\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\atc\V16\readme.txt       /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\atmos\V16\readme.txt     /y 
+readme16.out
+C:\Users\PDAS\PDAS\atmos\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\boom\V16\readme.txt      /y 
+readme16.out
+C:\Users\PDAS\PDAS\boom\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\cas2d\readme.txt         /y 
+readme16.out
+C:\Users\PDAS\PDAS\cas2d\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\celest\readme.txt        /y 
+readme16.out
+C:\Users\PDAS\PDAS\celest\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\coldarc\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\coldarc\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\conplot\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\conplot\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\contour\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\contour\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>PAUSE
+Press any key to continue . . . 
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\\Users\PDASpdas\corel\readme.txt         /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\datcom\V16\readme.txt    /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\diffprob\readme.txt      /y 
+readme16.out
+C:\Users\PDAS\PDAS\diffprob\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\diverge\V16\readme.txt   /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\elastic\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\elastic\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\eppler\V16\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\eppler\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\exhaust\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\exhaust\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\fairdata\V16\readme.txt  /y 
+readme16.out
+C:\Users\PDAS\PDAS\fairdata\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\fluid\V15\readme.txt     /y 
+readme16.out
+C:\Users\PDAS\PDAS\fluid\V15\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\PDAS\flutter\readme.txt                  /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\fmm\readme.txt           /y 
+readme16.out
+C:\Users\PDAS\PDAS\fmm\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\fsd\readme.txt           /y 
+readme16.out
+C:\Users\PDAS\PDAS\fsd\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\gasp\V15\readme.txt      /y 
+readme16.out
+C:\Users\PDAS\PDAS\gasp\V15\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>PAUSE
+Press any key to continue . . . 
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\getmac\V16\readme.txt    /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\goptics\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\goptics\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\grape\readme.txt         /y 
+readme16.out
+C:\Users\PDAS\PDAS\grape\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\hlp\V16\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\hlp\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\hyper\V16\readme.txt     /y 
+readme16.out
+C:\Users\PDAS\PDAS\hyper\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\hyper\igor\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\hyper\igor\README.TXT
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\induced\V16\readme.txt   /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\inlet\V16\readme.txt     /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\ipeg\readme.txt          /y 
+readme16.out
+C:\Users\PDAS\PDAS\ipeg\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\kernel\V16\readme.txt    /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\lineint\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\lineint\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>PAUSE
+Press any key to continue . . . 
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\linIntrp\readme.txt      /y 
+readme16.out
+C:\Users\PDAS\PDAS\linIntrp\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\longlib\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\longlib\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\makewgs\V16\readme.txt   /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\massprop\V16\readme.txt  /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\mislift\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\mislift\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\monitor\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\monitor\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\naca1135\readme.txt      /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\naca456\V16\readme.txt   /y 
+readme16.out
+C:\Users\PDAS\PDAS\naca456\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\nastplt\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\nastplt\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\nseg\readme.txt          /y 
+readme16.out
+C:\Users\PDAS\PDAS\nseg\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\optim\readme.txt         /y 
+readme16.out
+C:\Users\PDAS\PDAS\optim\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\opttraj\V16\readme.txt   /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\oracls\V16\readme.txt    /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\pablo\readme.txt         /y 
+readme16.out
+C:\Users\PDAS\PDAS\pablo\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\panair\V16\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\panair\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\panin\V16\readme.txt     /y 
+readme16.out
+C:\Users\PDAS\PDAS\panin\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\pilot\readme.txt         /y 
+readme16.out
+C:\Users\PDAS\PDAS\pilot\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\quartic\V16\readme.txt   /y 
+readme16.out
+C:\Users\PDAS\PDAS\quartic\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>PAUSE
+Press any key to continue . . . 
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\quiz\readme.txt          /y 
+readme16.out
+C:\Users\PDAS\PDAS\quiz\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\rblade\readme.txt        /y 
+readme16.out
+C:\Users\PDAS\PDAS\rblade\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\relay\readme.txt         /y 
+readme16.out
+C:\Users\PDAS\PDAS\relay\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\rogers\V16\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\rogers\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\rotor\readme.txt         /y 
+readme16.out
+C:\Users\PDAS\PDAS\rotor\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\rspline\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\rspline\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\shifarc\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\shifarc\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\sneak\readme.txt         /y 
+readme16.out
+C:\Users\PDAS\PDAS\sneak\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\solararr\V16\readme.txt  /y 
+readme16.out
+C:\Users\PDAS\PDAS\solararr\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\sssp\V16\readme.txt      /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\tandem\readme.txt        /y 
+readme16.out
+C:\Users\PDAS\PDAS\tandem\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\tea201\V16\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\tea201\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\therm1d\readme.txt       /y 
+readme16.out
+C:\Users\PDAS\PDAS\therm1d\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\tidy\readme.txt          /y 
+readme16.out
+C:\Users\PDAS\PDAS\tidy\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\tol\readme.txt           /y 
+readme16.out
+C:\Users\PDAS\PDAS\tol\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\tomars\readme.txt        /y 
+readme16.out
+C:\Users\PDAS\PDAS\tomars\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\tps\readme.txt           /y 
+readme16.out
+C:\Users\PDAS\PDAS\tps\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\turbsf\V16\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\turbsf\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\vascomp\V16\readme.txt   /y 
+readme16.out
+C:\Users\PDAS\PDAS\vascomp\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\vasp\V16\readme.txt      /y 
+readme16.out
+C:\Users\PDAS\PDAS\vasp\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\viewer\V16\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\viewer\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\vlmd\V16\readme.txt      /y 
+readme16.out
+C:\Users\PDAS\PDAS\vlmd\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\vmaco\V16\readme.txt     /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\vrml\V16\readme.txt      /y 
+readme16.out
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\vucalc\readme.txt        /y 
+readme16.out
+C:\Users\PDAS\PDAS\vucalc\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\w12sc3\V16\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\w12sc3\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\wavedrag\d2500\V16\readme.txt    /y 
+readme16.out
+C:\Users\PDAS\PDAS\wavedrag\d2500\V16\readme.txt
+        1 file(s) copied.
+
+c:\Users\PDAS\PDAS\cdrom>COPY readme16.out+C:\Users\PDAS\PDAS\wingbody\V16\readme.txt  /y 
+readme16.out
+C:\Users\PDAS\PDAS\wingbody\V16\readme.txt
+        1 file(s) copied.
